@@ -1,0 +1,17 @@
+osmfilter Filter-data/caffe.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/caffe.csv
+
+osmfilter Filter-data/attraction.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/attraction.csv
+
+osmfilter Filter-data/fountain.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/fountain.csv
+
+osmfilter Filter-data/hospital.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/hospital.csv
+
+osmfilter Filter-data/hostel.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/hostel.csv
+
+osmfilter Filter-data/hotel.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/hotel.csv
+
+osmfilter Filter-data/motel.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/motel.csv
+
+osmfilter Filter-data/parking.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/parking.csv
+
+osmfilter Filter-data/restaurant.osm | osmconvert64 - --all-to-nodes --csv="@id @lon @lat name" --csv-headline --csv-separator="," -o=Filter-data-csv/restaurant.csv

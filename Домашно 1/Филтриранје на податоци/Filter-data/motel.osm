@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9846" minlon="21.394" maxlat="42.0063" maxlon="21.4518"/>
+	<node id="4686742489" lat="42.0033332" lon="21.4424029" version="1" timestamp="2017-02-15T11:27:48Z" changeset="46104023" uid="4570913" user="Μπλενταρ Χαληντρη">
+		<tag k="tourism" v="motel"/>
+	</node>
+</osm>

@@ -1,0 +1,17 @@
+D:\OsmFilter>osmfilter map.osm --keep="amenity=caffe" --drop="access=no" --ignore-dependencies -o=Filter-data/caffe.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="tourism=motel" --drop="access=no" --ignore-dependencies -o=Filter-data/motel.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="amenity=parking" --drop="access=no" --ignore-dependencies -o=Filter-data/parking.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="tourism=hostel" --drop="access=no" --ignore-dependencies -o=Filter-data/hostel.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="tourism=hotel" --drop="access=no" --ignore-dependencies -o=Filter-data/hotel.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="amenity=restaurant" --drop="access=no" --ignore-dependencies -o=Filter-data/restaurant.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="amenity=hospital" --drop="access=no" --ignore-dependencies -o=Filter-data/hospital.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="tourism=attraction" --drop="access=no" --ignore-dependencies -o=Filter-data/attraction.osm
+
+D:\OsmFilter>osmfilter map.osm --keep="amenity=fountain" --drop="access=no" --ignore-dependencies -o=Filter-data/fountain.osm

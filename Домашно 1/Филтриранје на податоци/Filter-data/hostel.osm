@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9846" minlon="21.394" maxlat="42.0063" maxlon="21.4518"/>
+	<node id="418904827" lat="41.9944128" lon="21.4063454" version="5" timestamp="2017-09-10T19:02:39Z" changeset="51917124" uid="6632749" user="martinkozle">
+		<tag k="name" v="Вук;Никем"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="1381585163" lat="41.9849555" lon="21.4321318" version="2" timestamp="2017-11-13T16:10:45Z" changeset="53744764" uid="5072781" user="Modern Chan">
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Томе Арсовски"/>
+		<tag k="name" v="Сити Хостел"/>
+		<tag k="name:en" v="City Hostel"/>
+		<tag k="phone" v="+389 70 226 165"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="4178297510" lat="41.9901385" lon="21.4061845" version="1" timestamp="2016-05-11T11:30:16Z" changeset="39239783" uid="131662" user="borces">
+		<tag k="name" v="Арс"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="4358692689" lat="41.994574" lon="21.4417693" version="2" timestamp="2021-10-25T16:00:43Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="kej"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="4913493416" lat="41.9911246" lon="21.4219417" version="1" timestamp="2017-06-13T19:22:09Z" changeset="49509728" uid="172147" user="&#60;0174">
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="The Comfy Hostel 2"/>
+		<tag k="rooms" v="3"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="5293587921" lat="41.9854412" lon="21.4320007" version="2" timestamp="2019-07-30T11:03:05Z" changeset="72806276" uid="10189172" user="wwwnet">
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:street" v="Томе Арсовски"/>
+		<tag k="name" v="시티 호스텔"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="5549667531" lat="41.9890144" lon="21.4421007" version="1" timestamp="2018-04-13T08:07:36Z" changeset="58056648" uid="131662" user="borces">
+		<tag k="name" v="Guest House Station"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="5549672423" lat="41.9891739" lon="21.4432433" version="1" timestamp="2018-04-13T08:11:44Z" changeset="58056648" uid="131662" user="borces">
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Valentin 2"/>
+		<tag k="opening_hours" v="14:00-22:00"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="wheelchair" v="no"/>
+	</node>
+	<node id="6040732548" lat="41.999111" lon="21.4159229" version="2" timestamp="2018-12-07T08:54:52Z" changeset="65261843" uid="480208" user="Svetle">
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:housenumber" v="14a"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Petar Pop Arsov"/>
+		<tag k="name" v="Nordic Hostel"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="website" v="https://nordichostel.com"/>
+	</node>
+	<node id="6054048497" lat="41.9916244" lon="21.4451119" version="1" timestamp="2018-11-12T06:20:10Z" changeset="64393596" uid="9047835" user="YunDi88">
+		<tag k="name:en" v="Hostel Amigo"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="6514898286" lat="41.9903017" lon="21.4159932" version="2" timestamp="2021-12-14T23:21:58Z" changeset="114942706" uid="8525987" user="Anoesis">
+		<tag k="addr:housenumber" v="41"/>
+		<tag k="addr:street" v="Елисие Поповски Марко"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name:en" v="The Yard Guesthouse"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="6821158690" lat="41.9998152" lon="21.4377681" version="4" timestamp="2022-11-11T07:05:36Z" changeset="128762290" uid="3423733" user="A_Ku">
+		<tag k="contact:facebook" v="100063795750009"/>
+		<tag k="contact:instagram" v="mickitos"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Hostel"/>
+		<tag k="name:en" v="Hostel Mickitos"/>
+		<tag k="phone" v="+389 71 396 747"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="website" v="https://mickitos.com/"/>
+	</node>
+	<node id="6888000985" lat="41.9901859" lon="21.4365173" version="1" timestamp="2019-10-17T06:38:06Z" changeset="75814259" uid="9514036" user="Dmitrii Trunov">
+		<tag k="name:en" v="Get Inn"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<node id="10174168955" lat="41.9965394" lon="21.4428453" version="1" timestamp="2022-11-10T18:40:47Z" changeset="128746392" uid="154757" user="Tr4sK">
+		<tag k="name" v="Hostel Log Inn"/>
+		<tag k="tourism" v="hostel"/>
+	</node>
+	<way id="141969825" version="5" timestamp="2021-08-25T07:24:43Z" changeset="110211012" uid="13991231" user="ShantiSkopje">
+		<nd ref="1553919822"/>
+		<nd ref="1553919820"/>
+		<nd ref="9034095651"/>
+		<nd ref="1553919818"/>
+		<nd ref="1553919819"/>
+		<nd ref="3099334930"/>
+		<nd ref="3099334929"/>
+		<nd ref="1553919822"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="11"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Раде Јовчевски Корчагин"/>
+		<tag k="air_conditioning" v="yes"/>
+		<tag k="building" v="house"/>
+		<tag k="guest_house" v="hostel"/>
+		<tag k="internet_access" v="yes"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Shanti Hostel"/>
+		<tag k="name:en" v="Shanti Hostel"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="rooms" v="5"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="website" v="https://www.shantihostel.com/"/>
+	</way>
+	<way id="176158370" version="3" timestamp="2016-04-17T17:56:01Z" changeset="38648140" uid="1468248" user="TheBlackMan">
+		<nd ref="1867138564"/>
+		<nd ref="1867138515"/>
+		<nd ref="1867138488"/>
+		<nd ref="1867138533"/>
+		<nd ref="1867138530"/>
+		<nd ref="1867138521"/>
+		<nd ref="1867138564"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Hostel 42"/>
+		<tag k="tourism" v="hostel"/>
+	</way>
+	<way id="285071299" version="3" timestamp="2017-02-26T15:46:44Z" changeset="46418619" uid="4358750" user="mariegorman">
+		<nd ref="2887575809"/>
+		<nd ref="2887575810"/>
+		<nd ref="2887575811"/>
+		<nd ref="2887575829"/>
+		<nd ref="2887575809"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="25"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Пролет"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Младински Хостел"/>
+		<tag k="name:en" v="Youth Hostel Macedonia"/>
+		<tag k="tourism" v="hostel"/>
+	</way>
+	<way id="305647154" version="3" timestamp="2022-04-29T18:16:29Z" changeset="120359813" uid="13967439" user="DaisyMaisy">
+		<nd ref="3103097492"/>
+		<nd ref="3103097493"/>
+		<nd ref="3103097494"/>
+		<nd ref="3103097495"/>
+		<nd ref="3103097492"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="22"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Горан Стефановски"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Urban Hostel"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="website" v="http://www.urbanhostel.com.mk/"/>
+	</way>
+	<way id="411111683" version="1" timestamp="2016-04-17T17:55:57Z" changeset="38648140" uid="1468248" user="TheBlackMan">
+		<nd ref="4128439022"/>
+		<nd ref="4128439042"/>
+		<nd ref="4128439027"/>
+		<nd ref="4128439010"/>
+		<nd ref="4128439022"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:street" v="Булевар Илинден"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Unity Hostel"/>
+		<tag k="phone" v="+389 75 942494"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="website" v="unityhostel.mk"/>
+	</way>
+	<way id="445236484" version="3" timestamp="2017-02-26T15:59:54Z" changeset="46418907" uid="4358750" user="mariegorman">
+		<nd ref="4426896846"/>
+		<nd ref="4188951306"/>
+		<nd ref="4426896829"/>
+		<nd ref="4426902664"/>
+		<nd ref="4426902665"/>
+		<nd ref="4426902666"/>
+		<nd ref="4426902667"/>
+		<nd ref="4426896842"/>
+		<nd ref="4426896846"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:housenumber" v="102g"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Стив Наумов"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Get Inn Skopje Hostel"/>
+		<tag k="phone" v="+389 2 3136 241"/>
+		<tag k="smoking" v="outside"/>
+		<tag k="tourism" v="hostel"/>
+		<tag k="website" v="http://getinnskopjehostel.com/"/>
+	</way>
+	<way id="601116170" version="1" timestamp="2018-06-23T18:10:27Z" changeset="60106276" uid="4846445" user="Václav Fanta">
+		<nd ref="5713960735"/>
+		<nd ref="5713960734"/>
+		<nd ref="5713960733"/>
+		<nd ref="5713960732"/>
+		<nd ref="5713960735"/>
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:street" v="Vardarska"/>
+		<tag k="building" v="yes"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Hostel Kalonis Central"/>
+		<tag k="tourism" v="hostel"/>
+	</way>
+</osm>

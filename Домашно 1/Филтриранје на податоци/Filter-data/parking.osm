@@ -1,0 +1,3258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9846" minlon="21.394" maxlat="42.0063" maxlon="21.4518"/>
+	<node id="376888383" lat="41.9962482" lon="21.4280449" version="5" timestamp="2019-09-12T01:42:21Z" changeset="74375906" uid="361707" user="0xF00F">
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+	</node>
+	<node id="386746863" lat="41.9967331" lon="21.436413" version="10" timestamp="2018-05-02T13:50:19Z" changeset="58615806" uid="131662" user="borces">
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="level" v="-1"/>
+		<tag k="name" v="Паркинг МОБ"/>
+		<tag k="name:en" v="MOB Carpark"/>
+		<tag k="parking" v="underground"/>
+	</node>
+	<node id="446278123" lat="41.9934009" lon="21.4262775" version="2" timestamp="2012-08-10T18:12:54Z" changeset="12682983" uid="131662" user="borces">
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+	</node>
+	<node id="696669607" lat="41.9873374" lon="21.4363786" version="2" timestamp="2010-04-14T12:40:16Z" changeset="4422108" uid="204181" user="jokermkd">
+		<tag k="amenity" v="parking"/>
+	</node>
+	<node id="892589214" lat="41.9928198" lon="21.4415512" version="6" timestamp="2016-10-08T21:28:59Z" changeset="42742859" uid="118021" user="maggot27">
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Веро Центар"/>
+		<tag k="parking" v="underground"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="918588582" lat="41.9881824" lon="21.4314928" version="1" timestamp="2010-09-19T16:39:10Z" changeset="5821640" uid="348931" user="[ilin]">
+		<tag k="amenity" v="parking"/>
+	</node>
+	<node id="960087107" lat="42.0029173" lon="21.450455" version="4" timestamp="2012-08-10T18:12:54Z" changeset="12682983" uid="131662" user="borces">
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="Паркинг за вработени"/>
+	</node>
+	<node id="1226193401" lat="41.9920661" lon="21.4309792" version="2" timestamp="2012-08-10T18:12:54Z" changeset="12682983" uid="131662" user="borces">
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+	</node>
+	<node id="1226193402" lat="41.9921857" lon="21.4325563" version="2" timestamp="2012-08-10T18:12:54Z" changeset="12682983" uid="131662" user="borces">
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+	</node>
+	<node id="1860583329" lat="41.9980638" lon="21.4294059" version="1" timestamp="2012-08-10T18:12:51Z" changeset="12682983" uid="131662" user="borces">
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+	</node>
+	<node id="3208478528" lat="41.9953667" lon="21.4031136" version="3" timestamp="2021-05-27T14:48:19Z" changeset="105433195" uid="13404652" user="Stefan Zlatinov">
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</node>
+	<node id="4308211306" lat="41.9846856" lon="21.4386435" version="1" timestamp="2016-07-18T02:38:27Z" changeset="40809511" uid="4116885" user="TheNiceGuy">
+		<tag k="amenity" v="parking"/>
+	</node>
+	<node id="5176232882" lat="41.9928749" lon="21.4195536" version="3" timestamp="2019-09-12T01:45:37Z" changeset="74375900" uid="361707" user="0xF00F">
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Зебра"/>
+		<tag k="parking" v="multi-storey"/>
+	</node>
+	<node id="6111410917" lat="41.9856301" lon="21.4151765" version="1" timestamp="2018-12-02T19:20:04Z" changeset="65103379" uid="144213" user="ZeiP">
+		<tag k="amenity" v="parking"/>
+	</node>
+	<node id="7878409528" lat="41.9851805" lon="21.439362" version="1" timestamp="2020-09-05T13:21:00Z" changeset="90453182" uid="11740571" user="Krakathon">
+		<tag k="amenity" v="parking"/>
+		<tag k="layer" v="-1"/>
+		<tag k="parking" v="underground"/>
+	</node>
+	<node id="7878409529" lat="41.9857686" lon="21.4386404" version="1" timestamp="2020-09-05T13:21:00Z" changeset="90453182" uid="11740571" user="Krakathon">
+		<tag k="amenity" v="parking"/>
+	</node>
+	<node id="8561199939" lat="41.9929943" lon="21.4138255" version="1" timestamp="2021-03-25T17:10:33Z" changeset="101735493" uid="7140745" user="MatejMecka">
+		<tag k="amenity" v="parking"/>
+		<tag k="layer" v="-1"/>
+		<tag k="parking" v="underground"/>
+	</node>
+	<way id="16537219" version="5" timestamp="2019-02-21T20:57:22Z" changeset="67443610" uid="6970734" user="Dekacc">
+		<nd ref="170650343"/>
+		<nd ref="170650344"/>
+		<nd ref="6294352432"/>
+		<nd ref="170650345"/>
+		<nd ref="170650343"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="16544156" version="12" timestamp="2019-08-20T21:43:31Z" changeset="73557269" uid="1730904" user="donovaly">
+		<nd ref="170716212"/>
+		<nd ref="170716214"/>
+		<nd ref="1866038537"/>
+		<nd ref="1866038520"/>
+		<nd ref="1866038512"/>
+		<nd ref="1866038524"/>
+		<nd ref="1866038493"/>
+		<nd ref="6727968158"/>
+		<nd ref="170716215"/>
+		<nd ref="170716212"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Паркинг на Рамстор"/>
+		<tag k="name:en" v="Ramstore carpark"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="32490191" version="8" timestamp="2019-08-22T21:54:15Z" changeset="73643047" uid="1730904" user="donovaly">
+		<nd ref="365291497"/>
+		<nd ref="365291498"/>
+		<nd ref="365291499"/>
+		<nd ref="2076315888"/>
+		<nd ref="365291342"/>
+		<nd ref="365291497"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="Јп Градски Паркинг - Паркиралиште &#34;Градска Болница&#34;"/>
+		<tag k="name:mk" v="Јп Градски Паркинг - Паркиралиште &#34;Градска Болница&#34;"/>
+		<tag k="operator" v="ЈП Градски Паркинг"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="32530311" version="6" timestamp="2021-05-25T08:48:09Z" changeset="105276021" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="365813726"/>
+		<nd ref="365813727"/>
+		<nd ref="365813728"/>
+		<nd ref="480913466"/>
+		<nd ref="365813731"/>
+		<nd ref="365813732"/>
+		<nd ref="365813726"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="32530439" version="6" timestamp="2021-05-28T16:53:05Z" changeset="105504378" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="365819008"/>
+		<nd ref="365819010"/>
+		<nd ref="365819011"/>
+		<nd ref="365819012"/>
+		<nd ref="5296310531"/>
+		<nd ref="365819008"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="32530498" version="9" timestamp="2022-08-26T11:30:12Z" changeset="125402971" uid="16377898" user="TwistedSnake">
+		<nd ref="365822683"/>
+		<nd ref="5260247986"/>
+		<nd ref="5260247985"/>
+		<nd ref="365822685"/>
+		<nd ref="365822686"/>
+		<nd ref="5260247987"/>
+		<nd ref="5260247988"/>
+		<nd ref="444829538"/>
+		<nd ref="365822683"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity:disabled" v="yes"/>
+		<tag k="capacity:parent" v="yes"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Паркинг Зона Ц"/>
+		<tag k="name:en" v="Parking Zone C"/>
+		<tag k="name:mk" v="Паркинг Зона Ц"/>
+		<tag k="operator" v="ЈП Градски Паркинг - Скопје www.gradskiparking.com.mk"/>
+		<tag k="parking" v="surface"/>
+		<tag k="payment:sms" v="yes"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="32560557" version="10" timestamp="2019-09-12T01:45:13Z" changeset="74375922" uid="361707" user="0xF00F">
+		<nd ref="366209387"/>
+		<nd ref="5080693360"/>
+		<nd ref="5080693358"/>
+		<nd ref="366209389"/>
+		<nd ref="366209390"/>
+		<nd ref="366209391"/>
+		<nd ref="5080693357"/>
+		<nd ref="366209387"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+	</way>
+	<way id="32652980" version="6" timestamp="2022-10-03T22:45:42Z" changeset="126961982" uid="6970734" user="Dekacc">
+		<nd ref="367092886"/>
+		<nd ref="4110084497"/>
+		<nd ref="4110084496"/>
+		<nd ref="4110084495"/>
+		<nd ref="6501316353"/>
+		<nd ref="4110084494"/>
+		<nd ref="10073982785"/>
+		<nd ref="367092889"/>
+		<nd ref="367092886"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="32687695" version="2" timestamp="2011-05-22T11:32:25Z" changeset="8215108" uid="109035" user="Teddy80">
+		<nd ref="367838569"/>
+		<nd ref="367838570"/>
+		<nd ref="367838571"/>
+		<nd ref="367838572"/>
+		<nd ref="367838569"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="32689630" version="8" timestamp="2022-11-07T20:12:24Z" changeset="128612289" uid="11740571" user="Krakathon">
+		<nd ref="367860765"/>
+		<nd ref="367860766"/>
+		<nd ref="367860767"/>
+		<nd ref="367860768"/>
+		<nd ref="10167415298"/>
+		<nd ref="367860765"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Паркинг Зона Ц"/>
+		<tag k="name:en" v="Parking Zone C"/>
+		<tag k="name:mk" v="Паркинг Зона Ц"/>
+		<tag k="operator" v="ЈП Градски Паркинг - Скопје www.gradskiparking.com.mk"/>
+		<tag k="parking" v="lane"/>
+	</way>
+	<way id="32787724" version="3" timestamp="2017-02-22T05:56:05Z" changeset="46295575" uid="1723055" user="Johnny Mapperseed">
+		<nd ref="369390358"/>
+		<nd ref="369390360"/>
+		<nd ref="369390361"/>
+		<nd ref="369390363"/>
+		<nd ref="369390365"/>
+		<nd ref="369390367"/>
+		<nd ref="369390369"/>
+		<nd ref="369390371"/>
+		<nd ref="369390372"/>
+		<nd ref="369390374"/>
+		<nd ref="4698491215"/>
+		<nd ref="4698491213"/>
+		<nd ref="4698491229"/>
+		<nd ref="4698491228"/>
+		<nd ref="369390358"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="32913544" version="7" timestamp="2016-04-21T13:41:27Z" changeset="38757518" uid="1468248" user="TheBlackMan">
+		<nd ref="3834534478"/>
+		<nd ref="446055408"/>
+		<nd ref="446055409"/>
+		<nd ref="367098535"/>
+		<nd ref="1874411904"/>
+		<nd ref="367098534"/>
+		<nd ref="367098541"/>
+		<nd ref="370662336"/>
+		<nd ref="370662327"/>
+		<nd ref="370662330"/>
+		<nd ref="3834534478"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity" v="200"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Нова Македонија"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="34321921" version="5" timestamp="2021-11-20T15:36:38Z" changeset="114031506" uid="7140745" user="MatejMecka">
+		<nd ref="393714195"/>
+		<nd ref="393714196"/>
+		<nd ref="393714197"/>
+		<nd ref="393714198"/>
+		<nd ref="393714195"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="34321960" version="5" timestamp="2022-06-07T08:55:36Z" changeset="122060551" uid="7140745" user="MatejMecka">
+		<nd ref="393715038"/>
+		<nd ref="393715039"/>
+		<nd ref="393715045"/>
+		<nd ref="393715046"/>
+		<nd ref="393715038"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="34428101" version="3" timestamp="2019-01-19T21:11:46Z" changeset="66463511" uid="6970734" user="Dekacc">
+		<nd ref="395609143"/>
+		<nd ref="6221890731"/>
+		<nd ref="6221890730"/>
+		<nd ref="6221890729"/>
+		<nd ref="395609145"/>
+		<nd ref="395609148"/>
+		<nd ref="6221890725"/>
+		<nd ref="6221890726"/>
+		<nd ref="4127703145"/>
+		<nd ref="4127703147"/>
+		<nd ref="395609150"/>
+		<nd ref="6221890727"/>
+		<nd ref="6221890728"/>
+		<nd ref="395609153"/>
+		<nd ref="395609143"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="37626712" version="5" timestamp="2018-10-03T23:49:32Z" changeset="63177249" uid="8905960" user="bojankarkalasev">
+		<nd ref="441057668"/>
+		<nd ref="5254291324"/>
+		<nd ref="441057670"/>
+		<nd ref="5952657747"/>
+		<nd ref="5254291323"/>
+		<nd ref="441057672"/>
+		<nd ref="441057668"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="name" v="Паркинг ФЕИТ"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="37626714" version="4" timestamp="2017-11-11T20:42:48Z" changeset="53699882" uid="6970734" user="Dekacc">
+		<nd ref="441057675"/>
+		<nd ref="5223756507"/>
+		<nd ref="441057676"/>
+		<nd ref="441057677"/>
+		<nd ref="441057674"/>
+		<nd ref="441057675"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity:disabled" v="unknown"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="37626715" version="5" timestamp="2017-12-19T22:59:54Z" changeset="54773226" uid="6970734" user="Dekacc">
+		<nd ref="441057678"/>
+		<nd ref="441057679"/>
+		<nd ref="441057680"/>
+		<nd ref="441057681"/>
+		<nd ref="441057678"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="name" v="Паркинг Технолошко-металуршки факултет"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="37997613" version="2" timestamp="2012-08-11T01:07:54Z" changeset="12686584" uid="131662" user="borces">
+		<nd ref="446278149"/>
+		<nd ref="446278150"/>
+		<nd ref="446278151"/>
+		<nd ref="446278152"/>
+		<nd ref="446278149"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="38060472" version="3" timestamp="2018-06-02T22:00:35Z" changeset="59495446" uid="8324529" user="xakter">
+		<nd ref="447582501"/>
+		<nd ref="3099334940"/>
+		<nd ref="447582502"/>
+		<nd ref="5659479594"/>
+		<nd ref="5659479593"/>
+		<nd ref="3099334939"/>
+		<nd ref="5659479592"/>
+		<nd ref="447582503"/>
+		<nd ref="447582501"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="38082551" version="8" timestamp="2017-11-30T13:34:15Z" changeset="54204934" uid="6970734" user="Dekacc">
+		<nd ref="5255758536"/>
+		<nd ref="447906113"/>
+		<nd ref="2346588345"/>
+		<nd ref="447906117"/>
+		<nd ref="447906090"/>
+		<nd ref="829599526"/>
+		<nd ref="5255758540"/>
+		<nd ref="5255758539"/>
+		<nd ref="5255758536"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="is_in" v="Козле"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="123273630" version="1" timestamp="2011-07-26T22:26:03Z" changeset="8840683" uid="41362" user="Eriks Zelenka">
+		<nd ref="1375310262"/>
+		<nd ref="1375310280"/>
+		<nd ref="1375310273"/>
+		<nd ref="1375310289"/>
+		<nd ref="1375310262"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="144759755" version="1" timestamp="2012-01-08T14:37:41Z" changeset="10332127" uid="527441" user="dromedar">
+		<nd ref="1582689205"/>
+		<nd ref="1582689224"/>
+		<nd ref="1582689316"/>
+		<nd ref="1582689268"/>
+		<nd ref="1582689219"/>
+		<nd ref="1582689205"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="144759800" version="1" timestamp="2012-01-08T14:37:46Z" changeset="10332127" uid="527441" user="dromedar">
+		<nd ref="1582689308"/>
+		<nd ref="1582689240"/>
+		<nd ref="1582689199"/>
+		<nd ref="1582689125"/>
+		<nd ref="1582689235"/>
+		<nd ref="1582689193"/>
+		<nd ref="1582689308"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="144759818" version="1" timestamp="2012-01-08T14:37:47Z" changeset="10332127" uid="527441" user="dromedar">
+		<nd ref="1582689325"/>
+		<nd ref="1582689249"/>
+		<nd ref="1582689363"/>
+		<nd ref="1582689296"/>
+		<nd ref="1582689325"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="163027382" version="5" timestamp="2021-02-15T13:54:12Z" changeset="99314541" uid="7140745" user="MatejMecka">
+		<nd ref="1747996041"/>
+		<nd ref="2601313858"/>
+		<nd ref="1747996044"/>
+		<nd ref="1747996043"/>
+		<nd ref="1747996046"/>
+		<nd ref="1747996041"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="163027383" version="1" timestamp="2012-05-10T21:18:17Z" changeset="11562810" uid="678915" user="dominator7">
+		<nd ref="1747996048"/>
+		<nd ref="1747996050"/>
+		<nd ref="1747996049"/>
+		<nd ref="1747996051"/>
+		<nd ref="1747996055"/>
+		<nd ref="1747996053"/>
+		<nd ref="1747996048"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="163061297" version="3" timestamp="2017-01-02T17:56:22Z" changeset="44851328" uid="4942837" user="Михајло Цветковски">
+		<nd ref="1748367539"/>
+		<nd ref="1748367541"/>
+		<nd ref="1748367543"/>
+		<nd ref="1748367552"/>
+		<nd ref="1748367548"/>
+		<nd ref="1748367554"/>
+		<nd ref="1748367553"/>
+		<nd ref="1851582538"/>
+		<nd ref="1748367509"/>
+		<nd ref="1851582540"/>
+		<nd ref="1748367555"/>
+		<nd ref="1748367556"/>
+		<nd ref="1748367539"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="Платен паркинг &#34;Кјуби&#34;"/>
+		<tag k="name:en" v="Pay parking &#34;qube&#34;"/>
+		<tag k="name:mk" v="Платен паркинг &#34;Кјуби&#34;"/>
+		<tag k="operator" v="ЈП Градски Паркинг - Скопје www.gradskiparking.com.mk"/>
+	</way>
+	<way id="163062266" version="3" timestamp="2016-02-18T02:22:11Z" changeset="37279203" uid="361707" user="0xF00F">
+		<nd ref="1748378534"/>
+		<nd ref="1748378531"/>
+		<nd ref="1748378468"/>
+		<nd ref="1748378528"/>
+		<nd ref="1748378526"/>
+		<nd ref="1748378490"/>
+		<nd ref="1748378454"/>
+		<nd ref="1748378473"/>
+		<nd ref="1748378534"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="operator" v="ПОЦ"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="163062268" version="3" timestamp="2016-04-20T14:13:50Z" changeset="38729907" uid="1468248" user="TheBlackMan">
+		<nd ref="1748378503"/>
+		<nd ref="1748378495"/>
+		<nd ref="1748378484"/>
+		<nd ref="1748378504"/>
+		<nd ref="1748378503"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="building" v="yes"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="163269948" version="1" timestamp="2012-05-12T19:07:58Z" changeset="11579668" uid="678915" user="dominator7">
+		<nd ref="1750037552"/>
+		<nd ref="1750037557"/>
+		<nd ref="1750037553"/>
+		<nd ref="1750037551"/>
+		<nd ref="1750037552"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="174111000" version="4" timestamp="2016-10-02T10:11:24Z" changeset="42578796" uid="282726" user="kaiD">
+		<nd ref="1848409278"/>
+		<nd ref="1848409260"/>
+		<nd ref="1848409276"/>
+		<nd ref="1848409253"/>
+		<nd ref="1848409299"/>
+		<nd ref="1848409267"/>
+		<nd ref="1848409291"/>
+		<nd ref="1848409266"/>
+		<nd ref="1848409274"/>
+		<nd ref="4427496826"/>
+		<nd ref="4427496827"/>
+		<nd ref="4427496831"/>
+		<nd ref="4427496830"/>
+		<nd ref="4427496829"/>
+		<nd ref="4427496825"/>
+		<nd ref="1848409278"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="паркинг Кочо Рацин"/>
+		<tag k="name:mk" v="паркинг Кочо Рацин"/>
+	</way>
+	<way id="174464028" version="1" timestamp="2012-08-04T13:12:09Z" changeset="12609282" uid="678915" user="dominator7">
+		<nd ref="1851476280"/>
+		<nd ref="1851476225"/>
+		<nd ref="1851476221"/>
+		<nd ref="1851476212"/>
+		<nd ref="1851476220"/>
+		<nd ref="1851476280"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="174467391" version="1" timestamp="2012-08-04T13:43:12Z" changeset="12609575" uid="678915" user="dominator7">
+		<nd ref="1851538424"/>
+		<nd ref="1851538384"/>
+		<nd ref="1851538584"/>
+		<nd ref="1851538393"/>
+		<nd ref="1851538424"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="174495066" version="2" timestamp="2016-10-01T19:48:05Z" changeset="42569848" uid="282726" user="kaiD">
+		<nd ref="1851694048"/>
+		<nd ref="1851694071"/>
+		<nd ref="1851694046"/>
+		<nd ref="1851694120"/>
+		<nd ref="1851694080"/>
+		<nd ref="4426900079"/>
+		<nd ref="4426900076"/>
+		<nd ref="1851694253"/>
+		<nd ref="1851694200"/>
+		<nd ref="1851694128"/>
+		<nd ref="1851694202"/>
+		<nd ref="1851694048"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="174495087" version="2" timestamp="2019-02-14T23:50:44Z" changeset="67211107" uid="9319448" user="Unicorn Ostrich">
+		<nd ref="1851694118"/>
+		<nd ref="1851694262"/>
+		<nd ref="1851694220"/>
+		<nd ref="1851694165"/>
+		<nd ref="1851694040"/>
+		<nd ref="1851694136"/>
+		<nd ref="1851694118"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="surface" v="paving_stones"/>
+	</way>
+	<way id="174522477" version="3" timestamp="2019-08-22T21:54:15Z" changeset="73643047" uid="1730904" user="donovaly">
+		<nd ref="1851942905"/>
+		<nd ref="1851942895"/>
+		<nd ref="1851942912"/>
+		<nd ref="1851942908"/>
+		<nd ref="1851942907"/>
+		<nd ref="1851942905"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="174522668" version="3" timestamp="2017-02-27T13:18:35Z" changeset="46442216" uid="4358750" user="mariegorman">
+		<nd ref="4245221890"/>
+		<nd ref="1851949682"/>
+		<nd ref="1851949680"/>
+		<nd ref="1851949666"/>
+		<nd ref="1851949684"/>
+		<nd ref="1851949672"/>
+		<nd ref="1851949658"/>
+		<nd ref="4245221890"/>
+		<tag k="addr:street" v="Св. Кирил и Методиј"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="автомакедонија"/>
+		<tag k="shop" v="car"/>
+	</way>
+	<way id="175388839" version="1" timestamp="2012-08-10T08:39:15Z" changeset="12677260" uid="131662" user="borces">
+		<nd ref="1859857521"/>
+		<nd ref="1859857529"/>
+		<nd ref="1859857542"/>
+		<nd ref="1859857539"/>
+		<nd ref="1859857521"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="175407546" version="4" timestamp="2021-10-13T12:19:45Z" changeset="112460124" uid="7140745" user="MatejMecka">
+		<nd ref="1859990571"/>
+		<nd ref="1859990382"/>
+		<nd ref="1859990402"/>
+		<nd ref="5259749769"/>
+		<nd ref="1859990351"/>
+		<nd ref="1859990457"/>
+		<nd ref="1859990357"/>
+		<nd ref="1859990547"/>
+		<nd ref="1859990588"/>
+		<nd ref="1859990279"/>
+		<nd ref="1859990571"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="lane"/>
+	</way>
+	<way id="175407568" version="3" timestamp="2022-11-11T10:01:34Z" changeset="128768905" uid="154757" user="Tr4sK">
+		<nd ref="1859990353"/>
+		<nd ref="1859990295"/>
+		<nd ref="1859990626"/>
+		<nd ref="1859990270"/>
+		<nd ref="1859990353"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="175407573" version="2" timestamp="2012-08-10T18:12:56Z" changeset="12682983" uid="131662" user="borces">
+		<nd ref="1859990453"/>
+		<nd ref="1859990408"/>
+		<nd ref="1859990496"/>
+		<nd ref="1859990519"/>
+		<nd ref="1859990453"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="175413661" version="1" timestamp="2012-08-10T11:43:17Z" changeset="12678659" uid="131662" user="borces">
+		<nd ref="1860043020"/>
+		<nd ref="1860043108"/>
+		<nd ref="1860043070"/>
+		<nd ref="1860043092"/>
+		<nd ref="1860043020"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="175451793" version="4" timestamp="2015-05-03T12:30:29Z" changeset="30746512" uid="1468248" user="TheBlackMan">
+		<nd ref="1860365696"/>
+		<nd ref="1860365656"/>
+		<nd ref="1860365735"/>
+		<nd ref="1860365704"/>
+		<nd ref="1860365696"/>
+		<tag k="access" v="private"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="Parking Vero Center"/>
+		<tag k="operator" v="Веро"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="175518242" version="1" timestamp="2012-08-11T00:57:33Z" changeset="12686547" uid="131662" user="borces">
+		<nd ref="1860946081"/>
+		<nd ref="1860946075"/>
+		<nd ref="1860946101"/>
+		<nd ref="1860946125"/>
+		<nd ref="1860946081"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="175518249" version="2" timestamp="2016-10-08T21:21:26Z" changeset="42742859" uid="118021" user="maggot27">
+		<nd ref="1860946058"/>
+		<nd ref="1860946059"/>
+		<nd ref="1860946108"/>
+		<nd ref="1860946124"/>
+		<nd ref="1860946058"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="175903375" version="1" timestamp="2012-08-13T18:05:38Z" changeset="12717394" uid="131662" user="borces">
+		<nd ref="1864623114"/>
+		<nd ref="1864623112"/>
+		<nd ref="1864623110"/>
+		<nd ref="1864623147"/>
+		<nd ref="1864623109"/>
+		<nd ref="1864623134"/>
+		<nd ref="1864623123"/>
+		<nd ref="1864623114"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="176044289" version="3" timestamp="2015-07-06T15:44:19Z" changeset="32451536" uid="1468248" user="TheBlackMan">
+		<nd ref="1866071654"/>
+		<nd ref="1866071658"/>
+		<nd ref="1866071663"/>
+		<nd ref="1866071656"/>
+		<nd ref="1866071654"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="layer" v="-1"/>
+		<tag k="parking" v="underground"/>
+	</way>
+	<way id="176057470" version="8" timestamp="2019-05-06T12:38:13Z" changeset="69934530" uid="158784" user="bjankuloski">
+		<nd ref="1866259073"/>
+		<nd ref="1866259074"/>
+		<nd ref="1866259072"/>
+		<nd ref="4127702172"/>
+		<nd ref="4127702174"/>
+		<nd ref="5343240995"/>
+		<nd ref="5343240996"/>
+		<nd ref="1866259075"/>
+		<nd ref="5343240997"/>
+		<nd ref="5343240998"/>
+		<nd ref="5343240999"/>
+		<nd ref="5343241000"/>
+		<nd ref="5343241001"/>
+		<nd ref="5343241002"/>
+		<nd ref="1866259073"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="building" v="yes"/>
+		<tag k="fee" v="yes"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Паркинг „Разловечко востание“"/>
+		<tag k="name:en" v="Razlovecko Vostanie"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="176334071" version="1" timestamp="2012-08-16T14:52:31Z" changeset="12751798" uid="131662" user="borces">
+		<nd ref="1868732122"/>
+		<nd ref="1868732035"/>
+		<nd ref="1868732139"/>
+		<nd ref="1868731982"/>
+		<nd ref="1868731997"/>
+		<nd ref="1868732005"/>
+		<nd ref="1868732126"/>
+		<nd ref="1868732122"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="176343667" version="5" timestamp="2017-12-20T22:02:43Z" changeset="54798987" uid="6970734" user="Dekacc">
+		<nd ref="1868826234"/>
+		<nd ref="1868826219"/>
+		<nd ref="1868826322"/>
+		<nd ref="5296448670"/>
+		<nd ref="1868826221"/>
+		<nd ref="1868826234"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="паркинг Воена Болница"/>
+		<tag k="name:mk" v="паркинг Воена Болница"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="intermediate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="176343685" version="4" timestamp="2021-05-25T11:37:46Z" changeset="105288535" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="1868826298"/>
+		<nd ref="1868826241"/>
+		<nd ref="1868826281"/>
+		<nd ref="1868826300"/>
+		<nd ref="1868826298"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="176448644" version="6" timestamp="2021-05-19T12:07:24Z" changeset="104959934" uid="361707" user="0xF00F">
+		<nd ref="1869864188"/>
+		<nd ref="1869864140"/>
+		<nd ref="1869864184"/>
+		<nd ref="1869864265"/>
+		<nd ref="1851811711"/>
+		<nd ref="1869864188"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="charge" v="250 MKD/hour"/>
+		<tag k="covered" v="no"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Дом на Градежници"/>
+		<tag k="operator" v="ЈП ПАРКИНЗИ НА ОПШТИНА ЦЕНТАР-Скопје"/>
+		<tag k="operator:type" v="public"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="website" v="http://www.poc.mk"/>
+	</way>
+	<way id="176448654" version="7" timestamp="2021-05-19T12:07:24Z" changeset="104959934" uid="361707" user="0xF00F">
+		<nd ref="1869864278"/>
+		<nd ref="4138708808"/>
+		<nd ref="1869864088"/>
+		<nd ref="1869864109"/>
+		<nd ref="1869864278"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="charge" v="250 MKD/hour"/>
+		<tag k="covered" v="no"/>
+		<tag k="fee" v="yes"/>
+		<tag k="operator" v="ЈП ПАРКИНЗИ НА ОПШТИНА ЦЕНТАР-Скопје"/>
+		<tag k="operator:type" v="public"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+		<tag k="website" v="http://www.poc.mk"/>
+	</way>
+	<way id="176481138" version="2" timestamp="2022-08-21T19:54:28Z" changeset="125197688" uid="8819348" user="Dobinger">
+		<nd ref="1869987642"/>
+		<nd ref="1869987571"/>
+		<nd ref="1869987647"/>
+		<nd ref="1869987645"/>
+		<nd ref="1869987625"/>
+		<nd ref="1869987570"/>
+		<nd ref="1869987642"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="payment:cash" v="yes"/>
+	</way>
+	<way id="176481167" version="1" timestamp="2012-08-17T11:12:16Z" changeset="12761202" uid="131662" user="borces">
+		<nd ref="1869987555"/>
+		<nd ref="1869987629"/>
+		<nd ref="1869987627"/>
+		<nd ref="1869987640"/>
+		<nd ref="1869987555"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="176492076" version="5" timestamp="2022-10-04T20:59:56Z" changeset="127016071" uid="6970734" user="Dekacc">
+		<nd ref="1870087002"/>
+		<nd ref="3648726682"/>
+		<nd ref="1870086987"/>
+		<nd ref="3648726685"/>
+		<nd ref="6525107805"/>
+		<nd ref="6525107811"/>
+		<nd ref="1870086962"/>
+		<nd ref="1870087002"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="176718390" version="2" timestamp="2016-04-16T09:39:24Z" changeset="38615689" uid="1468248" user="TheBlackMan">
+		<nd ref="1871955083"/>
+		<nd ref="1871955120"/>
+		<nd ref="1871955085"/>
+		<nd ref="1871955107"/>
+		<nd ref="1871955083"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="lit" v="yes"/>
+		<tag k="smoothness" v="bad"/>
+		<tag k="supervised" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="177017634" version="1" timestamp="2012-08-20T19:15:07Z" changeset="12799992" uid="131662" user="borces">
+		<nd ref="1874878422"/>
+		<nd ref="1874878428"/>
+		<nd ref="1874878429"/>
+		<nd ref="1874878423"/>
+		<nd ref="1874878424"/>
+		<nd ref="1874878421"/>
+		<nd ref="1874878422"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="177052646" version="1" timestamp="2012-08-20T22:46:04Z" changeset="12802373" uid="131662" user="borces">
+		<nd ref="1875162046"/>
+		<nd ref="1875162012"/>
+		<nd ref="1875162004"/>
+		<nd ref="1875162043"/>
+		<nd ref="1875162001"/>
+		<nd ref="1875162008"/>
+		<nd ref="1875161996"/>
+		<nd ref="1875162050"/>
+		<nd ref="1875162046"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="189889559" version="3" timestamp="2022-01-27T13:58:15Z" changeset="116668194" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="2004988892"/>
+		<nd ref="4138708838"/>
+		<nd ref="4138708835"/>
+		<nd ref="2004988894"/>
+		<nd ref="2004988893"/>
+		<nd ref="2004988873"/>
+		<nd ref="2004988872"/>
+		<nd ref="2004988874"/>
+		<nd ref="2004988892"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="189939111" version="4" timestamp="2022-01-25T12:27:02Z" changeset="116583472" uid="7140745" user="MatejMecka">
+		<nd ref="2005491699"/>
+		<nd ref="2005491611"/>
+		<nd ref="2005491547"/>
+		<nd ref="2005491526"/>
+		<nd ref="2005491699"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="189939116" version="4" timestamp="2021-03-11T16:27:13Z" changeset="100851249" uid="7140745" user="MatejMecka">
+		<nd ref="2005491488"/>
+		<nd ref="2005491626"/>
+		<nd ref="2005491500"/>
+		<nd ref="2005491733"/>
+		<nd ref="2005491488"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="194973173" version="1" timestamp="2012-12-07T17:47:14Z" changeset="14190904" uid="678915" user="dominator7">
+		<nd ref="2054831126"/>
+		<nd ref="446060609"/>
+		<nd ref="2054831115"/>
+		<nd ref="2054831121"/>
+		<nd ref="2054831130"/>
+		<nd ref="2054831123"/>
+		<nd ref="2054831128"/>
+		<nd ref="2054831132"/>
+		<nd ref="2054831126"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="224100243" version="1" timestamp="2013-06-02T13:00:45Z" changeset="16391090" uid="131662" user="borces">
+		<nd ref="2329329533"/>
+		<nd ref="2329329563"/>
+		<nd ref="2329329561"/>
+		<nd ref="2329329565"/>
+		<nd ref="2329329568"/>
+		<nd ref="2329329547"/>
+		<nd ref="2329329533"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="229923843" version="2" timestamp="2015-07-11T18:51:44Z" changeset="32568965" uid="1468248" user="TheBlackMan">
+		<nd ref="2384589948"/>
+		<nd ref="2384589946"/>
+		<nd ref="2384589945"/>
+		<nd ref="2384589950"/>
+		<nd ref="2384589942"/>
+		<nd ref="2384589953"/>
+		<nd ref="2384589948"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="building" v="yes"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="231128005" version="1" timestamp="2013-07-24T19:01:36Z" changeset="17079030" uid="1394233" user="Aco_Ruse">
+		<nd ref="2395346897"/>
+		<nd ref="2395346895"/>
+		<nd ref="2395346891"/>
+		<nd ref="2395346893"/>
+		<nd ref="2395346889"/>
+		<nd ref="2395346897"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="231131576" version="3" timestamp="2021-05-25T08:46:15Z" changeset="105275881" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="2395380031"/>
+		<nd ref="2395380028"/>
+		<nd ref="2395380030"/>
+		<nd ref="2395380029"/>
+		<nd ref="2395380031"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="250275285" version="2" timestamp="2020-01-07T16:32:42Z" changeset="79301473" uid="3335899" user="GBAB">
+		<nd ref="2567622568"/>
+		<nd ref="2567622569"/>
+		<nd ref="2567622570"/>
+		<nd ref="2567622571"/>
+		<nd ref="2567622568"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="supervised" v="no"/>
+	</way>
+	<way id="305533448" version="5" timestamp="2021-10-07T20:22:57Z" changeset="112233990" uid="6967122" user="Avocadough!">
+		<nd ref="4127480439"/>
+		<nd ref="4127480440"/>
+		<nd ref="4127480435"/>
+		<nd ref="3101725361"/>
+		<nd ref="3101725362"/>
+		<nd ref="9156263267"/>
+		<nd ref="3101726057"/>
+		<nd ref="3101725363"/>
+		<nd ref="4914834166"/>
+		<nd ref="1867151656"/>
+		<nd ref="3101725364"/>
+		<nd ref="4127480439"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name:sq" v="Parkingu ne Shkup afer skenderbeut"/>
+	</way>
+	<way id="325041796" version="2" timestamp="2015-01-28T17:40:59Z" changeset="28470441" uid="2611073" user="Nikola Hristovski">
+		<nd ref="3317154890"/>
+		<nd ref="3317154891"/>
+		<nd ref="3317156698"/>
+		<nd ref="3317154892"/>
+		<nd ref="3317154893"/>
+		<nd ref="3317154890"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="349553971" version="1" timestamp="2015-05-28T12:12:29Z" changeset="31527988" uid="131662" user="borces">
+		<nd ref="3554015055"/>
+		<nd ref="3554015059"/>
+		<nd ref="3554015053"/>
+		<nd ref="3554015052"/>
+		<nd ref="3554015055"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="357827832" version="2" timestamp="2022-11-12T10:56:13Z" changeset="128807783" uid="154757" user="Tr4sK">
+		<nd ref="3629466114"/>
+		<nd ref="3629466398"/>
+		<nd ref="3629442282"/>
+		<nd ref="3629442281"/>
+		<nd ref="10177933845"/>
+		<nd ref="1851617687"/>
+		<nd ref="3629466114"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="358395451" version="4" timestamp="2022-08-10T18:18:29Z" changeset="124743749" uid="81270" user="goce">
+		<nd ref="3633194097"/>
+		<nd ref="3633193898"/>
+		<nd ref="1858337769"/>
+		<nd ref="3633194294"/>
+		<nd ref="3633194297"/>
+		<nd ref="3508366496"/>
+		<nd ref="3633194097"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="intermediate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="358395455" version="4" timestamp="2021-03-07T13:19:46Z" changeset="100574146" uid="7140745" user="MatejMecka">
+		<nd ref="3633126810"/>
+		<nd ref="3633127006"/>
+		<nd ref="3633194311"/>
+		<nd ref="3633194101"/>
+		<nd ref="3633194100"/>
+		<nd ref="3633194310"/>
+		<nd ref="3633126810"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="intermediate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="358395456" version="6" timestamp="2021-03-07T13:19:41Z" changeset="100574142" uid="7140745" user="MatejMecka">
+		<nd ref="3633127006"/>
+		<nd ref="3633194298"/>
+		<nd ref="6751085541"/>
+		<nd ref="3633193899"/>
+		<nd ref="3633194299"/>
+		<nd ref="6751085540"/>
+		<nd ref="3633193900"/>
+		<nd ref="6751085539"/>
+		<nd ref="3633194305"/>
+		<nd ref="5921612551"/>
+		<nd ref="3633126810"/>
+		<nd ref="3633127006"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="360572582" version="3" timestamp="2021-05-25T11:37:13Z" changeset="105288535" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="3650810031"/>
+		<nd ref="3650810329"/>
+		<nd ref="3650810328"/>
+		<nd ref="3650852126"/>
+		<nd ref="3650810031"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="368250857" version="1" timestamp="2015-08-30T07:04:07Z" changeset="33676795" uid="344903" user="Toyota_79">
+		<nd ref="3721012756"/>
+		<nd ref="3721012757"/>
+		<nd ref="3721012750"/>
+		<nd ref="3721012748"/>
+		<nd ref="3721012756"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="379896007" version="1" timestamp="2015-11-12T12:19:15Z" changeset="35259880" uid="131662" user="borces">
+		<nd ref="3832475142"/>
+		<nd ref="3832475139"/>
+		<nd ref="3832475140"/>
+		<nd ref="3832475133"/>
+		<nd ref="3832475142"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="379896009" version="1" timestamp="2015-11-12T12:19:15Z" changeset="35259880" uid="131662" user="borces">
+		<nd ref="3832475128"/>
+		<nd ref="3832475146"/>
+		<nd ref="3832475134"/>
+		<nd ref="3832475136"/>
+		<nd ref="3832475128"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="386528091" version="4" timestamp="2021-10-13T12:19:41Z" changeset="112460124" uid="7140745" user="MatejMecka">
+		<nd ref="3898700722"/>
+		<nd ref="3898700721"/>
+		<nd ref="3898700718"/>
+		<nd ref="3898700719"/>
+		<nd ref="3898700722"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="386528092" version="8" timestamp="2021-03-03T15:51:48Z" changeset="100362003" uid="7140745" user="MatejMecka">
+		<nd ref="1860892905"/>
+		<nd ref="3898700717"/>
+		<nd ref="6309265861"/>
+		<nd ref="418871655"/>
+		<nd ref="3898700720"/>
+		<nd ref="1860892906"/>
+		<nd ref="1860892905"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="386708022" version="2" timestamp="2018-05-05T08:13:21Z" changeset="58701042" uid="6970734" user="Dekacc">
+		<nd ref="3900621391"/>
+		<nd ref="5598124734"/>
+		<nd ref="3900621383"/>
+		<nd ref="3900621355"/>
+		<nd ref="3900621350"/>
+		<nd ref="5598124735"/>
+		<nd ref="3900621394"/>
+		<nd ref="3900621391"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="388871330" version="1" timestamp="2015-12-31T13:43:56Z" changeset="36282707" uid="344903" user="Toyota_79">
+		<nd ref="3920570910"/>
+		<nd ref="3920570905"/>
+		<nd ref="3920570894"/>
+		<nd ref="3920570908"/>
+		<nd ref="3920570913"/>
+		<nd ref="3920570902"/>
+		<nd ref="3920570909"/>
+		<nd ref="3920570910"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="398442920" version="5" timestamp="2019-03-31T22:27:44Z" changeset="68737028" uid="361707" user="0xF00F">
+		<nd ref="4012003941"/>
+		<nd ref="4012003942"/>
+		<nd ref="4012005946"/>
+		<nd ref="4012003943"/>
+		<nd ref="6374722114"/>
+		<nd ref="6374722113"/>
+		<nd ref="4012005947"/>
+		<nd ref="6374722115"/>
+		<nd ref="6374722116"/>
+		<nd ref="4012003944"/>
+		<nd ref="3277748523"/>
+		<nd ref="4012003941"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="name" v="Паркинг Технолошко-металуршки факултет"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="408840917" version="1" timestamp="2016-04-08T11:00:49Z" changeset="38402876" uid="1836257" user="filipgd1">
+		<nd ref="4107484892"/>
+		<nd ref="4107484893"/>
+		<nd ref="4107484894"/>
+		<nd ref="4107484895"/>
+		<nd ref="4107484892"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="411030140" version="2" timestamp="2021-03-27T14:35:38Z" changeset="101839435" uid="11675352" user="jdamjan">
+		<nd ref="4127703140"/>
+		<nd ref="4127703135"/>
+		<nd ref="4127703130"/>
+		<nd ref="4127703137"/>
+		<nd ref="8567164748"/>
+		<nd ref="4127703140"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="supervised" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="411030141" version="1" timestamp="2016-04-17T10:30:18Z" changeset="38639718" uid="1468248" user="TheBlackMan">
+		<nd ref="4127703119"/>
+		<nd ref="4127703104"/>
+		<nd ref="4127703099"/>
+		<nd ref="4127703096"/>
+		<nd ref="4127703113"/>
+		<nd ref="4127703114"/>
+		<nd ref="4127703119"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="lit" v="yes"/>
+		<tag k="operator" v="Holiday Inn Skopje"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="excellent"/>
+		<tag k="supervised" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="411396006" version="4" timestamp="2022-08-10T18:28:26Z" changeset="124743749" uid="81270" user="goce">
+		<nd ref="4130738567"/>
+		<nd ref="4130738560"/>
+		<nd ref="4130738558"/>
+		<nd ref="4130738566"/>
+		<nd ref="4130738567"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="412445831" version="1" timestamp="2016-04-21T13:40:49Z" changeset="38757518" uid="1468248" user="TheBlackMan">
+		<nd ref="4138708850"/>
+		<nd ref="4138709118"/>
+		<nd ref="4138709114"/>
+		<nd ref="4138708846"/>
+		<nd ref="4138708850"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="excellent"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="412445833" version="2" timestamp="2021-10-19T12:59:25Z" changeset="112697269" uid="7140745" user="MatejMecka">
+		<nd ref="4138709291"/>
+		<nd ref="4138709186"/>
+		<nd ref="4138709180"/>
+		<nd ref="4138709187"/>
+		<nd ref="4138709291"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="grass_paver"/>
+	</way>
+	<way id="412445834" version="1" timestamp="2016-04-21T13:40:49Z" changeset="38757518" uid="1468248" user="TheBlackMan">
+		<nd ref="4138709125"/>
+		<nd ref="4138709152"/>
+		<nd ref="4138709147"/>
+		<nd ref="4138709121"/>
+		<nd ref="4138709125"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="excellent"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="412445835" version="2" timestamp="2017-12-04T23:03:21Z" changeset="54347710" uid="6970734" user="Dekacc">
+		<nd ref="4138708859"/>
+		<nd ref="4138708861"/>
+		<nd ref="4138708853"/>
+		<nd ref="5264759525"/>
+		<nd ref="4138709137"/>
+		<nd ref="4138709138"/>
+		<nd ref="4138708859"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="413079573" version="2" timestamp="2018-01-14T15:49:30Z" changeset="55434767" uid="6970734" user="Dekacc">
+		<nd ref="4144098400"/>
+		<nd ref="4144098387"/>
+		<nd ref="4144098393"/>
+		<nd ref="4144098398"/>
+		<nd ref="4144098404"/>
+		<nd ref="4144098406"/>
+		<nd ref="4144098405"/>
+		<nd ref="4144098422"/>
+		<nd ref="4144098421"/>
+		<nd ref="4144098425"/>
+		<nd ref="5339137530"/>
+		<nd ref="4144098423"/>
+		<nd ref="4144098410"/>
+		<nd ref="4144098400"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="intermediate"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="413122184" version="4" timestamp="2022-11-07T20:48:32Z" changeset="128613317" uid="17356987" user="AMANITO">
+		<nd ref="5343240968"/>
+		<nd ref="9609131238"/>
+		<nd ref="5343240972"/>
+		<nd ref="5343240973"/>
+		<nd ref="5343240969"/>
+		<nd ref="5343240974"/>
+		<nd ref="4144527395"/>
+		<nd ref="10167486164"/>
+		<nd ref="10167486165"/>
+		<nd ref="4144527396"/>
+		<nd ref="5343240967"/>
+		<nd ref="5343240968"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="layer" v="-1"/>
+		<tag k="level" v="-1"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="ГТЦ Паркинг"/>
+		<tag k="parking" v="underground"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="supervised" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="413968802" version="1" timestamp="2016-04-27T16:45:05Z" changeset="38926255" uid="1468248" user="TheBlackMan">
+		<nd ref="4151705240"/>
+		<nd ref="4151705244"/>
+		<nd ref="4151705236"/>
+		<nd ref="4151705235"/>
+		<nd ref="4151705240"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="413968803" version="1" timestamp="2016-04-27T16:45:05Z" changeset="38926255" uid="1468248" user="TheBlackMan">
+		<nd ref="4151705253"/>
+		<nd ref="4151705255"/>
+		<nd ref="4151705252"/>
+		<nd ref="4151705250"/>
+		<nd ref="4151705253"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="413968804" version="1" timestamp="2016-04-27T16:45:06Z" changeset="38926255" uid="1468248" user="TheBlackMan">
+		<nd ref="4151702366"/>
+		<nd ref="4151702347"/>
+		<nd ref="4151702329"/>
+		<nd ref="4151702330"/>
+		<nd ref="4151702363"/>
+		<nd ref="4151702366"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="intermediate"/>
+		<tag k="supervised" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="413968807" version="1" timestamp="2016-04-27T16:45:06Z" changeset="38926255" uid="1468248" user="TheBlackMan">
+		<nd ref="4151705259"/>
+		<nd ref="4151705261"/>
+		<nd ref="4151705266"/>
+		<nd ref="4151705262"/>
+		<nd ref="4151705265"/>
+		<nd ref="4151705264"/>
+		<nd ref="4151705256"/>
+		<nd ref="4151705257"/>
+		<nd ref="4151705259"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="lit" v="yes"/>
+		<tag k="parking" v="surface"/>
+		<tag k="smoothness" v="good"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="424933115" version="4" timestamp="2022-11-11T17:45:11Z" changeset="128787154" uid="154757" user="Tr4sK">
+		<nd ref="4242894605"/>
+		<nd ref="4242894606"/>
+		<nd ref="10176234027"/>
+		<nd ref="4242894607"/>
+		<nd ref="4242894608"/>
+		<nd ref="4242894605"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Миле Поп Јорданов"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity" v="20"/>
+		<tag k="operator" v="Hotel Granit. Хотел Гранит."/>
+		<tag k="parking" v="surface"/>
+		<tag k="supervised" v="yes"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="442932348" version="3" timestamp="2018-01-14T15:30:27Z" changeset="55434248" uid="6970734" user="Dekacc">
+		<nd ref="4405812327"/>
+		<nd ref="5339116551"/>
+		<nd ref="5339121133"/>
+		<nd ref="5339116571"/>
+		<nd ref="5339116583"/>
+		<nd ref="5339116584"/>
+		<nd ref="5339116585"/>
+		<nd ref="5339116586"/>
+		<nd ref="4405812327"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="445229716" version="2" timestamp="2016-10-01T19:15:02Z" changeset="42569317" uid="282726" user="kaiD">
+		<nd ref="4426851755"/>
+		<nd ref="4426851751"/>
+		<nd ref="4426872229"/>
+		<nd ref="4426851741"/>
+		<nd ref="4426851712"/>
+		<nd ref="4426851717"/>
+		<nd ref="4426851718"/>
+		<nd ref="4426851755"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="445231203" version="3" timestamp="2019-09-11T16:14:46Z" changeset="74363166" uid="10074697" user="hayes9">
+		<nd ref="4426863463"/>
+		<nd ref="4426863468"/>
+		<nd ref="4426863471"/>
+		<nd ref="6788832476"/>
+		<nd ref="2796738150"/>
+		<nd ref="6788832472"/>
+		<nd ref="4426863463"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="445235225" version="3" timestamp="2018-12-02T11:30:32Z" changeset="65092839" uid="6970734" user="Dekacc">
+		<nd ref="4426887294"/>
+		<nd ref="6110623506"/>
+		<nd ref="6110623505"/>
+		<nd ref="4426887292"/>
+		<nd ref="4426887294"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="450266760" version="1" timestamp="2016-10-30T21:04:11Z" changeset="43292254" uid="344903" user="Toyota_79">
+		<nd ref="4471884336"/>
+		<nd ref="4471884334"/>
+		<nd ref="4471884332"/>
+		<nd ref="4471884333"/>
+		<nd ref="4471884335"/>
+		<nd ref="4471884337"/>
+		<nd ref="4471884336"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="455680024" version="3" timestamp="2022-08-11T17:12:46Z" changeset="124785416" uid="1956015" user="balint36">
+		<nd ref="4520378520"/>
+		<nd ref="4520378521"/>
+		<nd ref="4520378522"/>
+		<nd ref="4520378523"/>
+		<nd ref="9947846040"/>
+		<nd ref="4520378525"/>
+		<nd ref="4520378520"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="475468995" version="2" timestamp="2022-08-21T19:54:28Z" changeset="125197688" uid="8819348" user="Dobinger">
+		<nd ref="4692088351"/>
+		<nd ref="4692088345"/>
+		<nd ref="4692088340"/>
+		<nd ref="4692088338"/>
+		<nd ref="4692088343"/>
+		<nd ref="4692088347"/>
+		<nd ref="4692088350"/>
+		<nd ref="4687310318"/>
+		<nd ref="4687310314"/>
+		<nd ref="4692088353"/>
+		<nd ref="1869987665"/>
+		<nd ref="1869987617"/>
+		<nd ref="4692088351"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="475469270" version="1" timestamp="2017-02-18T12:34:46Z" changeset="46191409" uid="344903" user="Toyota_79">
+		<nd ref="4692089546"/>
+		<nd ref="4692089547"/>
+		<nd ref="4692089545"/>
+		<nd ref="4692089544"/>
+		<nd ref="4692089546"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="475561816" version="1" timestamp="2017-02-19T02:39:13Z" changeset="46205675" uid="4461111" user="tm_johnson">
+		<nd ref="4693021560"/>
+		<nd ref="4693021559"/>
+		<nd ref="4693021558"/>
+		<nd ref="4693021557"/>
+		<nd ref="4693021560"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="476229441" version="2" timestamp="2017-06-17T10:26:26Z" changeset="49611380" uid="2445224" user="rowers2">
+		<nd ref="960087106"/>
+		<nd ref="4698572488"/>
+		<nd ref="4698572589"/>
+		<nd ref="4698572590"/>
+		<nd ref="4698572591"/>
+		<nd ref="960087106"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="Паркинг за посетители"/>
+	</way>
+	<way id="477342121" version="1" timestamp="2017-02-26T19:42:04Z" changeset="46424171" uid="4358750" user="mariegorman">
+		<nd ref="4707143689"/>
+		<nd ref="4707142688"/>
+		<nd ref="4707142687"/>
+		<nd ref="4707142686"/>
+		<nd ref="4707142685"/>
+		<nd ref="4707142684"/>
+		<nd ref="4707142683"/>
+		<nd ref="4707142682"/>
+		<nd ref="4707142681"/>
+		<nd ref="4707142680"/>
+		<nd ref="4707142679"/>
+		<nd ref="4707142678"/>
+		<nd ref="4707142677"/>
+		<nd ref="4707143689"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="477575780" version="5" timestamp="2022-10-31T20:57:16Z" changeset="128316843" uid="154757" user="Tr4sK">
+		<nd ref="4709006237"/>
+		<nd ref="4709006236"/>
+		<nd ref="4709006235"/>
+		<nd ref="4709006234"/>
+		<nd ref="4711387876"/>
+		<nd ref="4711387877"/>
+		<nd ref="4709006237"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="building" v="yes"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="477892071" version="1" timestamp="2017-03-01T15:02:01Z" changeset="46496544" uid="1723055" user="Johnny Mapperseed">
+		<nd ref="4711824165"/>
+		<nd ref="4711824174"/>
+		<nd ref="4711824166"/>
+		<nd ref="4711824167"/>
+		<nd ref="4711824168"/>
+		<nd ref="4711824169"/>
+		<nd ref="4711824173"/>
+		<nd ref="4711824170"/>
+		<nd ref="4711824165"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="477892075" version="1" timestamp="2017-03-01T15:02:01Z" changeset="46496544" uid="1723055" user="Johnny Mapperseed">
+		<nd ref="1602190213"/>
+		<nd ref="4405718498"/>
+		<nd ref="4405716871"/>
+		<nd ref="4405718496"/>
+		<nd ref="1602190213"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="519149524" version="2" timestamp="2019-02-04T21:55:11Z" changeset="66916288" uid="6970734" user="Dekacc">
+		<nd ref="5062787409"/>
+		<nd ref="5062787408"/>
+		<nd ref="5062787414"/>
+		<nd ref="5062787412"/>
+		<nd ref="5062787410"/>
+		<nd ref="5062787411"/>
+		<nd ref="5062787409"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="539905958" version="5" timestamp="2021-02-23T15:16:40Z" changeset="99837958" uid="7140745" user="MatejMecka">
+		<nd ref="5306228950"/>
+		<nd ref="5226976817"/>
+		<nd ref="5306228955"/>
+		<nd ref="5231326858"/>
+		<nd ref="5231326854"/>
+		<nd ref="5306228948"/>
+		<nd ref="5306228950"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="539906952" version="7" timestamp="2021-05-25T09:14:28Z" changeset="105276021" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5289765525"/>
+		<nd ref="5223756508"/>
+		<nd ref="5223756509"/>
+		<nd ref="5252076943"/>
+		<nd ref="5223756502"/>
+		<nd ref="5289765525"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="539929396" version="7" timestamp="2021-04-21T09:06:08Z" changeset="103325349" uid="7140745" user="MatejMecka">
+		<nd ref="5223969063"/>
+		<nd ref="5223969068"/>
+		<nd ref="5223969064"/>
+		<nd ref="5223969065"/>
+		<nd ref="8615371194"/>
+		<nd ref="8615422666"/>
+		<nd ref="5260020892"/>
+		<nd ref="5223969066"/>
+		<nd ref="8615428195"/>
+		<nd ref="5223969063"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="540063357" version="1" timestamp="2017-11-12T20:36:39Z" changeset="53723185" uid="6970734" user="Dekacc">
+		<nd ref="5225349336"/>
+		<nd ref="5225349337"/>
+		<nd ref="5225349338"/>
+		<nd ref="5225349339"/>
+		<nd ref="5225349340"/>
+		<nd ref="5225349341"/>
+		<nd ref="5225349342"/>
+		<nd ref="5225349336"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="540085597" version="1" timestamp="2017-11-12T23:21:26Z" changeset="53725801" uid="6970734" user="Dekacc">
+		<nd ref="5225555523"/>
+		<nd ref="5225555524"/>
+		<nd ref="5225555525"/>
+		<nd ref="5225555526"/>
+		<nd ref="5225555527"/>
+		<nd ref="5225555528"/>
+		<nd ref="5225555523"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="540254573" version="4" timestamp="2021-05-31T15:07:39Z" changeset="105631321" uid="7140745" user="MatejMecka">
+		<nd ref="5226978323"/>
+		<nd ref="5226978324"/>
+		<nd ref="5226978325"/>
+		<nd ref="5226978326"/>
+		<nd ref="5226978323"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="540270671" version="1" timestamp="2017-11-13T21:48:02Z" changeset="53753433" uid="6970734" user="Dekacc">
+		<nd ref="5227114139"/>
+		<nd ref="5227114140"/>
+		<nd ref="5227114141"/>
+		<nd ref="5227114142"/>
+		<nd ref="5227114143"/>
+		<nd ref="5227114144"/>
+		<nd ref="5227114147"/>
+		<nd ref="5227114139"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="540835309" version="4" timestamp="2021-06-07T12:47:40Z" changeset="105973096" uid="7140745" user="MatejMecka">
+		<nd ref="5306228949"/>
+		<nd ref="5226976814"/>
+		<nd ref="5231326860"/>
+		<nd ref="5306228955"/>
+		<nd ref="5231326858"/>
+		<nd ref="5306228949"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+	</way>
+	<way id="540835315" version="5" timestamp="2021-04-24T10:57:55Z" changeset="103530572" uid="7140745" user="MatejMecka">
+		<nd ref="5231326862"/>
+		<nd ref="5231326865"/>
+		<nd ref="5231370496"/>
+		<nd ref="5231326866"/>
+		<nd ref="5231326867"/>
+		<nd ref="5231326863"/>
+		<nd ref="5231326862"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="540835318" version="5" timestamp="2021-04-10T15:35:49Z" changeset="102704195" uid="7140745" user="MatejMecka">
+		<nd ref="5231326864"/>
+		<nd ref="5231326863"/>
+		<nd ref="5231326867"/>
+		<nd ref="5231326870"/>
+		<nd ref="5231370495"/>
+		<nd ref="5231326868"/>
+		<nd ref="5231326869"/>
+		<nd ref="5231326864"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="540994853" version="4" timestamp="2020-01-25T23:23:59Z" changeset="80086192" uid="361707" user="0xF00F">
+		<nd ref="5232392791"/>
+		<nd ref="5232392792"/>
+		<nd ref="5232392793"/>
+		<nd ref="5232392794"/>
+		<nd ref="5232392791"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="541031828" version="4" timestamp="2021-02-22T17:21:13Z" changeset="99762399" uid="7140745" user="MatejMecka">
+		<nd ref="2420688841"/>
+		<nd ref="5232643078"/>
+		<nd ref="5232643079"/>
+		<nd ref="2420688845"/>
+		<nd ref="2420688841"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="543521886" version="3" timestamp="2021-03-11T16:26:15Z" changeset="100851244" uid="7140745" user="MatejMecka">
+		<nd ref="5223756505"/>
+		<nd ref="5254291319"/>
+		<nd ref="5254291320"/>
+		<nd ref="5254291321"/>
+		<nd ref="5254291322"/>
+		<nd ref="5254291318"/>
+		<nd ref="5223756505"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="name" v="Паркинг Машински факултет"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="543521888" version="4" timestamp="2021-03-11T16:23:24Z" changeset="100851244" uid="7140745" user="MatejMecka">
+		<nd ref="5251287260"/>
+		<nd ref="5254291329"/>
+		<nd ref="5254291330"/>
+		<nd ref="5254291331"/>
+		<nd ref="5251287259"/>
+		<nd ref="5251287260"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="543521890" version="4" timestamp="2021-05-31T15:00:19Z" changeset="105631321" uid="7140745" user="MatejMecka">
+		<nd ref="5254291334"/>
+		<nd ref="5254291336"/>
+		<nd ref="5254291337"/>
+		<nd ref="5254291338"/>
+		<nd ref="5254291333"/>
+		<nd ref="5254291334"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="543521891" version="3" timestamp="2021-03-11T16:22:02Z" changeset="100851249" uid="7140745" user="MatejMecka">
+		<nd ref="5251287264"/>
+		<nd ref="5254291339"/>
+		<nd ref="5254291340"/>
+		<nd ref="5251287263"/>
+		<nd ref="5251287264"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+	</way>
+	<way id="543794142" version="1" timestamp="2017-12-01T00:09:56Z" changeset="54219975" uid="6970734" user="Dekacc">
+		<nd ref="5256788754"/>
+		<nd ref="5256788755"/>
+		<nd ref="5256788756"/>
+		<nd ref="5256788757"/>
+		<nd ref="5256788754"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="543794153" version="2" timestamp="2017-12-19T16:46:11Z" changeset="54764693" uid="6970734" user="Dekacc">
+		<nd ref="5256788775"/>
+		<nd ref="5256788776"/>
+		<nd ref="5256788779"/>
+		<nd ref="5256788777"/>
+		<nd ref="5256788783"/>
+		<nd ref="5256788784"/>
+		<nd ref="5256788782"/>
+		<nd ref="5256788781"/>
+		<nd ref="5294076610"/>
+		<nd ref="5256788780"/>
+		<nd ref="5294076597"/>
+		<nd ref="5256788778"/>
+		<nd ref="5294076608"/>
+		<nd ref="5256788775"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="543997634" version="1" timestamp="2017-12-01T23:27:57Z" changeset="54253561" uid="6970734" user="Dekacc">
+		<nd ref="5258617261"/>
+		<nd ref="5258617262"/>
+		<nd ref="5258617263"/>
+		<nd ref="5258617264"/>
+		<nd ref="5258617265"/>
+		<nd ref="5258617266"/>
+		<nd ref="5258617261"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="543997635" version="1" timestamp="2017-12-01T23:27:57Z" changeset="54253561" uid="6970734" user="Dekacc">
+		<nd ref="5258617268"/>
+		<nd ref="5258617269"/>
+		<nd ref="5258617270"/>
+		<nd ref="5258617271"/>
+		<nd ref="5258617268"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="543997636" version="1" timestamp="2017-12-01T23:27:57Z" changeset="54253561" uid="6970734" user="Dekacc">
+		<nd ref="5258617272"/>
+		<nd ref="5258617273"/>
+		<nd ref="5258617274"/>
+		<nd ref="5258617275"/>
+		<nd ref="5258617272"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="544113303" version="3" timestamp="2022-11-11T10:00:50Z" changeset="128768909" uid="154757" user="Tr4sK">
+		<nd ref="5259715479"/>
+		<nd ref="5259715480"/>
+		<nd ref="5259715481"/>
+		<nd ref="5259715482"/>
+		<nd ref="5259715479"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="544160417" version="4" timestamp="2021-07-02T16:41:26Z" changeset="107321996" uid="7140745" user="MatejMecka">
+		<nd ref="5260247981"/>
+		<nd ref="5260247982"/>
+		<nd ref="5260247983"/>
+		<nd ref="5260247984"/>
+		<nd ref="5260247981"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="544160418" version="1" timestamp="2017-12-02T15:57:28Z" changeset="54273877" uid="6970734" user="Dekacc">
+		<nd ref="5260247990"/>
+		<nd ref="5260247991"/>
+		<nd ref="5260247992"/>
+		<nd ref="5260247993"/>
+		<nd ref="5260247990"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="545087483" version="1" timestamp="2017-12-06T19:47:20Z" changeset="54412020" uid="6970734" user="Dekacc">
+		<nd ref="5268584996"/>
+		<nd ref="5268584997"/>
+		<nd ref="5268584998"/>
+		<nd ref="5268584999"/>
+		<nd ref="5268584996"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="545097530" version="2" timestamp="2017-12-15T14:39:38Z" changeset="54655120" uid="6970734" user="Dekacc">
+		<nd ref="5268669873"/>
+		<nd ref="5268669874"/>
+		<nd ref="5268669875"/>
+		<nd ref="5268669876"/>
+		<nd ref="5268669877"/>
+		<nd ref="5268669878"/>
+		<nd ref="5268669866"/>
+		<nd ref="5268669879"/>
+		<nd ref="5268669880"/>
+		<nd ref="5268669883"/>
+		<nd ref="5268669884"/>
+		<nd ref="5268669873"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="546850493" version="1" timestamp="2017-12-14T15:39:51Z" changeset="54627744" uid="6970734" user="Dekacc">
+		<nd ref="5284196574"/>
+		<nd ref="5284196575"/>
+		<nd ref="5284196576"/>
+		<nd ref="5284196577"/>
+		<nd ref="5284196574"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="547064055" version="1" timestamp="2017-12-15T14:39:37Z" changeset="54655120" uid="6970734" user="Dekacc">
+		<nd ref="5286020662"/>
+		<nd ref="5286020663"/>
+		<nd ref="5286020664"/>
+		<nd ref="5286020692"/>
+		<nd ref="5286020665"/>
+		<nd ref="5286020646"/>
+		<nd ref="5286020666"/>
+		<nd ref="5286020667"/>
+		<nd ref="5286020693"/>
+		<nd ref="5286020662"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="547064057" version="1" timestamp="2017-12-15T14:39:37Z" changeset="54655120" uid="6970734" user="Dekacc">
+		<nd ref="5286020677"/>
+		<nd ref="5286020678"/>
+		<nd ref="5286020679"/>
+		<nd ref="5286020680"/>
+		<nd ref="5286020637"/>
+		<nd ref="5286020681"/>
+		<nd ref="5286020691"/>
+		<nd ref="5286020682"/>
+		<nd ref="5286020683"/>
+		<nd ref="5286020677"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="547064058" version="1" timestamp="2017-12-15T14:39:37Z" changeset="54655120" uid="6970734" user="Dekacc">
+		<nd ref="5286020684"/>
+		<nd ref="5286020685"/>
+		<nd ref="5286020686"/>
+		<nd ref="5286020687"/>
+		<nd ref="5286020629"/>
+		<nd ref="5286020688"/>
+		<nd ref="5286020689"/>
+		<nd ref="5286020690"/>
+		<nd ref="5286020684"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="547074217" version="4" timestamp="2021-02-24T14:53:57Z" changeset="99913361" uid="7140745" user="MatejMecka">
+		<nd ref="5286109199"/>
+		<nd ref="5286109200"/>
+		<nd ref="5286109201"/>
+		<nd ref="5286109202"/>
+		<nd ref="5286109199"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547077644" version="4" timestamp="2021-02-13T18:56:17Z" changeset="99226146" uid="7140745" user="MatejMecka">
+		<nd ref="5286138629"/>
+		<nd ref="5286138630"/>
+		<nd ref="5286138631"/>
+		<nd ref="5286138632"/>
+		<nd ref="5286138634"/>
+		<nd ref="5286138633"/>
+		<nd ref="5286138629"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="lane"/>
+	</way>
+	<way id="547077645" version="4" timestamp="2021-02-19T13:00:13Z" changeset="99596092" uid="7140745" user="MatejMecka">
+		<nd ref="5286112827"/>
+		<nd ref="5286138635"/>
+		<nd ref="5286112821"/>
+		<nd ref="5286112822"/>
+		<nd ref="5286138636"/>
+		<nd ref="5286138637"/>
+		<nd ref="5286112824"/>
+		<nd ref="5286112827"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547077649" version="4" timestamp="2021-02-15T14:41:17Z" changeset="99314541" uid="7140745" user="MatejMecka">
+		<nd ref="5286138654"/>
+		<nd ref="5286138655"/>
+		<nd ref="5286138656"/>
+		<nd ref="5286138657"/>
+		<nd ref="5286138658"/>
+		<nd ref="5286138659"/>
+		<nd ref="5286138654"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547077650" version="4" timestamp="2021-02-15T14:40:54Z" changeset="99314541" uid="7140745" user="MatejMecka">
+		<nd ref="5286138660"/>
+		<nd ref="5286138661"/>
+		<nd ref="5286138662"/>
+		<nd ref="5286138663"/>
+		<nd ref="5286138660"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547102984" version="4" timestamp="2021-02-19T11:01:29Z" changeset="99587529" uid="7140745" user="MatejMecka">
+		<nd ref="5286344041"/>
+		<nd ref="5286344042"/>
+		<nd ref="5286344043"/>
+		<nd ref="5286344044"/>
+		<nd ref="5286344041"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547156199" version="4" timestamp="2021-06-03T17:04:46Z" changeset="105791805" uid="7140745" user="MatejMecka">
+		<nd ref="5286806620"/>
+		<nd ref="5286808421"/>
+		<nd ref="5286808422"/>
+		<nd ref="5286808423"/>
+		<nd ref="5286806620"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547156201" version="4" timestamp="2021-06-03T17:05:18Z" changeset="105791805" uid="7140745" user="MatejMecka">
+		<nd ref="5286808428"/>
+		<nd ref="5286808429"/>
+		<nd ref="5286808430"/>
+		<nd ref="5286808431"/>
+		<nd ref="5286808432"/>
+		<nd ref="5286808433"/>
+		<nd ref="5286808428"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547156202" version="4" timestamp="2021-06-03T17:05:04Z" changeset="105791803" uid="7140745" user="MatejMecka">
+		<nd ref="5286808434"/>
+		<nd ref="5286808435"/>
+		<nd ref="5286808436"/>
+		<nd ref="5286808437"/>
+		<nd ref="5286808434"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="lane"/>
+	</way>
+	<way id="547156203" version="4" timestamp="2021-06-07T12:43:05Z" changeset="105973096" uid="7140745" user="MatejMecka">
+		<nd ref="5286808438"/>
+		<nd ref="5286808439"/>
+		<nd ref="5286808440"/>
+		<nd ref="5286808441"/>
+		<nd ref="5286808438"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="lane"/>
+	</way>
+	<way id="547156205" version="4" timestamp="2021-07-02T16:41:06Z" changeset="107321996" uid="7140745" user="MatejMecka">
+		<nd ref="5286808446"/>
+		<nd ref="5286808447"/>
+		<nd ref="5286808448"/>
+		<nd ref="5286808449"/>
+		<nd ref="5286808446"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547250241" version="1" timestamp="2017-12-16T14:51:48Z" changeset="54681982" uid="6970734" user="Dekacc">
+		<nd ref="5287633691"/>
+		<nd ref="5287633692"/>
+		<nd ref="5287633693"/>
+		<nd ref="5287633694"/>
+		<nd ref="5287633695"/>
+		<nd ref="5287633691"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="547250242" version="1" timestamp="2017-12-16T14:51:48Z" changeset="54681982" uid="6970734" user="Dekacc">
+		<nd ref="5287633697"/>
+		<nd ref="5287633698"/>
+		<nd ref="5287633699"/>
+		<nd ref="5287633700"/>
+		<nd ref="5287633697"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="547447730" version="4" timestamp="2021-02-15T17:11:42Z" changeset="99324288" uid="7140745" user="MatejMecka">
+		<nd ref="5289764892"/>
+		<nd ref="5289764893"/>
+		<nd ref="5289764894"/>
+		<nd ref="5289764895"/>
+		<nd ref="5289764892"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547447731" version="4" timestamp="2021-02-13T18:58:38Z" changeset="99226146" uid="7140745" user="MatejMecka">
+		<nd ref="5289764896"/>
+		<nd ref="5289764897"/>
+		<nd ref="5289764898"/>
+		<nd ref="5289764899"/>
+		<nd ref="5289764900"/>
+		<nd ref="5289764901"/>
+		<nd ref="5289764902"/>
+		<nd ref="5289764903"/>
+		<nd ref="5289764896"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547447732" version="4" timestamp="2021-03-26T14:21:18Z" changeset="101797448" uid="7140745" user="MatejMecka">
+		<nd ref="5289764904"/>
+		<nd ref="5289764905"/>
+		<nd ref="5289764906"/>
+		<nd ref="5289764907"/>
+		<nd ref="5289764908"/>
+		<nd ref="5289764909"/>
+		<nd ref="5289764910"/>
+		<nd ref="5289764904"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="lane"/>
+	</way>
+	<way id="547604730" version="4" timestamp="2021-04-16T13:51:17Z" changeset="103064333" uid="7140745" user="MatejMecka">
+		<nd ref="5291214217"/>
+		<nd ref="5291214218"/>
+		<nd ref="5291215122"/>
+		<nd ref="5291215121"/>
+		<nd ref="5291214219"/>
+		<nd ref="5291214220"/>
+		<nd ref="5291214217"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547684963" version="4" timestamp="2021-03-18T13:40:09Z" changeset="101264300" uid="7140745" user="MatejMecka">
+		<nd ref="5291794075"/>
+		<nd ref="5291794076"/>
+		<nd ref="5291794077"/>
+		<nd ref="5291794078"/>
+		<nd ref="5291794075"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547918672" version="4" timestamp="2021-04-10T15:35:28Z" changeset="102704195" uid="7140745" user="MatejMecka">
+		<nd ref="5293752172"/>
+		<nd ref="5293752185"/>
+		<nd ref="5293752173"/>
+		<nd ref="5293752174"/>
+		<nd ref="5293752175"/>
+		<nd ref="5293752172"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547918676" version="4" timestamp="2021-04-10T15:35:44Z" changeset="102704195" uid="7140745" user="MatejMecka">
+		<nd ref="5293752187"/>
+		<nd ref="5293752179"/>
+		<nd ref="5291214203"/>
+		<nd ref="5293752186"/>
+		<nd ref="5293752187"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547918678" version="4" timestamp="2021-04-16T13:53:06Z" changeset="103064333" uid="7140745" user="MatejMecka">
+		<nd ref="5293752190"/>
+		<nd ref="5293752191"/>
+		<nd ref="5293752192"/>
+		<nd ref="5293752193"/>
+		<nd ref="5293752194"/>
+		<nd ref="5293752195"/>
+		<nd ref="5293752196"/>
+		<nd ref="5293752197"/>
+		<nd ref="5293752190"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547923102" version="4" timestamp="2021-02-19T15:34:15Z" changeset="99604246" uid="7140745" user="MatejMecka">
+		<nd ref="5293785319"/>
+		<nd ref="5293785320"/>
+		<nd ref="5293787521"/>
+		<nd ref="5293787522"/>
+		<nd ref="5293787523"/>
+		<nd ref="5293787524"/>
+		<nd ref="5293785319"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547923111" version="4" timestamp="2021-04-24T11:10:06Z" changeset="103530572" uid="7140745" user="MatejMecka">
+		<nd ref="5293787532"/>
+		<nd ref="5293787533"/>
+		<nd ref="5293787534"/>
+		<nd ref="5293787535"/>
+		<nd ref="5293787532"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="547923113" version="4" timestamp="2021-05-15T12:26:08Z" changeset="104731306" uid="7140745" user="MatejMecka">
+		<nd ref="5293787542"/>
+		<nd ref="5293787543"/>
+		<nd ref="5293787544"/>
+		<nd ref="5293787545"/>
+		<nd ref="5293787547"/>
+		<nd ref="5293787546"/>
+		<nd ref="5293787542"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="548012672" version="1" timestamp="2017-12-19T21:53:45Z" changeset="54772101" uid="6970734" user="Dekacc">
+		<nd ref="5294620790"/>
+		<nd ref="5294620792"/>
+		<nd ref="5294620793"/>
+		<nd ref="5294620794"/>
+		<nd ref="5294620795"/>
+		<nd ref="5294620788"/>
+		<nd ref="5294620791"/>
+		<nd ref="5294620790"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="operator" v="POC"/>
+		<tag k="supervised" v="yes"/>
+	</way>
+	<way id="548230636" version="1" timestamp="2017-12-20T22:02:41Z" changeset="54798987" uid="6970734" user="Dekacc">
+		<nd ref="5296447413"/>
+		<nd ref="5296447414"/>
+		<nd ref="5296447415"/>
+		<nd ref="5296447416"/>
+		<nd ref="5296447417"/>
+		<nd ref="5296447418"/>
+		<nd ref="5296447413"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548230638" version="1" timestamp="2017-12-20T22:02:41Z" changeset="54798987" uid="6970734" user="Dekacc">
+		<nd ref="5296448621"/>
+		<nd ref="5296448622"/>
+		<nd ref="5296448623"/>
+		<nd ref="5296448624"/>
+		<nd ref="5296448626"/>
+		<nd ref="5296448631"/>
+		<nd ref="5296448632"/>
+		<nd ref="5296448633"/>
+		<nd ref="5296448625"/>
+		<nd ref="5296448634"/>
+		<nd ref="5296448621"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548230642" version="2" timestamp="2022-01-27T16:42:00Z" changeset="116673897" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5296448638"/>
+		<nd ref="5296448639"/>
+		<nd ref="5296448640"/>
+		<nd ref="5296448641"/>
+		<nd ref="5296448642"/>
+		<nd ref="5296448643"/>
+		<nd ref="5296448638"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="548230644" version="1" timestamp="2017-12-20T22:02:41Z" changeset="54798987" uid="6970734" user="Dekacc">
+		<nd ref="5296448656"/>
+		<nd ref="5296448657"/>
+		<nd ref="5296448658"/>
+		<nd ref="5296448659"/>
+		<nd ref="5296448656"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548575725" version="1" timestamp="2017-12-22T16:23:04Z" changeset="54844845" uid="6970734" user="Dekacc">
+		<nd ref="5299545360"/>
+		<nd ref="5299545361"/>
+		<nd ref="5299545362"/>
+		<nd ref="5299545363"/>
+		<nd ref="5299545360"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548575726" version="1" timestamp="2017-12-22T16:23:04Z" changeset="54844845" uid="6970734" user="Dekacc">
+		<nd ref="5299545364"/>
+		<nd ref="5299545365"/>
+		<nd ref="5299545366"/>
+		<nd ref="5299545367"/>
+		<nd ref="5299545364"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548575727" version="1" timestamp="2017-12-22T16:23:04Z" changeset="54844845" uid="6970734" user="Dekacc">
+		<nd ref="5299545368"/>
+		<nd ref="5299545369"/>
+		<nd ref="5299545370"/>
+		<nd ref="5299545371"/>
+		<nd ref="5299545368"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548575728" version="1" timestamp="2017-12-22T16:23:04Z" changeset="54844845" uid="6970734" user="Dekacc">
+		<nd ref="5299545372"/>
+		<nd ref="5299545373"/>
+		<nd ref="5299545374"/>
+		<nd ref="5299545375"/>
+		<nd ref="5299545372"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548575729" version="2" timestamp="2018-04-02T15:42:40Z" changeset="57743329" uid="6970734" user="Dekacc">
+		<nd ref="5522890049"/>
+		<nd ref="5299545377"/>
+		<nd ref="5299545378"/>
+		<nd ref="5299545379"/>
+		<nd ref="5522890049"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="548919796" version="4" timestamp="2021-05-25T11:35:06Z" changeset="105288540" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5302657737"/>
+		<nd ref="5302657738"/>
+		<nd ref="5302657739"/>
+		<nd ref="5302657740"/>
+		<nd ref="5302657737"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="549144506" version="1" timestamp="2017-12-26T12:00:06Z" changeset="54928038" uid="6970734" user="Dekacc">
+		<nd ref="5304687327"/>
+		<nd ref="5304687328"/>
+		<nd ref="5304687329"/>
+		<nd ref="5304687330"/>
+		<nd ref="5304687327"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="549236325" version="4" timestamp="2021-05-25T11:37:40Z" changeset="105288540" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5305559562"/>
+		<nd ref="5305559563"/>
+		<nd ref="5305559564"/>
+		<nd ref="5305559565"/>
+		<nd ref="5305559562"/>
+		<tag k="access" v="customers"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="549553886" version="4" timestamp="2022-01-27T16:34:18Z" changeset="116673899" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5308404956"/>
+		<nd ref="4161113461"/>
+		<nd ref="4161113460"/>
+		<nd ref="5308404957"/>
+		<nd ref="5308404958"/>
+		<nd ref="5308404959"/>
+		<nd ref="5308404956"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="552392949" version="4" timestamp="2021-05-25T14:52:03Z" changeset="105299682" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5333318389"/>
+		<nd ref="5333318390"/>
+		<nd ref="5333318391"/>
+		<nd ref="5333318392"/>
+		<nd ref="5333318389"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="566207461" version="1" timestamp="2018-03-03T21:11:28Z" changeset="56857533" uid="344903" user="Toyota_79">
+		<nd ref="5452147326"/>
+		<nd ref="5452147329"/>
+		<nd ref="5452147328"/>
+		<nd ref="5452147327"/>
+		<nd ref="5452147326"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="572835949" version="1" timestamp="2018-03-25T14:01:23Z" changeset="57508288" uid="6970734" user="Dekacc">
+		<nd ref="5503202347"/>
+		<nd ref="5503202348"/>
+		<nd ref="5503202349"/>
+		<nd ref="5503202350"/>
+		<nd ref="5503202347"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="576687082" version="4" timestamp="2021-05-25T06:47:45Z" changeset="105267503" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5530502716"/>
+		<nd ref="5530502717"/>
+		<nd ref="5530502718"/>
+		<nd ref="5530502719"/>
+		<nd ref="5530502716"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="576848810" version="1" timestamp="2018-04-05T17:31:55Z" changeset="57842629" uid="6970734" user="Dekacc">
+		<nd ref="5531578057"/>
+		<nd ref="5531578091"/>
+		<nd ref="5531578058"/>
+		<nd ref="5531578059"/>
+		<nd ref="5531578060"/>
+		<nd ref="5531578064"/>
+		<nd ref="5531578065"/>
+		<nd ref="5531578057"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="577784911" version="1" timestamp="2018-04-08T14:59:53Z" changeset="57915339" uid="6970734" user="Dekacc">
+		<nd ref="5538080720"/>
+		<nd ref="5538081021"/>
+		<nd ref="5538081022"/>
+		<nd ref="5538081023"/>
+		<nd ref="5538081024"/>
+		<nd ref="5538081025"/>
+		<nd ref="5538080720"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="577847958" version="1" timestamp="2018-04-08T20:06:25Z" changeset="57922078" uid="6970734" user="Dekacc">
+		<nd ref="5538621561"/>
+		<nd ref="5538621562"/>
+		<nd ref="5538621563"/>
+		<nd ref="5538621564"/>
+		<nd ref="5538621561"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="582481686" version="4" timestamp="2021-05-25T11:42:38Z" changeset="105288540" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5570646032"/>
+		<nd ref="5570646033"/>
+		<nd ref="5570646034"/>
+		<nd ref="5570646035"/>
+		<nd ref="5570646032"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="582481687" version="4" timestamp="2021-05-25T14:50:50Z" changeset="105299682" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5570646036"/>
+		<nd ref="5570646037"/>
+		<nd ref="5570646038"/>
+		<nd ref="5570646039"/>
+		<nd ref="5570646036"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="582522284" version="1" timestamp="2018-04-22T12:28:02Z" changeset="58309011" uid="6970734" user="Dekacc">
+		<nd ref="5570926806"/>
+		<nd ref="5570926807"/>
+		<nd ref="5570926808"/>
+		<nd ref="5570926809"/>
+		<nd ref="5570926806"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="584204641" version="1" timestamp="2018-04-28T15:53:40Z" changeset="58507200" uid="6970734" user="Dekacc">
+		<nd ref="5584593182"/>
+		<nd ref="5584593183"/>
+		<nd ref="5584593184"/>
+		<nd ref="5584593185"/>
+		<nd ref="5584593182"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626228" version="1" timestamp="2018-05-04T09:42:46Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596078969"/>
+		<nd ref="5596078970"/>
+		<nd ref="5596078971"/>
+		<nd ref="5596078972"/>
+		<nd ref="5596078969"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626233" version="1" timestamp="2018-05-04T09:42:46Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596078985"/>
+		<nd ref="5596078986"/>
+		<nd ref="5596078987"/>
+		<nd ref="5596078988"/>
+		<nd ref="5596078985"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626244" version="1" timestamp="2018-05-04T09:42:47Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596079230"/>
+		<nd ref="5596079231"/>
+		<nd ref="5596079233"/>
+		<nd ref="5596079232"/>
+		<nd ref="5596079230"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626245" version="1" timestamp="2018-05-04T09:42:48Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596079238"/>
+		<nd ref="5596079234"/>
+		<nd ref="5596079236"/>
+		<nd ref="5596079235"/>
+		<nd ref="5596079237"/>
+		<nd ref="5596079238"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626246" version="1" timestamp="2018-05-04T09:42:48Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596079239"/>
+		<nd ref="5596079240"/>
+		<nd ref="5596079241"/>
+		<nd ref="5596079242"/>
+		<nd ref="5596079239"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626247" version="1" timestamp="2018-05-04T09:42:48Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596079243"/>
+		<nd ref="5596079244"/>
+		<nd ref="5596079245"/>
+		<nd ref="5596079246"/>
+		<nd ref="5596079243"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="585626248" version="1" timestamp="2018-05-04T09:42:48Z" changeset="58673702" uid="6970734" user="Dekacc">
+		<nd ref="5596079247"/>
+		<nd ref="5596079248"/>
+		<nd ref="5596079249"/>
+		<nd ref="5596079250"/>
+		<nd ref="5596079247"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="586366476" version="1" timestamp="2018-05-07T15:37:52Z" changeset="58762324" uid="6970734" user="Dekacc">
+		<nd ref="5602515583"/>
+		<nd ref="5602515584"/>
+		<nd ref="5602515585"/>
+		<nd ref="5602515586"/>
+		<nd ref="5602515583"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="586366479" version="1" timestamp="2018-05-07T15:37:52Z" changeset="58762324" uid="6970734" user="Dekacc">
+		<nd ref="5602515596"/>
+		<nd ref="5602515597"/>
+		<nd ref="5602515598"/>
+		<nd ref="5602515599"/>
+		<nd ref="5602515596"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="588783251" version="3" timestamp="2021-03-08T13:31:54Z" changeset="100641410" uid="7140745" user="MatejMecka">
+		<nd ref="5622942995"/>
+		<nd ref="5622942996"/>
+		<nd ref="5622942997"/>
+		<nd ref="5622942998"/>
+		<nd ref="5622942995"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="601326593" version="2" timestamp="2018-11-18T14:31:36Z" changeset="64622013" uid="6970734" user="Dekacc">
+		<nd ref="5715432318"/>
+		<nd ref="5715438527"/>
+		<nd ref="5715432319"/>
+		<nd ref="5715432320"/>
+		<nd ref="5715438541"/>
+		<nd ref="5715438521"/>
+		<nd ref="5715438522"/>
+		<nd ref="5715438544"/>
+		<nd ref="5715438545"/>
+		<nd ref="5715438546"/>
+		<nd ref="5715438547"/>
+		<nd ref="5715438548"/>
+		<nd ref="5715438549"/>
+		<nd ref="5715438550"/>
+		<nd ref="5715438551"/>
+		<nd ref="5715438552"/>
+		<nd ref="5715438523"/>
+		<nd ref="5715438556"/>
+		<nd ref="5715438555"/>
+		<nd ref="5715438554"/>
+		<nd ref="5715438524"/>
+		<nd ref="5715438542"/>
+		<nd ref="5715438543"/>
+		<nd ref="5715438525"/>
+		<nd ref="5715438553"/>
+		<nd ref="5715438526"/>
+		<nd ref="5715432318"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="building" v="yes"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Смилевски Конгрес"/>
+		<tag k="name:en" v="Smilevski Kongres"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="606404195" version="1" timestamp="2018-07-09T13:45:48Z" changeset="60541288" uid="6970734" user="Dekacc">
+		<nd ref="5749487090"/>
+		<nd ref="5749487091"/>
+		<nd ref="5749487092"/>
+		<nd ref="5749487093"/>
+		<nd ref="5749487094"/>
+		<nd ref="5749487090"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="613904162" version="1" timestamp="2018-08-03T18:59:09Z" changeset="61339192" uid="344903" user="Toyota_79">
+		<nd ref="5807766482"/>
+		<nd ref="5807766483"/>
+		<nd ref="5807766480"/>
+		<nd ref="5807750054"/>
+		<nd ref="5807766481"/>
+		<nd ref="5807766482"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="613904166" version="1" timestamp="2018-08-03T18:59:09Z" changeset="61339192" uid="344903" user="Toyota_79">
+		<nd ref="5807766492"/>
+		<nd ref="5807766491"/>
+		<nd ref="5807766490"/>
+		<nd ref="5807766489"/>
+		<nd ref="5807766492"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="620861403" version="1" timestamp="2018-08-29T12:14:17Z" changeset="62102276" uid="344903" user="Toyota_79">
+		<nd ref="5865524057"/>
+		<nd ref="5865524056"/>
+		<nd ref="5865524055"/>
+		<nd ref="5865524054"/>
+		<nd ref="5865524053"/>
+		<nd ref="5865524052"/>
+		<nd ref="5865524051"/>
+		<nd ref="5865524043"/>
+		<nd ref="1851476233"/>
+		<nd ref="1851476276"/>
+		<nd ref="1851476133"/>
+		<nd ref="1851476183"/>
+		<nd ref="5865524050"/>
+		<nd ref="5865524049"/>
+		<nd ref="5865524048"/>
+		<nd ref="5865524047"/>
+		<nd ref="5865524046"/>
+		<nd ref="5865524045"/>
+		<nd ref="5865524044"/>
+		<nd ref="5865524057"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="627275387" version="2" timestamp="2019-05-26T10:58:52Z" changeset="70629731" uid="6970734" user="Dekacc">
+		<nd ref="5921571730"/>
+		<nd ref="5921571736"/>
+		<nd ref="6501821654"/>
+		<nd ref="5921571731"/>
+		<nd ref="5921571732"/>
+		<nd ref="5921571733"/>
+		<nd ref="5921571734"/>
+		<nd ref="5921571735"/>
+		<nd ref="5921571730"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity" v="40"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="park_ride" v="no"/>
+		<tag k="supervised" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="627276374" version="1" timestamp="2018-09-21T22:04:36Z" changeset="62811713" uid="2242228" user="Michel Rohr">
+		<nd ref="5921578176"/>
+		<nd ref="5921578177"/>
+		<nd ref="5921578178"/>
+		<nd ref="5921578179"/>
+		<nd ref="5921578180"/>
+		<nd ref="5921578181"/>
+		<nd ref="5921578182"/>
+		<nd ref="5921578176"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity" v="15"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="park_ride" v="no"/>
+		<tag k="supervised" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="627278234" version="3" timestamp="2022-08-11T10:03:57Z" changeset="124768205" uid="13404652" user="Stefan Zlatinov">
+		<nd ref="5921601122"/>
+		<nd ref="5921601123"/>
+		<nd ref="5921601124"/>
+		<nd ref="5921601125"/>
+		<nd ref="7857194895"/>
+		<nd ref="7857194896"/>
+		<nd ref="5921601122"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="627425061" version="1" timestamp="2018-09-22T18:38:50Z" changeset="62833532" uid="2242228" user="Michel Rohr">
+		<nd ref="5922827356"/>
+		<nd ref="5922827357"/>
+		<nd ref="5922827358"/>
+		<nd ref="5922827359"/>
+		<nd ref="5922827360"/>
+		<nd ref="5922827361"/>
+		<nd ref="5922827356"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity" v="20"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+		<tag k="park_ride" v="no"/>
+		<tag k="supervised" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="630380443" version="1" timestamp="2018-10-03T23:49:31Z" changeset="63177249" uid="8905960" user="bojankarkalasev">
+		<nd ref="5952657737"/>
+		<nd ref="5952657738"/>
+		<nd ref="5952657739"/>
+		<nd ref="5952657736"/>
+		<nd ref="5952657737"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="capacity" v="20"/>
+		<tag k="fee" v="no"/>
+		<tag k="operator" v="СУГС Гимназија &#34;Орце Николов&#34;"/>
+		<tag k="parking" v="surface"/>
+		<tag k="supervised" v="yes"/>
+		<tag k="surface" v="concrete:plates"/>
+	</way>
+	<way id="630380444" version="3" timestamp="2022-02-18T18:02:54Z" changeset="117576350" uid="7140745" user="MatejMecka">
+		<nd ref="5952657740"/>
+		<nd ref="5952657741"/>
+		<nd ref="5952657742"/>
+		<nd ref="1871929880"/>
+		<nd ref="9517236017"/>
+		<nd ref="418872688"/>
+		<nd ref="5952657743"/>
+		<nd ref="5952657744"/>
+		<nd ref="5952657740"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="operator" v="Машински Факултет"/>
+		<tag k="parking" v="surface"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="646068463" version="1" timestamp="2018-11-18T19:28:50Z" changeset="64629570" uid="6970734" user="Dekacc">
+		<nd ref="6071483175"/>
+		<nd ref="6071483176"/>
+		<nd ref="6071483177"/>
+		<nd ref="6071483178"/>
+		<nd ref="6071483179"/>
+		<nd ref="6071483180"/>
+		<nd ref="6071483175"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="646068464" version="1" timestamp="2018-11-18T19:28:50Z" changeset="64629570" uid="6970734" user="Dekacc">
+		<nd ref="6071483181"/>
+		<nd ref="6071483182"/>
+		<nd ref="6071483183"/>
+		<nd ref="6071483184"/>
+		<nd ref="6071483181"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="646068465" version="1" timestamp="2018-11-18T19:28:50Z" changeset="64629570" uid="6970734" user="Dekacc">
+		<nd ref="6071483185"/>
+		<nd ref="6071483186"/>
+		<nd ref="6071483187"/>
+		<nd ref="6071483188"/>
+		<nd ref="6071483185"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="647499891" version="1" timestamp="2018-11-21T20:31:00Z" changeset="64754639" uid="6970734" user="Dekacc">
+		<nd ref="6080716588"/>
+		<nd ref="6080716589"/>
+		<nd ref="6080716590"/>
+		<nd ref="6080716591"/>
+		<nd ref="6080716592"/>
+		<nd ref="6080716588"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="653709078" version="1" timestamp="2018-12-09T09:56:58Z" changeset="65310512" uid="6970734" user="Dekacc">
+		<nd ref="6126196718"/>
+		<nd ref="6126196719"/>
+		<nd ref="6126196720"/>
+		<nd ref="6126196721"/>
+		<nd ref="6126196722"/>
+		<nd ref="6126196723"/>
+		<nd ref="6126196718"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="660685155" version="1" timestamp="2019-01-05T12:39:48Z" changeset="66045865" uid="6970734" user="Dekacc">
+		<nd ref="6185654761"/>
+		<nd ref="6185654762"/>
+		<nd ref="6185654765"/>
+		<nd ref="6185654763"/>
+		<nd ref="6185654764"/>
+		<nd ref="6185654761"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="660685156" version="1" timestamp="2019-01-05T12:39:48Z" changeset="66045865" uid="6970734" user="Dekacc">
+		<nd ref="6185654769"/>
+		<nd ref="6185654770"/>
+		<nd ref="6185654771"/>
+		<nd ref="6185654772"/>
+		<nd ref="6185654773"/>
+		<nd ref="6185654774"/>
+		<nd ref="6185654775"/>
+		<nd ref="6185654776"/>
+		<nd ref="6185654777"/>
+		<nd ref="6185654778"/>
+		<nd ref="6185654779"/>
+		<nd ref="6185654780"/>
+		<nd ref="6185654781"/>
+		<nd ref="6185654782"/>
+		<nd ref="6185654783"/>
+		<nd ref="6185663486"/>
+		<nd ref="6185654784"/>
+		<nd ref="6185663485"/>
+		<nd ref="6185654769"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="664711306" version="1" timestamp="2019-01-19T21:11:42Z" changeset="66463511" uid="6970734" user="Dekacc">
+		<nd ref="6221890701"/>
+		<nd ref="6221890702"/>
+		<nd ref="6221890703"/>
+		<nd ref="6221890704"/>
+		<nd ref="6221890701"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="664711307" version="1" timestamp="2019-01-19T21:11:42Z" changeset="66463511" uid="6970734" user="Dekacc">
+		<nd ref="6221890705"/>
+		<nd ref="6221890706"/>
+		<nd ref="6221890707"/>
+		<nd ref="6221890708"/>
+		<nd ref="6221890709"/>
+		<nd ref="6221890710"/>
+		<nd ref="6221890711"/>
+		<nd ref="6221890712"/>
+		<nd ref="6221890705"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="664711308" version="1" timestamp="2019-01-19T21:11:43Z" changeset="66463511" uid="6970734" user="Dekacc">
+		<nd ref="6221890713"/>
+		<nd ref="6221890714"/>
+		<nd ref="6221890715"/>
+		<nd ref="6221890716"/>
+		<nd ref="6221890717"/>
+		<nd ref="6221890718"/>
+		<nd ref="6221890719"/>
+		<nd ref="6221890720"/>
+		<nd ref="6221890713"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="664711309" version="1" timestamp="2019-01-19T21:11:43Z" changeset="66463511" uid="6970734" user="Dekacc">
+		<nd ref="6221890721"/>
+		<nd ref="6221890722"/>
+		<nd ref="6221890723"/>
+		<nd ref="6221890724"/>
+		<nd ref="6221890721"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="667556874" version="4" timestamp="2021-12-17T13:53:48Z" changeset="115057773" uid="7140745" user="MatejMecka">
+		<nd ref="6250382435"/>
+		<nd ref="6250477509"/>
+		<nd ref="6250382439"/>
+		<nd ref="6250382440"/>
+		<nd ref="6250382435"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="underground"/>
+	</way>
+	<way id="668343399" version="1" timestamp="2019-02-04T21:09:53Z" changeset="66915364" uid="6970734" user="Dekacc">
+		<nd ref="6258690258"/>
+		<nd ref="6258690259"/>
+		<nd ref="6258690260"/>
+		<nd ref="6258690261"/>
+		<nd ref="6258690258"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="670943014" version="1" timestamp="2019-02-16T15:54:48Z" changeset="67256561" uid="6970734" user="Dekacc">
+		<nd ref="6283000012"/>
+		<nd ref="6283000013"/>
+		<nd ref="6283000014"/>
+		<nd ref="6283000015"/>
+		<nd ref="6283000016"/>
+		<nd ref="6283000017"/>
+		<nd ref="6283000018"/>
+		<nd ref="6283000019"/>
+		<nd ref="6283000020"/>
+		<nd ref="6283000021"/>
+		<nd ref="6283000022"/>
+		<nd ref="6283000023"/>
+		<nd ref="6283000024"/>
+		<nd ref="6283000025"/>
+		<nd ref="6283000012"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="679587003" version="1" timestamp="2019-03-26T20:32:15Z" changeset="68562650" uid="6970734" user="Dekacc">
+		<nd ref="6363477238"/>
+		<nd ref="6363477239"/>
+		<nd ref="6363477240"/>
+		<nd ref="6363477241"/>
+		<nd ref="6363477238"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="682283150" version="1" timestamp="2019-04-07T18:13:54Z" changeset="68983184" uid="6970734" user="Dekacc">
+		<nd ref="6389373449"/>
+		<nd ref="6389373450"/>
+		<nd ref="6389373451"/>
+		<nd ref="6389373452"/>
+		<nd ref="6389373449"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="682520926" version="1" timestamp="2019-04-08T19:35:04Z" changeset="69020407" uid="6970734" user="Dekacc">
+		<nd ref="6391811364"/>
+		<nd ref="6391811365"/>
+		<nd ref="6391811366"/>
+		<nd ref="6391811367"/>
+		<nd ref="6391811364"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="687056091" version="1" timestamp="2019-05-01T12:35:49Z" changeset="69764527" uid="6970734" user="Dekacc">
+		<nd ref="6440523743"/>
+		<nd ref="6440523744"/>
+		<nd ref="6440523745"/>
+		<nd ref="6440523746"/>
+		<nd ref="6440523743"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="687056092" version="2" timestamp="2021-10-01T13:08:25Z" changeset="111963276" uid="7140745" user="MatejMecka">
+		<nd ref="6440523748"/>
+		<nd ref="6440523749"/>
+		<nd ref="6440523750"/>
+		<nd ref="6440523751"/>
+		<nd ref="6440523748"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="street_side"/>
+	</way>
+	<way id="729524233" version="2" timestamp="2021-05-19T12:07:24Z" changeset="104959934" uid="361707" user="0xF00F">
+		<nd ref="1851811707"/>
+		<nd ref="6834328134"/>
+		<nd ref="6834328135"/>
+		<nd ref="6834328136"/>
+		<nd ref="1851811707"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="charge" v="250MKD/hour"/>
+		<tag k="covered" v="no"/>
+		<tag k="fee" v="yes"/>
+		<tag k="operator" v="ЈП ПАРКИНЗИ НА ОПШТИНА ЦЕНТАР-Скопје"/>
+		<tag k="operator:type" v="public"/>
+		<tag k="parking" v="surface"/>
+		<tag k="website" v="http://www.poc.mk"/>
+	</way>
+	<way id="764629085" version="1" timestamp="2020-01-19T19:30:47Z" changeset="79763366" uid="344903" user="Toyota_79">
+		<nd ref="7143285521"/>
+		<nd ref="7143285520"/>
+		<nd ref="7143285519"/>
+		<nd ref="7143285518"/>
+		<nd ref="7143285521"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="868362291" version="1" timestamp="2020-11-08T16:05:45Z" changeset="93748010" uid="11849964" user="Velibear">
+		<nd ref="8094032875"/>
+		<nd ref="8094032876"/>
+		<nd ref="8094032877"/>
+		<nd ref="8094032878"/>
+		<nd ref="8094032879"/>
+		<nd ref="8094032880"/>
+		<nd ref="8094032881"/>
+		<nd ref="8094032875"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="891239171" version="1" timestamp="2021-01-02T13:21:12Z" changeset="96807205" uid="10747958" user="darkog">
+		<nd ref="8283605982"/>
+		<nd ref="8283605983"/>
+		<nd ref="8283605984"/>
+		<nd ref="8283605981"/>
+		<nd ref="8283605982"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="902213604" version="5" timestamp="2021-05-19T11:53:09Z" changeset="104958830" uid="361707" user="0xF00F">
+		<nd ref="8380185508"/>
+		<nd ref="8380185509"/>
+		<nd ref="8380185510"/>
+		<nd ref="8380185511"/>
+		<nd ref="8380185512"/>
+		<nd ref="8380185513"/>
+		<nd ref="8380185514"/>
+		<nd ref="8380185515"/>
+		<nd ref="8380185516"/>
+		<nd ref="8380225717"/>
+		<nd ref="8380225718"/>
+		<nd ref="8380225719"/>
+		<nd ref="8745676372"/>
+		<nd ref="8380225720"/>
+		<nd ref="8380354751"/>
+		<nd ref="8380225721"/>
+		<nd ref="8380185508"/>
+		<tag k="access" v="yes"/>
+		<tag k="addr:city" v="Скопје"/>
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Даме Груев"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="building" v="parking"/>
+		<tag k="capacity" v="605"/>
+		<tag k="capacity:disabled" v="yes"/>
+		<tag k="charge" v="30 MKD/hour"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Катна гаража Беко"/>
+		<tag k="name:en" v="Parking Garage Beko"/>
+		<tag k="operator" v="Градски паркинг"/>
+		<tag k="operator:type" v="public"/>
+		<tag k="parking" v="multi-storey"/>
+	</way>
+	<way id="911607572" version="2" timestamp="2022-11-07T15:13:49Z" changeset="128602357" uid="17356987" user="AMANITO">
+		<nd ref="8464444239"/>
+		<nd ref="8464444240"/>
+		<nd ref="8464444241"/>
+		<nd ref="8464444242"/>
+		<nd ref="8464444243"/>
+		<nd ref="8464444244"/>
+		<nd ref="8464444245"/>
+		<nd ref="8464444246"/>
+		<nd ref="8464444247"/>
+		<nd ref="8464444248"/>
+		<nd ref="8464444249"/>
+		<nd ref="10166789755"/>
+		<nd ref="8464444250"/>
+		<nd ref="10166789754"/>
+		<nd ref="8464444251"/>
+		<nd ref="8464444252"/>
+		<nd ref="8464444253"/>
+		<nd ref="10166789756"/>
+		<nd ref="8464444254"/>
+		<nd ref="8464444255"/>
+		<nd ref="8464444239"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="yes"/>
+		<tag k="parking" v="surface"/>
+	</way>
+	<way id="922178798" version="1" timestamp="2021-03-25T17:10:33Z" changeset="101735493" uid="7140745" user="MatejMecka">
+		<nd ref="8561199932"/>
+		<nd ref="8561199933"/>
+		<nd ref="8561199934"/>
+		<nd ref="8561199935"/>
+		<nd ref="8561199939"/>
+		<nd ref="8561199932"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="layer" v="-1"/>
+		<tag k="parking" v="underground"/>
+	</way>
+	<way id="944665749" version="1" timestamp="2021-05-19T12:19:57Z" changeset="104960961" uid="361707" user="0xF00F">
+		<nd ref="8745825939"/>
+		<nd ref="8745825940"/>
+		<nd ref="8745825941"/>
+		<nd ref="8745825942"/>
+		<nd ref="8745825939"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="layer" v="-1"/>
+		<tag k="parking" v="underground"/>
+	</way>
+	<way id="944665755" version="1" timestamp="2021-05-19T12:19:57Z" changeset="104960961" uid="361707" user="0xF00F">
+		<nd ref="8745825954"/>
+		<nd ref="8745825955"/>
+		<nd ref="8745825956"/>
+		<nd ref="8745825957"/>
+		<nd ref="8745825954"/>
+		<tag k="access" v="private"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="layer" v="-1"/>
+		<tag k="parking" v="underground"/>
+	</way>
+	<way id="944677631" version="1" timestamp="2021-05-19T12:59:21Z" changeset="104963791" uid="361707" user="0xF00F">
+		<nd ref="8745938131"/>
+		<nd ref="8745938132"/>
+		<nd ref="8745938133"/>
+		<nd ref="8745938134"/>
+		<nd ref="8745938135"/>
+		<nd ref="8745938136"/>
+		<nd ref="8745938137"/>
+		<nd ref="8745938138"/>
+		<nd ref="8745938139"/>
+		<nd ref="8745938140"/>
+		<nd ref="8745938131"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="977448206" version="1" timestamp="2021-08-29T00:23:38Z" changeset="110397099" uid="11740571" user="Krakathon">
+		<nd ref="9044473317"/>
+		<nd ref="9044473318"/>
+		<nd ref="9044473319"/>
+		<nd ref="9044473320"/>
+		<nd ref="9044473321"/>
+		<nd ref="9044473322"/>
+		<nd ref="9044473323"/>
+		<nd ref="9044473324"/>
+		<nd ref="9044473325"/>
+		<nd ref="9044473326"/>
+		<nd ref="9044473327"/>
+		<nd ref="9044473328"/>
+		<nd ref="9044473329"/>
+		<nd ref="9044473317"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="987958488" version="1" timestamp="2021-09-29T11:13:12Z" changeset="111860972" uid="14202714" user="Diddii">
+		<nd ref="9131848387"/>
+		<nd ref="9131848388"/>
+		<nd ref="9131848389"/>
+		<nd ref="9131848390"/>
+		<nd ref="9131848387"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="surface" v="unpaved"/>
+	</way>
+	<way id="991460896" version="1" timestamp="2021-10-09T13:01:48Z" changeset="112300360" uid="7140745" user="MatejMecka">
+		<nd ref="9160443068"/>
+		<nd ref="9160443069"/>
+		<nd ref="9160443070"/>
+		<nd ref="9160443071"/>
+		<nd ref="9160443072"/>
+		<nd ref="9160443073"/>
+		<nd ref="9160443074"/>
+		<nd ref="9160443075"/>
+		<nd ref="9160443076"/>
+		<nd ref="9160443068"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="fee" v="no"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="1012274746" version="1" timestamp="2021-12-14T23:29:59Z" changeset="114942854" uid="8525987" user="Anoesis">
+		<nd ref="9338966746"/>
+		<nd ref="9338966745"/>
+		<nd ref="9338966744"/>
+		<nd ref="9338966743"/>
+		<nd ref="9338966746"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1035353906" version="1" timestamp="2022-02-26T13:37:52Z" changeset="117879232" uid="14504374" user="Kemal08">
+		<nd ref="9537089636"/>
+		<nd ref="9537089637"/>
+		<nd ref="9537089638"/>
+		<nd ref="9537089639"/>
+		<nd ref="9537089636"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100720028" version="1" timestamp="2022-10-03T21:58:53Z" changeset="126961161" uid="6970734" user="Dekacc">
+		<nd ref="10073931010"/>
+		<nd ref="10073930999"/>
+		<nd ref="10073930998"/>
+		<nd ref="10073931006"/>
+		<nd ref="10073931011"/>
+		<nd ref="10073931010"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100725271" version="1" timestamp="2022-10-03T22:45:42Z" changeset="126961982" uid="6970734" user="Dekacc">
+		<nd ref="10073982782"/>
+		<nd ref="10073982786"/>
+		<nd ref="10073982783"/>
+		<nd ref="10073982784"/>
+		<nd ref="10073982782"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100725272" version="1" timestamp="2022-10-03T22:45:42Z" changeset="126961982" uid="6970734" user="Dekacc">
+		<nd ref="447906001"/>
+		<nd ref="447906000"/>
+		<nd ref="10073982795"/>
+		<nd ref="10073982796"/>
+		<nd ref="10073982791"/>
+		<nd ref="10073982794"/>
+		<nd ref="447906003"/>
+		<nd ref="447906001"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100725273" version="1" timestamp="2022-10-03T22:45:42Z" changeset="126961982" uid="6970734" user="Dekacc">
+		<nd ref="10073982797"/>
+		<nd ref="10073982798"/>
+		<nd ref="10073982799"/>
+		<nd ref="10073982800"/>
+		<nd ref="10073982797"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100939965" version="1" timestamp="2022-10-04T20:34:06Z" changeset="127015237" uid="6970734" user="Dekacc">
+		<nd ref="5302657783"/>
+		<nd ref="10075846144"/>
+		<nd ref="10075846137"/>
+		<nd ref="10075846136"/>
+		<nd ref="4119303020"/>
+		<nd ref="4119303021"/>
+		<nd ref="10075846135"/>
+		<nd ref="5302657783"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100939967" version="1" timestamp="2022-10-04T20:34:06Z" changeset="127015237" uid="6970734" user="Dekacc">
+		<nd ref="5302658341"/>
+		<nd ref="10073982808"/>
+		<nd ref="5302658340"/>
+		<nd ref="10075846152"/>
+		<nd ref="10075846150"/>
+		<nd ref="10075846151"/>
+		<nd ref="7746515807"/>
+		<nd ref="10075846153"/>
+		<nd ref="7746515804"/>
+		<nd ref="10075846133"/>
+		<nd ref="10075846128"/>
+		<nd ref="10075846132"/>
+		<nd ref="10075846130"/>
+		<nd ref="5302658346"/>
+		<nd ref="5302658342"/>
+		<nd ref="5302658341"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1100939968" version="1" timestamp="2022-10-04T20:34:06Z" changeset="127015237" uid="6970734" user="Dekacc">
+		<nd ref="10075846129"/>
+		<nd ref="10075846155"/>
+		<nd ref="5302658321"/>
+		<nd ref="5302657820"/>
+		<nd ref="10075846131"/>
+		<nd ref="10075846129"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1109768108" version="1" timestamp="2022-11-02T21:45:12Z" changeset="128411695" uid="11740571" user="Krakathon">
+		<nd ref="2886274885"/>
+		<nd ref="10152603526"/>
+		<nd ref="10152603527"/>
+		<nd ref="10152603528"/>
+		<nd ref="10152603529"/>
+		<nd ref="10152603530"/>
+		<nd ref="10152603531"/>
+		<nd ref="10152603532"/>
+		<nd ref="10152603533"/>
+		<nd ref="10152603534"/>
+		<nd ref="10152603535"/>
+		<nd ref="10152603536"/>
+		<nd ref="10152603537"/>
+		<nd ref="7876582734"/>
+		<nd ref="3704176089"/>
+		<nd ref="10152603538"/>
+		<nd ref="10152603539"/>
+		<nd ref="10152603540"/>
+		<nd ref="10152603541"/>
+		<nd ref="10152603542"/>
+		<nd ref="10152603543"/>
+		<nd ref="2886274885"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1109768109" version="1" timestamp="2022-11-02T21:45:12Z" changeset="128411695" uid="11740571" user="Krakathon">
+		<nd ref="10152603544"/>
+		<nd ref="10152603545"/>
+		<nd ref="10152603546"/>
+		<nd ref="10152603547"/>
+		<nd ref="10152603548"/>
+		<nd ref="10152603549"/>
+		<nd ref="10152603550"/>
+		<nd ref="10152603544"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1111167872" version="1" timestamp="2022-11-07T20:12:24Z" changeset="128612289" uid="11740571" user="Krakathon">
+		<nd ref="10167415298"/>
+		<nd ref="10167415299"/>
+		<nd ref="10167415300"/>
+		<nd ref="10167415301"/>
+		<nd ref="10167415302"/>
+		<nd ref="367860768"/>
+		<nd ref="10167415298"/>
+		<tag k="amenity" v="parking"/>
+	</way>
+	<way id="1112456785" version="1" timestamp="2022-11-12T10:35:00Z" changeset="128807091" uid="154757" user="Tr4sK">
+		<nd ref="10177897072"/>
+		<nd ref="10073963755"/>
+		<nd ref="10177897068"/>
+		<nd ref="10073969945"/>
+		<nd ref="10073969948"/>
+		<nd ref="6294352419"/>
+		<nd ref="6294352418"/>
+		<nd ref="10177897067"/>
+		<nd ref="10177897061"/>
+		<nd ref="10177897077"/>
+		<nd ref="10177897072"/>
+		<tag k="access" v="yes"/>
+		<tag k="amenity" v="parking"/>
+		<tag k="parking" v="surface"/>
+	</way>
+</osm>

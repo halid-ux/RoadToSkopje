@@ -1,0 +1,1114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9846" minlon="21.394" maxlat="42.0063" maxlon="21.4518"/>
+	<node id="416452220" lat="41.9899482" lon="21.4198508" version="6" timestamp="2015-11-12T10:47:56Z" changeset="35258154" uid="131662" user="borces">
+		<tag k="name" v="Хотел 7"/>
+		<tag k="name:en" v="Hotel 7"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="416452221" lat="42.0037446" lon="21.4244806" version="2" timestamp="2009-10-31T01:22:26Z" changeset="2994504" uid="158784" user="bjankuloski">
+		<tag k="name" v="Канет"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="1499057720" lat="41.9948912" lon="21.4329531" version="2" timestamp="2013-04-21T19:58:28Z" changeset="15816078" uid="84263" user="Robert Whittaker">
+		<tag k="name" v="Hotel City Central International"/>
+		<tag k="source" v="GPS"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="2293315268" lat="41.9941717" lon="21.4068121" version="6" timestamp="2013-11-13T12:00:59Z" changeset="18872983" uid="131662" user="borces">
+		<tag k="name" v="Hotel Kapistec"/>
+		<tag k="source" v="GPS"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="3341289751" lat="41.9952955" lon="21.4315713" version="4" timestamp="2019-05-06T12:38:12Z" changeset="69934530" uid="158784" user="bjankuloski">
+		<tag k="addr:city" v="Скопје"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Плоштад Македонија"/>
+		<tag k="int_name" v="Pelister Hotel"/>
+		<tag k="name" v="Пелистер"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://www.pelisterhotel.com.mk/"/>
+	</node>
+	<node id="3361174898" lat="41.9994486" lon="21.4380987" version="12" timestamp="2019-02-12T23:30:58Z" changeset="67146780" uid="9319541" user="birdymaps">
+		<tag k="addr:city" v="skopje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="5"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Gotse Deltchev"/>
+		<tag k="addr:street:mk" v="бул. Гоце Делчев"/>
+		<tag k="email" v="info@hoteldekoka.mk"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="yes"/>
+		<tag k="name" v="Hotel De KOKA"/>
+		<tag k="operator" v="Hotel De KOKA"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:cards" v="yes"/>
+		<tag k="payment:cash" v="yes"/>
+		<tag k="payment:debit_cards" v="yes"/>
+		<tag k="payment:maestro" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="payment:visa_debit" v="yes"/>
+		<tag k="payment:visa_electron" v="yes"/>
+		<tag k="phone" v="+38923112200"/>
+		<tag k="rooms" v="36"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="stars" v="3"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="www.hoteldekoka.mk"/>
+	</node>
+	<node id="3673044667" lat="41.995617" lon="21.4303313" version="1" timestamp="2015-07-30T09:07:52Z" changeset="32973661" uid="131662" user="borces">
+		<tag k="name" v="Square"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="3712250373" lat="41.9945457" lon="21.441776" version="2" timestamp="2017-09-04T08:36:49Z" changeset="51711178" uid="6594175" user="Lauvimui">
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:street" v="Кеј 13 Ноември"/>
+		<tag k="name" v="Hotel Kej"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="3832290369" lat="42.0020489" lon="21.440168" version="1" timestamp="2015-11-12T09:49:53Z" changeset="35256911" uid="131662" user="borces">
+		<tag k="addr:housenumber" v="бб"/>
+		<tag k="addr:street" v="Булевар Крсте Мисирков"/>
+		<tag k="name" v="Султан"/>
+		<tag k="name:en" v="Sultan"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="3832290373" lat="42.0021398" lon="21.4401529" version="1" timestamp="2015-11-12T09:49:53Z" changeset="35256911" uid="131662" user="borces">
+		<tag k="addr:housenumber" v="13"/>
+		<tag k="addr:street" v="Булевар Крсте Мисирков"/>
+		<tag k="name" v="Голд"/>
+		<tag k="name:en" v="Gold"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.hotelgold.mk/"/>
+	</node>
+	<node id="3832340805" lat="42.0022531" lon="21.438941" version="2" timestamp="2019-04-04T20:23:31Z" changeset="68898461" uid="6970734" user="Dekacc">
+		<tag k="addr:street" v="76"/>
+		<tag k="name" v="Клан"/>
+		<tag k="name:en" v="Klan"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://hotelimakedonija.com.mk/mk/Hotel/42/Hotel-Klan-Skopje"/>
+	</node>
+	<node id="3832480726" lat="42.0051439" lon="21.4160939" version="3" timestamp="2018-04-14T16:23:37Z" changeset="58092805" uid="6970734" user="Dekacc">
+		<tag k="addr:housenumber" v="27"/>
+		<tag k="addr:street" v="Андон Дуков"/>
+		<tag k="name" v="Скопје"/>
+		<tag k="name:en" v="Skopje"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://hotelimakedonija.com.mk/mk/Hotel/125/Hotel-Skopje-Skopje"/>
+	</node>
+	<node id="3832632324" lat="41.9870966" lon="21.4201316" version="1" timestamp="2015-11-12T14:26:26Z" changeset="35262260" uid="131662" user="borces">
+		<tag k="addr:housenumber" v="28"/>
+		<tag k="addr:street" v="Белградска"/>
+		<tag k="name" v="Тасино Чешмиче"/>
+		<tag k="name:en" v="Tasino Cheshmiche"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="4225391392" lat="41.9968442" lon="21.4157891" version="3" timestamp="2016-07-01T15:19:47Z" changeset="40419804" uid="131662" user="borces">
+		<tag k="addr:housenumber" v="3"/>
+		<tag k="addr:street" v="9 Мај"/>
+		<tag k="alt_name" v="Hotel Vlaho"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="int_name" v="Vlaho"/>
+		<tag k="name" v="Влахо"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="phone" v="+38926092301"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="4361516297" lat="41.9940541" lon="21.407239" version="1" timestamp="2016-08-22T12:49:27Z" changeset="41613947" uid="4432994" user="Hakan Koyunlular">
+		<tag k="name" v="Hotel Pine"/>
+		<tag k="name:mk" v="Hotel Pine"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="4757336509" lat="41.9986179" lon="21.416879" version="1" timestamp="2017-03-27T04:41:41Z" changeset="47190707" uid="98294" user="antal">
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="yes"/>
+		<tag k="name" v="Hotel Elite Plaza"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="4836883321" lat="42.0004589" lon="21.4150646" version="1" timestamp="2017-05-05T13:46:30Z" changeset="48427637" uid="5787571" user="EditCs">
+		<tag k="addr:housenumber" v="34"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Булевар Партизански Одреди"/>
+		<tag k="email" v="skopjehome@gmail.com"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="name" v="Skopje Home Apartment"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.skopjehome.com"/>
+	</node>
+	<node id="5110937025" lat="41.9930093" lon="21.4295391" version="2" timestamp="2018-04-26T18:35:28Z" changeset="58453516" uid="6970734" user="Dekacc">
+		<tag k="addr:street" v="луј пастер"/>
+		<tag k="name" v="Hotel Elsa"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="5176232883" lat="41.9926997" lon="21.4199449" version="3" timestamp="2019-04-01T11:04:17Z" changeset="68749861" uid="131662" user="borces">
+		<tag k="name" v="Queen’s Hotel"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.queenshotel.com.mk"/>
+	</node>
+	<node id="5775648352" lat="42.0009974" lon="21.4380625" version="2" timestamp="2019-05-25T22:52:02Z" changeset="70620946" uid="158784" user="bjankuloski">
+		<tag k="internet_access" v="wlan"/>
+		<tag k="int_name" v="Hotel Aen"/>
+		<tag k="name" v="Хотел Ален"/>
+		<tag k="name:en" v="Hotel Aen"/>
+		<tag k="name:mk" v="Хотел Ален"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6054048703" lat="42.0010641" lon="21.4379326" version="1" timestamp="2018-11-12T06:20:19Z" changeset="64393596" uid="9047835" user="YunDi88">
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6054049794" lat="42.0022254" lon="21.4374547" version="1" timestamp="2018-11-12T06:20:14Z" changeset="64393596" uid="9047835" user="YunDi88">
+		<tag k="name:en" v="Denis"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6767174185" lat="41.9945629" lon="21.4365109" version="1" timestamp="2019-09-02T17:55:08Z" changeset="74009086" uid="4747110" user="sarahkorn">
+		<tag k="name:en" v="Holiday Inn"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6775567585" lat="41.9856205" lon="21.4185394" version="1" timestamp="2019-09-05T19:57:58Z" changeset="74149200" uid="3805118" user="Zbychozdzich">
+		<tag k="name" v="Villa Alexander"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6796436089" lat="42.0017259" lon="21.4362359" version="1" timestamp="2019-09-15T08:28:52Z" changeset="74490716" uid="4242580" user="Ppx">
+		<tag k="name:en" v="BUSHI RESORT&#38;SPA"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6812666692" lat="42.0010327" lon="21.4366814" version="1" timestamp="2019-09-20T17:03:12Z" changeset="74728427" uid="9047835" user="YunDi88">
+		<tag k="name" v="RM"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6814231698" lat="41.9996627" lon="21.4375911" version="1" timestamp="2019-09-21T15:32:29Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="name" v="De koka"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="6821158685" lat="41.9973603" lon="21.4344666" version="1" timestamp="2019-09-24T20:15:03Z" changeset="74876257" uid="9047835" user="YunDi88">
+		<tag k="name" v="Stone Bridge"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9200215927" lat="42.0014929" lon="21.4173088" version="1" timestamp="2021-10-25T16:01:36Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9200216339" lat="41.9974029" lon="21.4234219" version="1" timestamp="2021-10-25T16:01:29Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="name" v="Ani"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9200216343" lat="42.0006611" lon="21.4380384" version="1" timestamp="2021-10-25T16:01:39Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="name" v="Doa"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9200216433" lat="42.0004054" lon="21.4253898" version="1" timestamp="2021-10-25T16:01:15Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="name" v="Villa Nina"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9200216567" lat="41.9955032" lon="21.429975" version="1" timestamp="2021-10-25T16:01:57Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="name" v="Cara"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9200216720" lat="42.0021157" lon="21.4380515" version="1" timestamp="2021-10-25T16:01:25Z" changeset="112954668" uid="9047835" user="YunDi88">
+		<tag k="name" v="Santos"/>
+		<tag k="tourism" v="hotel"/>
+	</node>
+	<node id="9245344480" lat="42.0008751" lon="21.4150013" version="1" timestamp="2021-11-12T08:14:36Z" changeset="113684312" uid="9641379" user="Pan Perníček">
+		<tag k="contact:facebook" v="https://www.facebook.com/hoteldolceinternational/"/>
+		<tag k="contact:phone" v="+389 71 233 474"/>
+		<tag k="name" v="Dolce International Hotel"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://www.hoteldolce.mk/"/>
+	</node>
+	<node id="10128561896" lat="41.9945949" lon="21.3997882" version="1" timestamp="2022-10-25T17:28:32Z" changeset="128049993" uid="13967641" user="NarrowPath">
+		<tag k="contact:email" v="livingroomsmk@gmail.com"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/livingroomshotel/"/>
+		<tag k="contact:instagram" v="https://www.instagram.com/living_rooms_skopje/"/>
+		<tag k="name" v="Living Rooms Hotel"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="phone" v="+38975267999"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://livingrooms.mk"/>
+	</node>
+	<node id="10178375698" lat="41.9953194" lon="21.416194" version="1" timestamp="2022-11-12T15:36:56Z" changeset="128817640" uid="154757" user="Tr4sK">
+		<tag k="name" v="Rose Diplomatique"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.rosediplomatique.com.mk"/>
+	</node>
+	<way id="28212860" version="16" timestamp="2021-12-06T20:52:38Z" changeset="114634140" uid="7140745" user="MatejMecka">
+		<nd ref="4127703114"/>
+		<nd ref="4127703119"/>
+		<nd ref="4127703104"/>
+		<nd ref="4127703106"/>
+		<nd ref="4127703108"/>
+		<nd ref="4127703112"/>
+		<nd ref="4127703115"/>
+		<nd ref="4127703110"/>
+		<nd ref="309875316"/>
+		<nd ref="309875317"/>
+		<nd ref="4127703128"/>
+		<nd ref="4127703126"/>
+		<nd ref="4127703123"/>
+		<nd ref="4127703120"/>
+		<nd ref="4127703136"/>
+		<nd ref="4127703132"/>
+		<nd ref="4127703125"/>
+		<nd ref="4127703124"/>
+		<nd ref="4127703122"/>
+		<nd ref="4127703118"/>
+		<nd ref="4127703114"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Моша Пијаде"/>
+		<tag k="addr:street:en" v="Mosa Pijade"/>
+		<tag k="brand" v="Holiday Inn"/>
+		<tag k="brand:wikidata" v="Q2717882"/>
+		<tag k="brand:wikipedia" v="en:Holiday Inn"/>
+		<tag k="building" v="hotel"/>
+		<tag k="building:levels" v="9"/>
+		<tag k="email" v="hiskopje@holiday-inn.com.mk"/>
+		<tag k="fax" v="+389 2 3115503"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Holiday Inn Skopje"/>
+		<tag k="name:en" v="Holiday Inn"/>
+		<tag k="name:mk" v="Холидеј Ин"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="operator" v="Holiday Inn"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:diners_club" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+389 2 3292929"/>
+		<tag k="rooms" v="178"/>
+		<tag k="smoking" v="separated"/>
+		<tag k="stars" v="4"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://www.holiday-inn.com/skopje"/>
+		<tag k="wheelchair" v="yes"/>
+	</way>
+	<way id="32854672" version="9" timestamp="2018-01-16T15:35:18Z" changeset="55496714" uid="6970734" user="Dekacc">
+		<nd ref="4126731746"/>
+		<nd ref="5339391749"/>
+		<nd ref="4126731457"/>
+		<nd ref="370101632"/>
+		<nd ref="4126731732"/>
+		<nd ref="5339391746"/>
+		<nd ref="5339391745"/>
+		<nd ref="5339391744"/>
+		<nd ref="370100853"/>
+		<nd ref="5343135306"/>
+		<nd ref="5343135312"/>
+		<nd ref="5339391748"/>
+		<nd ref="370100450"/>
+		<nd ref="4126731746"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Кеј Димитар Влахов"/>
+		<tag k="addr:street:en" v="Kej Dimitar Vlahov"/>
+		<tag k="building" v="hotel"/>
+		<tag k="email" v="info@stonebridge-hotel.com"/>
+		<tag k="fax" v="+389 2 3244901"/>
+		<tag k="internet_access" v="yes"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Hotel Stone Bridge"/>
+		<tag k="phone" v="+389 2 3244900"/>
+		<tag k="rooms" v="40"/>
+		<tag k="stars" v="5"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://stonebridge-hotel.com/"/>
+	</way>
+	<way id="32886132" version="6" timestamp="2019-02-08T22:20:44Z" changeset="67038359" uid="7466823" user="Whimsical Otter">
+		<nd ref="370398035"/>
+		<nd ref="370398040"/>
+		<nd ref="370398043"/>
+		<nd ref="370398048"/>
+		<nd ref="370398057"/>
+		<nd ref="370398060"/>
+		<nd ref="2329329555"/>
+		<nd ref="370398062"/>
+		<nd ref="370398067"/>
+		<nd ref="370398071"/>
+		<nd ref="4466635657"/>
+		<nd ref="2329329529"/>
+		<nd ref="370398079"/>
+		<nd ref="370398082"/>
+		<nd ref="370398087"/>
+		<nd ref="370398090"/>
+		<nd ref="5250232969"/>
+		<nd ref="370398094"/>
+		<nd ref="370398035"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Park Hotel &#38; Spa"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="43723187" version="5" timestamp="2015-05-06T15:03:47Z" changeset="30845225" uid="1468248" user="TheBlackMan">
+		<nd ref="553418341"/>
+		<nd ref="553418345"/>
+		<nd ref="553418347"/>
+		<nd ref="1858969948"/>
+		<nd ref="553418341"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="27 Март"/>
+		<tag k="addr:street:en" v="27 Mart"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Hotel Jadran"/>
+		<tag k="name" v="Хотел Јадран"/>
+		<tag k="name1" v="Арапска Куќа"/>
+		<tag k="name:en" v="Hotel Jadran"/>
+		<tag k="operator" v="Македонијатурист"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="121511798" version="5" timestamp="2018-11-20T09:47:49Z" changeset="64688805" uid="4182960" user="ggulabovski">
+		<nd ref="1360100761"/>
+		<nd ref="1360100713"/>
+		<nd ref="1360100724"/>
+		<nd ref="1360100707"/>
+		<nd ref="1360100761"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housename" v="Дувет Букет"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Шумадиска"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Хотел Мола"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="123273648" version="6" timestamp="2021-04-29T12:41:01Z" changeset="103845793" uid="7140745" user="MatejMecka">
+		<nd ref="1375310220"/>
+		<nd ref="309891915"/>
+		<nd ref="5291214216"/>
+		<nd ref="1375310248"/>
+		<nd ref="1375310283"/>
+		<nd ref="5242828741"/>
+		<nd ref="5242828740"/>
+		<nd ref="1375310293"/>
+		<nd ref="1375310220"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Шекспирова"/>
+		<tag k="building" v="yes"/>
+		<tag k="email" v="hotelkarpos@hotelkarpos.com.mk"/>
+		<tag k="fax" v="+389 2 3088389"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="int_name" v="Karposh"/>
+		<tag k="name" v="Хотел Карпош"/>
+		<tag k="phone" v="+389 2 3088388"/>
+		<tag k="stars" v="4"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.hotelkarpos.com.mk"/>
+		<tag k="wheelchair" v="yes"/>
+	</way>
+	<way id="123273652" version="2" timestamp="2015-07-11T19:00:32Z" changeset="32568965" uid="1468248" user="TheBlackMan">
+		<nd ref="1375310210"/>
+		<nd ref="1375310225"/>
+		<nd ref="1375310244"/>
+		<nd ref="1375310249"/>
+		<nd ref="1375310210"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Super 8"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="151212910" version="3" timestamp="2015-07-11T19:00:51Z" changeset="32568965" uid="1468248" user="TheBlackMan">
+		<nd ref="1640353895"/>
+		<nd ref="1640353896"/>
+		<nd ref="1867268232"/>
+		<nd ref="1640353897"/>
+		<nd ref="1867268226"/>
+		<nd ref="1640353894"/>
+		<nd ref="1867268230"/>
+		<nd ref="1640353895"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="59"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Елисие Поповски Марко"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Аристократ палас"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="163279467" version="4" timestamp="2018-05-08T10:16:39Z" changeset="58783490" uid="6970734" user="Dekacc">
+		<nd ref="1750138788"/>
+		<nd ref="4520685322"/>
+		<nd ref="1750138786"/>
+		<nd ref="5604182908"/>
+		<nd ref="3830830359"/>
+		<nd ref="4520685318"/>
+		<nd ref="4520685326"/>
+		<nd ref="1750138779"/>
+		<nd ref="1750138788"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="40"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Наум Наумовски Борче"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Дувет"/>
+		<tag k="name:en" v="Duvet"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="174510458" version="7" timestamp="2017-12-14T20:14:20Z" changeset="54634951" uid="6970734" user="Dekacc">
+		<nd ref="3832524594"/>
+		<nd ref="5284668421"/>
+		<nd ref="5284668422"/>
+		<nd ref="1851811737"/>
+		<nd ref="1851811715"/>
+		<nd ref="1851811713"/>
+		<nd ref="3832524594"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="44"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Митрополит Теодосиј Гологанов"/>
+		<tag k="building" v="office"/>
+		<tag k="name" v="Сити 5"/>
+		<tag k="name:en" v="City 5"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="175282382" version="3" timestamp="2015-07-11T19:03:57Z" changeset="32568965" uid="1468248" user="TheBlackMan">
+		<nd ref="1858997461"/>
+		<nd ref="1858997459"/>
+		<nd ref="1858997443"/>
+		<nd ref="1858997441"/>
+		<nd ref="1858997461"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="contact:website" v="http://www.duvethotel.com/"/>
+		<tag k="name" v="Хотел Дувет"/>
+		<tag k="name:en" v="Duvet Hotel"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="175407560" version="3" timestamp="2017-12-02T11:05:27Z" changeset="54266247" uid="6970734" user="Dekacc">
+		<nd ref="1859990580"/>
+		<nd ref="1859990482"/>
+		<nd ref="5259715478"/>
+		<nd ref="1859990460"/>
+		<nd ref="1859990379"/>
+		<nd ref="1859990644"/>
+		<nd ref="1859990580"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="contact:website" v="http://hotelmhc.com/"/>
+		<tag k="rooms" v="12"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="176147430" version="6" timestamp="2019-03-23T20:42:31Z" changeset="68454784" uid="9451067" user="b-jazz-bot">
+		<nd ref="1867058067"/>
+		<nd ref="1867057771"/>
+		<nd ref="1867057597"/>
+		<nd ref="1867058069"/>
+		<nd ref="1867058067"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="38"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Пиринска"/>
+		<tag k="addr:street:en" v="Pirinska"/>
+		<tag k="building" v="hotel"/>
+		<tag k="email" v="info@hotelambasador-sk.com.mk"/>
+		<tag k="fax" v="+389 2 3215729"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Хотел Амбасадор"/>
+		<tag k="name:en" v="Hotel Ambasador"/>
+		<tag k="phone" v="+389 2 3121383"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://hotelambasador-sk.com.mk/"/>
+	</way>
+	<way id="176173909" version="3" timestamp="2015-11-11T14:33:10Z" changeset="35240906" uid="131662" user="borces">
+		<nd ref="1867268195"/>
+		<nd ref="1867268291"/>
+		<nd ref="1867268257"/>
+		<nd ref="1867268176"/>
+		<nd ref="1867268195"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="18"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Славе Деловски"/>
+		<tag k="addr:street:en" v="Slave Delovski"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Викторија"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="176448663" version="4" timestamp="2018-10-25T12:27:38Z" changeset="63865594" uid="102162" user="-WI-">
+		<nd ref="1869864322"/>
+		<nd ref="1869864221"/>
+		<nd ref="1869864211"/>
+		<nd ref="1869864209"/>
+		<nd ref="1869864300"/>
+		<nd ref="1869864309"/>
+		<nd ref="1869864171"/>
+		<nd ref="1869864143"/>
+		<nd ref="1869864089"/>
+		<nd ref="1869864322"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="8"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Периша Савелиќ"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Vila Vodno"/>
+		<tag k="name" v="Вила Водно"/>
+		<tag k="name:en" v="Vila Vodno"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="wikidata" v="Q3558351"/>
+	</way>
+	<way id="176481145" version="4" timestamp="2021-09-29T11:13:12Z" changeset="111860972" uid="14202714" user="Diddii">
+		<nd ref="1869987574"/>
+		<nd ref="4489563730"/>
+		<nd ref="4489563729"/>
+		<nd ref="1869987611"/>
+		<nd ref="9131848393"/>
+		<nd ref="1869987577"/>
+		<nd ref="1869987656"/>
+		<nd ref="1869987641"/>
+		<nd ref="1869987547"/>
+		<nd ref="1869987674"/>
+		<nd ref="1869987659"/>
+		<nd ref="1869987586"/>
+		<nd ref="9131848392"/>
+		<nd ref="9131848391"/>
+		<nd ref="1869987574"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="90/2"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Битпазарска"/>
+		<tag k="building" v="yes"/>
+		<tag k="internet_access" v="yes"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="int_name" v="Аrka"/>
+		<tag k="name" v="Hotel Arka"/>
+		<tag k="name:mk" v="Хотел Арка"/>
+		<tag k="rooms" v="42"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://hotelarka.mk/"/>
+	</way>
+	<way id="177682992" version="4" timestamp="2019-03-01T16:52:39Z" changeset="67692616" uid="4240913" user="Corban8">
+		<nd ref="1881055147"/>
+		<nd ref="1881055196"/>
+		<nd ref="1881055201"/>
+		<nd ref="1881055151"/>
+		<nd ref="1881055147"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="79"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Аминта Трети"/>
+		<tag k="alt_name" v="Хотел Лаки"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Лаки"/>
+		<tag k="name:en" v="Laki"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="223386513" version="12" timestamp="2021-10-09T13:24:45Z" changeset="112301126" uid="7140745" user="MatejMecka">
+		<nd ref="4144098296"/>
+		<nd ref="5343935537"/>
+		<nd ref="5343935538"/>
+		<nd ref="5343935539"/>
+		<nd ref="4128233436"/>
+		<nd ref="5343935540"/>
+		<nd ref="4128230963"/>
+		<nd ref="1858969947"/>
+		<nd ref="370405643"/>
+		<nd ref="370405641"/>
+		<nd ref="5343935534"/>
+		<nd ref="5343935535"/>
+		<nd ref="5343935536"/>
+		<nd ref="4144098296"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="air_conditioning" v="yes"/>
+		<tag k="brand" v="Marriott"/>
+		<tag k="brand:wikidata" v="Q1141173"/>
+		<tag k="brand:wikipedia" v="en:Marriott International"/>
+		<tag k="building" v="hotel"/>
+		<tag k="building:levels" v="8"/>
+		<tag k="fax" v="+389 2 510 2513"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="customers"/>
+		<tag k="int_name" v="Marriott Skopje"/>
+		<tag k="level" v="10"/>
+		<tag k="name" v="Хотел Мериот Скопје"/>
+		<tag k="name:en" v="Marriott Skopje"/>
+		<tag k="operator" v="Marriott"/>
+		<tag k="pets_allowed" v="yes"/>
+		<tag k="phone" v="+389 2 510 2510"/>
+		<tag k="rooms" v="164"/>
+		<tag k="stars" v="5"/>
+		<tag k="surveillance" v="indoor;outdoor"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="swimming_pool" v="indoor"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="223409538" version="6" timestamp="2017-11-25T15:40:27Z" changeset="54075241" uid="6970734" user="Dekacc">
+		<nd ref="2323088700"/>
+		<nd ref="2323088699"/>
+		<nd ref="2323082560"/>
+		<nd ref="2323082565"/>
+		<nd ref="2323082567"/>
+		<nd ref="2323082563"/>
+		<nd ref="2323088700"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Коле Неделковски"/>
+		<tag k="addr:street:en" v="Kole Nedelkovski Street"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Hotel Residence Inn"/>
+		<tag k="name" v="Хотел Резиденс Ин"/>
+		<tag k="name:en" v="Hotel Residence Inn"/>
+		<tag k="stars" v="3"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="245968817" version="4" timestamp="2022-11-11T17:45:11Z" changeset="128787154" uid="154757" user="Tr4sK">
+		<nd ref="2530671100"/>
+		<nd ref="2530671067"/>
+		<nd ref="2530671127"/>
+		<nd ref="2530671172"/>
+		<nd ref="2530671100"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="1Б"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Миле Поп Јорданов"/>
+		<tag k="addr:street:en" v="Mile Pop Jordanov"/>
+		<tag k="building" v="hotel"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Pine Hotel"/>
+		<tag k="name:en" v="Pine Hotel"/>
+		<tag k="payment:american_express" v="yes"/>
+		<tag k="payment:coins" v="yes"/>
+		<tag k="payment:mastercard" v="yes"/>
+		<tag k="payment:notes" v="yes"/>
+		<tag k="payment:visa" v="yes"/>
+		<tag k="phone" v="+389 2 306 0041"/>
+		<tag k="smoking" v="no"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.hotelpine.com.mk/"/>
+	</way>
+	<way id="248521653" version="3" timestamp="2016-04-10T09:44:09Z" changeset="38446385" uid="1468248" user="TheBlackMan">
+		<nd ref="2552935991"/>
+		<nd ref="2552935936"/>
+		<nd ref="2552935953"/>
+		<nd ref="2552935932"/>
+		<nd ref="2552935991"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="13a"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Тодор Александров"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Вила Рагуза"/>
+		<tag k="name:en" v="Vila Raguza"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="266131949" version="3" timestamp="2015-07-11T19:00:13Z" changeset="32568965" uid="1468248" user="TheBlackMan">
+		<nd ref="2717099201"/>
+		<nd ref="2717099203"/>
+		<nd ref="2717099200"/>
+		<nd ref="2717099202"/>
+		<nd ref="2717099201"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="8A"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Михаил Цоков"/>
+		<tag k="building" v="yes"/>
+		<tag k="contact:phone" v="+389 02 3 290 860"/>
+		<tag k="name" v="Hotel City Park"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.hotelcitypark.com.mk/en.htm"/>
+	</way>
+	<way id="279392655" version="5" timestamp="2016-04-09T10:16:50Z" changeset="38425611" uid="1468248" user="TheBlackMan">
+		<nd ref="2836006288"/>
+		<nd ref="2836006289"/>
+		<nd ref="2836006290"/>
+		<nd ref="2836006291"/>
+		<nd ref="2836006288"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="1737"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="1733, 24"/>
+		<tag k="building" v="hotel"/>
+		<tag k="building:levels" v="6"/>
+		<tag k="email" v="info@operahousehotel.mk"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Opera House Hotel Skopje"/>
+		<tag k="phone" v="+389 (0)2 3 22 50 07"/>
+		<tag k="stars" v="4"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://operahousehotel.mk"/>
+	</way>
+	<way id="279392659" version="4" timestamp="2018-04-21T16:17:39Z" changeset="58293786" uid="5703312" user="toygarlk">
+		<nd ref="2836007510"/>
+		<nd ref="2836007511"/>
+		<nd ref="2836007512"/>
+		<nd ref="2836007513"/>
+		<nd ref="2836007514"/>
+		<nd ref="2836007515"/>
+		<nd ref="2836007516"/>
+		<nd ref="2836007517"/>
+		<nd ref="2836007510"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="6"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Пајко Маало"/>
+		<tag k="building" v="apartments"/>
+		<tag k="email" v="info@Lsarent.com"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Luxury Skopje Apartments"/>
+		<tag k="operator" v="otel"/>
+		<tag k="phone" v="+389 (0)71 38 68 11"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://luxuryskopjeapartments.com/"/>
+	</way>
+	<way id="302754976" version="4" timestamp="2016-04-14T16:17:05Z" changeset="38559507" uid="1468248" user="TheBlackMan">
+		<nd ref="3070264621"/>
+		<nd ref="3070264622"/>
+		<nd ref="3070264623"/>
+		<nd ref="3070264624"/>
+		<nd ref="3070264621"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="hotel"/>
+		<tag k="name" v="Solun"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="358395489" version="3" timestamp="2019-03-23T20:42:21Z" changeset="68454781" uid="9451067" user="b-jazz-bot">
+		<nd ref="3633126618"/>
+		<nd ref="3633194099"/>
+		<nd ref="5256788725"/>
+		<nd ref="5256788724"/>
+		<nd ref="3633126618"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Булевар 8ми Септември"/>
+		<tag k="addr:street:en" v="Boulevard 8th September"/>
+		<tag k="building" v="hotel"/>
+		<tag k="building:levels" v="7"/>
+		<tag k="email" v="info@tccgrandplaza.com"/>
+		<tag k="fax" v="+38923080850"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="ТЦЦ Гранд Плаза"/>
+		<tag k="name:en" v="TCC Grand Plaza"/>
+		<tag k="phone" v="+38923080850"/>
+		<tag k="stars" v="4"/>
+		<tag k="surveillance" v="indoor;outdoor"/>
+		<tag k="surveillance:type" v="camera"/>
+		<tag k="surveillance:zone" v="building"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://tccgrandplaza.com/"/>
+		<tag k="wheelchair" v="yes"/>
+	</way>
+	<way id="368250859" version="1" timestamp="2015-08-30T07:04:07Z" changeset="33676795" uid="344903" user="Toyota_79">
+		<nd ref="3721012771"/>
+		<nd ref="3721012769"/>
+		<nd ref="3721012766"/>
+		<nd ref="3721012767"/>
+		<nd ref="3721012768"/>
+		<nd ref="3721012770"/>
+		<nd ref="3721012771"/>
+		<tag k="building" v="commercial"/>
+		<tag k="name" v="Hotel Europe"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="379748884" version="2" timestamp="2017-02-26T15:59:54Z" changeset="46418907" uid="4358750" user="mariegorman">
+		<nd ref="3830788257"/>
+		<nd ref="3830788258"/>
+		<nd ref="3830788261"/>
+		<nd ref="3830788259"/>
+		<nd ref="3830788257"/>
+		<tag k="addr:housenumber" v="36"/>
+		<tag k="addr:street" v="Јосиф Јосифовски Свештарот"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Premier"/>
+		<tag k="name" v="Премиер"/>
+		<tag k="name:en" v="Premier"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="379878806" version="2" timestamp="2017-02-27T18:41:50Z" changeset="46448745" uid="4358750" user="mariegorman">
+		<nd ref="3832274310"/>
+		<nd ref="3832274320"/>
+		<nd ref="3832274312"/>
+		<nd ref="3832274314"/>
+		<nd ref="3832274310"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Хамбург"/>
+		<tag k="name:en" v="Hamburg"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://hotelhamburg.mk/"/>
+	</way>
+	<way id="379884572" version="2" timestamp="2017-02-26T18:12:09Z" changeset="46422210" uid="4358750" user="mariegorman">
+		<nd ref="1854161940"/>
+		<nd ref="3832333044"/>
+		<nd ref="3832333049"/>
+		<nd ref="3832333051"/>
+		<nd ref="1854161940"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Софка Парк - Кај Ефто"/>
+		<tag k="name:en" v="Sofka Park - Kaj Efto"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://hotelimakedonija.com.mk/mk/Hotel/1161/Hotel-Sofka-Park-Kaj-Efto-Skopje"/>
+	</way>
+	<way id="379884574" version="2" timestamp="2017-02-26T18:12:09Z" changeset="46422210" uid="4358750" user="mariegorman">
+		<nd ref="3832333557"/>
+		<nd ref="3832333559"/>
+		<nd ref="3832333045"/>
+		<nd ref="3832333047"/>
+		<nd ref="3832333557"/>
+		<tag k="addr:housenumber" v="14"/>
+		<tag k="addr:street" v="Јордан Хаџиконстантинов Џинот"/>
+		<tag k="amenity" v="restaurant"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Томче Софка"/>
+		<tag k="name:en" v="Tomche Sofka"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://hotelimakedonija.com.mk/mk/Hotel/62/Hotel-Tomce-Sofka-Skopje"/>
+	</way>
+	<way id="409230503" version="1" timestamp="2016-04-10T09:43:53Z" changeset="38446385" uid="1468248" user="TheBlackMan">
+		<nd ref="4111317959"/>
+		<nd ref="4111317961"/>
+		<nd ref="4111317960"/>
+		<nd ref="4111317958"/>
+		<nd ref="4111317959"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Партенија Зографски"/>
+		<tag k="addr:street:en" v="Partenij Zografski"/>
+		<tag k="building" v="hotel"/>
+		<tag k="email" v="info@hotel-leonardo.com.mk"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="no"/>
+		<tag k="name" v="Хотел Леонардо"/>
+		<tag k="phone" v="+389 2 3177517"/>
+		<tag k="stars" v="3"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.hotel-leonardo.com.mk/"/>
+	</way>
+	<way id="412064016" version="2" timestamp="2017-04-22T20:50:05Z" changeset="48044400" uid="344903" user="Toyota_79">
+		<nd ref="4136023090"/>
+		<nd ref="4136023091"/>
+		<nd ref="4136023092"/>
+		<nd ref="4136022788"/>
+		<nd ref="4136022787"/>
+		<nd ref="4136023089"/>
+		<nd ref="4136023090"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="hotel"/>
+		<tag k="name" v="Glam"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="474869849" version="3" timestamp="2019-04-06T16:22:36Z" changeset="68956093" uid="6970734" user="Dekacc">
+		<nd ref="4687310311"/>
+		<nd ref="4692088352"/>
+		<nd ref="6387870470"/>
+		<nd ref="4692088354"/>
+		<nd ref="6387870469"/>
+		<nd ref="4687310312"/>
+		<nd ref="4692088355"/>
+		<nd ref="6387870468"/>
+		<nd ref="6387870467"/>
+		<nd ref="4687310313"/>
+		<nd ref="4687310314"/>
+		<nd ref="4687310318"/>
+		<nd ref="4692088350"/>
+		<nd ref="4687310311"/>
+		<tag k="addr:city" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="21"/>
+		<tag k="addr:place" v="Samoilova"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Samoilova Kjurchiska"/>
+		<tag k="building" v="yes"/>
+		<tag k="email" v="info@bushiresort.com"/>
+		<tag k="name" v="Bushi Resort &#38; Spa"/>
+		<tag k="operator" v="Bushi Resort &#38; Spa"/>
+		<tag k="phone" v="+389 2 312 5130"/>
+		<tag k="stars" v="5"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://bushiresort.com/info/"/>
+	</way>
+	<way id="474869852" version="2" timestamp="2017-02-27T18:41:51Z" changeset="46448745" uid="4358750" user="mariegorman">
+		<nd ref="4687310328"/>
+		<nd ref="4687310329"/>
+		<nd ref="4687310330"/>
+		<nd ref="2989362562"/>
+		<nd ref="4687310332"/>
+		<nd ref="4687310333"/>
+		<nd ref="4687310334"/>
+		<nd ref="4687310328"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="105"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Kavtandziska"/>
+		<tag k="building" v="yes"/>
+		<tag k="contact:booking.com" v="http://www.booking.com/hotel/mk/old-bazaar.en-gb.html"/>
+		<tag k="contact:facebook" v="https://www.facebook.com/hoteloldbazaar"/>
+		<tag k="contact:google_plus" v="https://plus.google.com/+Oldbazaarhotel"/>
+		<tag k="contact:tripadvisor" v="http://www.tripadvisor.com/Hotel_Review-g295110-d6833184-Reviews-Hotel_Old_Bazaar-Skopje_Skopje_Region.html"/>
+		<tag k="name" v="Hotel Old Bazaar"/>
+		<tag k="phone" v="+389 2 3241 176"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.old-bazaar.com"/>
+	</way>
+	<way id="476217893" version="2" timestamp="2019-02-19T21:18:35Z" changeset="67368269" uid="8759140" user="_Poliwrath_">
+		<nd ref="4698491213"/>
+		<nd ref="369390741"/>
+		<nd ref="4698491214"/>
+		<nd ref="4698491215"/>
+		<nd ref="4698491213"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="VIP"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="477333711" version="4" timestamp="2019-02-22T09:46:59Z" changeset="67459574" uid="616774" user="mueschel">
+		<nd ref="4707062776"/>
+		<nd ref="4707062774"/>
+		<nd ref="4707062775"/>
+		<nd ref="4241799891"/>
+		<nd ref="4707062776"/>
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:street" v="Владимир Полежановски"/>
+		<tag k="building" v="yes"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="520541600" version="5" timestamp="2018-06-23T18:10:28Z" changeset="60106276" uid="4846445" user="Václav Fanta">
+		<nd ref="5073379956"/>
+		<nd ref="5073379957"/>
+		<nd ref="5073379958"/>
+		<nd ref="5073379959"/>
+		<nd ref="5073379956"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Велешка"/>
+		<tag k="building" v="yes"/>
+		<tag k="internet_access" v="yes"/>
+		<tag k="internet_access:fee" v="yes"/>
+		<tag k="name" v="Apart Hotel Kalonis"/>
+		<tag k="stars" v="3"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+	<way id="567699030" version="2" timestamp="2018-03-08T07:26:25Z" changeset="56990163" uid="1770498" user="marcusfey">
+		<nd ref="5463744205"/>
+		<nd ref="5463744206"/>
+		<nd ref="5463744207"/>
+		<nd ref="5463744208"/>
+		<nd ref="5463744205"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:housenumber" v="2"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Загребска"/>
+		<tag k="building" v="yes"/>
+		<tag k="internet_access" v="wlan"/>
+		<tag k="internet_access:fee" v="yes"/>
+		<tag k="name" v="Hotel Garden Spa"/>
+		<tag k="rooms" v="11"/>
+		<tag k="stars" v="4"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="http://www.gardenspa.mk"/>
+	</way>
+	<way id="613902029" version="4" timestamp="2022-04-21T16:41:10Z" changeset="120009591" uid="15166891" user="SilverStorm03">
+		<nd ref="5807750055"/>
+		<nd ref="5807750054"/>
+		<nd ref="5807750053"/>
+		<nd ref="5807750052"/>
+		<nd ref="5807750055"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:housenumber" v="55"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Васил Иљоски"/>
+		<tag k="building" v="house"/>
+		<tag k="email" v="H9672@accor.com"/>
+		<tag k="name" v="Ibis Skopje City Center"/>
+		<tag k="operator" v="Accor Group"/>
+		<tag k="phone" v="+38923123700"/>
+		<tag k="tourism" v="hotel"/>
+		<tag k="website" v="https://www.accorhotels.com/nl/hotel-9672-ibis-skopje-city-center/index.shtml"/>
+	</way>
+	<way id="1004712037" version="1" timestamp="2021-11-20T15:20:49Z" changeset="114030926" uid="9545352" user="Makedonium">
+		<nd ref="9269907735"/>
+		<nd ref="9269907736"/>
+		<nd ref="9269907737"/>
+		<nd ref="9269907738"/>
+		<nd ref="9269907739"/>
+		<nd ref="9269907740"/>
+		<nd ref="9269907741"/>
+		<nd ref="9269907742"/>
+		<nd ref="9269907743"/>
+		<nd ref="9269907744"/>
+		<nd ref="9269907735"/>
+		<tag k="addr:city" v="Скопје"/>
+		<tag k="addr:housenumber" v="1"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Македонија"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Хотел Бристол"/>
+		<tag k="name:en" v="Hotel Bristol"/>
+		<tag k="tourism" v="hotel"/>
+	</way>
+</osm>

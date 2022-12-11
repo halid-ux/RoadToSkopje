@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9846" minlon="21.394" maxlat="42.0063" maxlon="21.4518"/>
+	<node id="908273297" lat="42.0004368" lon="21.4356419" version="4" timestamp="2016-04-16T17:48:45Z" changeset="38628030" uid="1468248" user="TheBlackMan">
+		<tag k="amenity" v="fountain"/>
+	</node>
+	<node id="908273418" lat="42.0030897" lon="21.4370514" version="2" timestamp="2012-08-17T11:12:18Z" changeset="12761202" uid="131662" user="borces">
+		<tag k="amenity" v="fountain"/>
+	</node>
+	<node id="4732880619" lat="42.0027342" lon="21.4232138" version="3" timestamp="2022-11-07T20:12:24Z" changeset="128612289" uid="11740571" user="Krakathon">
+		<tag k="amenity" v="fountain"/>
+	</node>
+	<node id="6814246703" lat="42.0045699" lon="21.4402013" version="1" timestamp="2019-09-21T15:32:07Z" changeset="74752372" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="fountain"/>
+		<tag k="name" v="Drinking Water"/>
+	</node>
+	<node id="6815559886" lat="41.9993717" lon="21.4187328" version="1" timestamp="2019-09-22T13:04:13Z" changeset="74771509" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="fountain"/>
+		<tag k="name" v="Drinking water"/>
+	</node>
+	<node id="6815931388" lat="42.0028481" lon="21.4390289" version="1" timestamp="2019-09-22T17:52:54Z" changeset="74777891" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="fountain"/>
+	</node>
+	<node id="6821158385" lat="41.9920157" lon="21.4403539" version="1" timestamp="2019-09-24T20:15:02Z" changeset="74876257" uid="9047835" user="YunDi88">
+		<tag k="amenity" v="fountain"/>
+		<tag k="name" v="Drinking water"/>
+	</node>
+	<node id="10154556324" lat="42.0013829" lon="21.422836" version="1" timestamp="2022-11-03T12:31:08Z" changeset="128436927" uid="154757" user="Tr4sK">
+		<tag k="amenity" v="fountain"/>
+		<tag k="drinking_water" v="yes"/>
+	</node>
+	<way id="176134104" version="2" timestamp="2015-03-09T19:12:31Z" changeset="29368971" uid="310589" user="hno2">
+		<nd ref="1866947164"/>
+		<nd ref="1866947160"/>
+		<nd ref="1866947158"/>
+		<nd ref="1866947147"/>
+		<nd ref="1866947151"/>
+		<nd ref="1866947156"/>
+		<nd ref="1866947150"/>
+		<nd ref="1866947155"/>
+		<nd ref="1866947146"/>
+		<nd ref="1866947159"/>
+		<nd ref="1866947149"/>
+		<nd ref="1866947157"/>
+		<nd ref="1866947162"/>
+		<nd ref="1866947154"/>
+		<nd ref="1866947161"/>
+		<nd ref="1866947153"/>
+		<nd ref="1866947148"/>
+		<nd ref="1866947163"/>
+		<nd ref="1866947152"/>
+		<nd ref="1866947164"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="176160189" version="8" timestamp="2021-11-21T08:01:34Z" changeset="114048685" uid="10703654" user="Aaro Hart">
+		<nd ref="1867156170"/>
+		<nd ref="1867156172"/>
+		<nd ref="1867156133"/>
+		<nd ref="1867156161"/>
+		<nd ref="1867156159"/>
+		<nd ref="1867156136"/>
+		<nd ref="1867156131"/>
+		<nd ref="1867156157"/>
+		<nd ref="1867156137"/>
+		<nd ref="1867156142"/>
+		<nd ref="1867156143"/>
+		<nd ref="1867156166"/>
+		<nd ref="1867156134"/>
+		<nd ref="1867156139"/>
+		<nd ref="1867156171"/>
+		<nd ref="1867156164"/>
+		<nd ref="1867156168"/>
+		<nd ref="1867156135"/>
+		<nd ref="1867156132"/>
+		<nd ref="1867156170"/>
+		<tag k="amenity" v="fountain"/>
+		<tag k="layer" v="1"/>
+		<tag k="name:en" v="Alexander the Great Statue"/>
+		<tag k="natural" v="water"/>
+	</way>
+	<way id="177046551" version="2" timestamp="2021-02-22T19:47:54Z" changeset="99768505" uid="11675352" user="jdamjan">
+		<nd ref="1875133969"/>
+		<nd ref="1875133989"/>
+		<nd ref="1875133997"/>
+		<nd ref="1875133967"/>
+		<nd ref="1875133993"/>
+		<nd ref="1875133994"/>
+		<nd ref="1875133979"/>
+		<nd ref="1875133964"/>
+		<nd ref="1875133991"/>
+		<nd ref="1875133999"/>
+		<nd ref="1875133990"/>
+		<nd ref="1875133970"/>
+		<nd ref="1875133987"/>
+		<nd ref="1875134000"/>
+		<nd ref="1875133966"/>
+		<nd ref="1875133977"/>
+		<nd ref="1875133998"/>
+		<nd ref="1875133981"/>
+		<nd ref="1875133969"/>
+		<tag k="amenity" v="fountain"/>
+		<tag k="drinking_water" v="no"/>
+	</way>
+	<way id="342798958" version="2" timestamp="2021-02-22T19:47:54Z" changeset="99768505" uid="11675352" user="jdamjan">
+		<nd ref="3497498227"/>
+		<nd ref="3497498225"/>
+		<nd ref="3497498223"/>
+		<nd ref="3497498221"/>
+		<nd ref="3497498219"/>
+		<nd ref="3497498217"/>
+		<nd ref="3497498215"/>
+		<nd ref="3497498213"/>
+		<nd ref="3497498211"/>
+		<nd ref="3497498210"/>
+		<nd ref="3497498212"/>
+		<nd ref="3497498214"/>
+		<nd ref="3497498216"/>
+		<nd ref="3497498218"/>
+		<nd ref="3497498220"/>
+		<nd ref="3497498222"/>
+		<nd ref="3497498224"/>
+		<nd ref="3497498226"/>
+		<nd ref="3497498227"/>
+		<tag k="amenity" v="fountain"/>
+		<tag k="drinking_water" v="no"/>
+	</way>
+	<way id="415035843" version="1" timestamp="2016-05-02T11:34:50Z" changeset="39036275" uid="1468248" user="TheBlackMan">
+		<nd ref="4161249371"/>
+		<nd ref="4161249366"/>
+		<nd ref="4161249364"/>
+		<nd ref="4161249362"/>
+		<nd ref="4161249360"/>
+		<nd ref="4161249358"/>
+		<nd ref="4161249356"/>
+		<nd ref="4161249354"/>
+		<nd ref="4161249352"/>
+		<nd ref="4161249350"/>
+		<nd ref="4161249351"/>
+		<nd ref="4161249353"/>
+		<nd ref="4161249355"/>
+		<nd ref="4161249357"/>
+		<nd ref="4161249359"/>
+		<nd ref="4161249361"/>
+		<nd ref="4161249363"/>
+		<nd ref="4161249365"/>
+		<nd ref="4161249369"/>
+		<nd ref="4161249371"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="415035844" version="1" timestamp="2016-05-02T11:34:50Z" changeset="39036275" uid="1468248" user="TheBlackMan">
+		<nd ref="4161249349"/>
+		<nd ref="4161249347"/>
+		<nd ref="4161249345"/>
+		<nd ref="4161249343"/>
+		<nd ref="4161249341"/>
+		<nd ref="4161249339"/>
+		<nd ref="4161249337"/>
+		<nd ref="4161249335"/>
+		<nd ref="4161249333"/>
+		<nd ref="4161249331"/>
+		<nd ref="4161249332"/>
+		<nd ref="4161249334"/>
+		<nd ref="4161249336"/>
+		<nd ref="4161249338"/>
+		<nd ref="4161249340"/>
+		<nd ref="4161249342"/>
+		<nd ref="4161249344"/>
+		<nd ref="4161249346"/>
+		<nd ref="4161249348"/>
+		<nd ref="4161249349"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="415035845" version="2" timestamp="2020-07-30T08:47:30Z" changeset="88720770" uid="244754" user="Janjko">
+		<nd ref="4161259674"/>
+		<nd ref="7769341084"/>
+		<nd ref="4161259672"/>
+		<nd ref="4161259670"/>
+		<nd ref="7769353286"/>
+		<nd ref="7769353287"/>
+		<nd ref="7769353288"/>
+		<nd ref="7769353285"/>
+		<nd ref="7769341083"/>
+		<nd ref="7769341082"/>
+		<nd ref="4161259668"/>
+		<nd ref="4161249379"/>
+		<nd ref="4161249377"/>
+		<nd ref="4161249375"/>
+		<nd ref="4161249373"/>
+		<nd ref="4161249370"/>
+		<nd ref="4161249367"/>
+		<nd ref="4161249368"/>
+		<nd ref="4161249372"/>
+		<nd ref="4161249374"/>
+		<nd ref="4161249376"/>
+		<nd ref="4161249378"/>
+		<nd ref="4161259667"/>
+		<nd ref="4161259669"/>
+		<nd ref="4161259671"/>
+		<nd ref="4161259673"/>
+		<nd ref="4161259674"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="419530749" version="2" timestamp="2019-05-06T12:38:14Z" changeset="69934530" uid="158784" user="bjankuloski">
+		<nd ref="4195764170"/>
+		<nd ref="4195764172"/>
+		<nd ref="4195764171"/>
+		<nd ref="4195764169"/>
+		<nd ref="4195764170"/>
+		<tag k="amenity" v="fountain"/>
+		<tag k="name" v="Водоскоци"/>
+	</way>
+	<way id="474874680" version="2" timestamp="2017-12-13T14:11:02Z" changeset="54597686" uid="6970734" user="Dekacc">
+		<nd ref="4687357461"/>
+		<nd ref="4687357462"/>
+		<nd ref="4687357463"/>
+		<nd ref="4687357464"/>
+		<nd ref="4687357465"/>
+		<nd ref="4687357466"/>
+		<nd ref="4687357467"/>
+		<nd ref="4687357468"/>
+		<nd ref="4687357450"/>
+		<nd ref="4687357451"/>
+		<nd ref="4687357454"/>
+		<nd ref="4687357455"/>
+		<nd ref="4687357456"/>
+		<nd ref="4687357457"/>
+		<nd ref="4687357458"/>
+		<nd ref="4687357459"/>
+		<nd ref="4687357460"/>
+		<nd ref="4687357452"/>
+		<nd ref="4687357453"/>
+		<nd ref="4687357461"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="540085599" version="1" timestamp="2017-11-12T23:21:27Z" changeset="53725801" uid="6970734" user="Dekacc">
+		<nd ref="5225555533"/>
+		<nd ref="5225555534"/>
+		<nd ref="5225555535"/>
+		<nd ref="5225555536"/>
+		<nd ref="5225555533"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="553552309" version="1" timestamp="2018-01-16T14:52:04Z" changeset="55495521" uid="6970734" user="Dekacc">
+		<nd ref="5343066757"/>
+		<nd ref="5343066758"/>
+		<nd ref="5343066759"/>
+		<nd ref="5343066760"/>
+		<nd ref="5343066761"/>
+		<nd ref="5343066762"/>
+		<nd ref="5343066763"/>
+		<nd ref="5343066764"/>
+		<nd ref="5343066765"/>
+		<nd ref="5343066775"/>
+		<nd ref="5343066766"/>
+		<nd ref="5343066767"/>
+		<nd ref="5343066768"/>
+		<nd ref="5343066769"/>
+		<nd ref="5343066770"/>
+		<nd ref="5343066771"/>
+		<nd ref="5343066772"/>
+		<nd ref="5343066773"/>
+		<nd ref="5343066774"/>
+		<nd ref="5343066757"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="655937848" version="1" timestamp="2018-12-18T12:55:45Z" changeset="65580246" uid="131662" user="borces">
+		<nd ref="6145077016"/>
+		<nd ref="6145077041"/>
+		<nd ref="6145077025"/>
+		<nd ref="6145077006"/>
+		<nd ref="6145077035"/>
+		<nd ref="6145077021"/>
+		<nd ref="6145077036"/>
+		<nd ref="6145077040"/>
+		<nd ref="6145077017"/>
+		<nd ref="6145077038"/>
+		<nd ref="6145077011"/>
+		<nd ref="6145077037"/>
+		<nd ref="6145077022"/>
+		<nd ref="6145077009"/>
+		<nd ref="6145077023"/>
+		<nd ref="6145077007"/>
+		<nd ref="6145077015"/>
+		<nd ref="6145077010"/>
+		<nd ref="6145077016"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<way id="655937849" version="1" timestamp="2018-12-18T12:55:45Z" changeset="65580246" uid="131662" user="borces">
+		<nd ref="6145077042"/>
+		<nd ref="6145077013"/>
+		<nd ref="6145077030"/>
+		<nd ref="6145077014"/>
+		<nd ref="6145077024"/>
+		<nd ref="6145077008"/>
+		<nd ref="6145077029"/>
+		<nd ref="6145077026"/>
+		<nd ref="6145077032"/>
+		<nd ref="6145077018"/>
+		<nd ref="6145077034"/>
+		<nd ref="6145077019"/>
+		<nd ref="6145077028"/>
+		<nd ref="6145077027"/>
+		<nd ref="6145077031"/>
+		<nd ref="6145077020"/>
+		<nd ref="6145077033"/>
+		<nd ref="6145077012"/>
+		<nd ref="6145077039"/>
+		<nd ref="6145077042"/>
+		<tag k="amenity" v="fountain"/>
+	</way>
+	<relation id="14249535" version="1" timestamp="2022-06-13T20:13:48Z" changeset="122341889" uid="3636444" user="Muki Mačković">
+		<member type="way" ref="832161046" role="outer"/>
+		<member type="way" ref="1069396719" role="inner"/>
+		<tag k="amenity" v="fountain"/>
+		<tag k="type" v="multipolygon"/>
+	</relation>
+</osm>

@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.4.5">
+	<bounds minlat="41.9846" minlon="21.394" maxlat="42.0063" maxlon="21.4518"/>
+	<node id="4271160712" lat="41.9936684" lon="21.4317487" version="3" timestamp="2018-07-01T09:42:26Z" changeset="60317888" uid="6970734" user="Dekacc">
+		<tag k="historic" v="monument"/>
+		<tag k="name" v="Бегова кула"/>
+		<tag k="name:en" v="Bey&#39;s Tower"/>
+		<tag k="name:tr" v="Bey kulesi"/>
+		<tag k="tourism" v="attraction"/>
+	</node>
+	<node id="4413612189" lat="41.9959432" lon="21.4367853" version="2" timestamp="2019-06-08T14:01:45Z" changeset="71051705" uid="158784" user="bjankuloski">
+		<tag k="name" v="Палата „Борис Сарафов“"/>
+		<tag k="name:en" v="Boris Sarafov Palace"/>
+		<tag k="tourism" v="attraction"/>
+	</node>
+	<node id="4440746389" lat="41.9930933" lon="21.4298952" version="3" timestamp="2019-03-31T22:42:52Z" changeset="68737236" uid="361707" user="0xF00F">
+		<tag k="name" v="Wall Street Bull"/>
+		<tag k="name:en" v="Wall Street Bull"/>
+		<tag k="name:mk" v="Wall Street Bull"/>
+		<tag k="tourism" v="attraction"/>
+	</node>
+	<node id="5010846621" lat="42.0007057" lon="21.4365749" version="2" timestamp="2022-11-11T07:05:35Z" changeset="128762290" uid="3423733" user="A_Ku">
+		<tag k="name:en" v="Old Bazar, Skopje"/>
+		<tag k="name:pl" v="Stary Bazar w Skopje"/>
+		<tag k="tourism" v="attraction"/>
+	</node>
+	<node id="5901740885" lat="41.9953348" lon="21.4321351" version="1" timestamp="2018-09-12T12:24:36Z" changeset="62518958" uid="6066920" user="KorBorNor">
+		<tag k="name:en" v="Mother Teresa Old House Place"/>
+		<tag k="tourism" v="attraction"/>
+	</node>
+	<way id="28214395" version="18" timestamp="2021-11-10T18:49:57Z" changeset="113622078" uid="14433868" user="janamicevska">
+		<nd ref="444829533"/>
+		<nd ref="5263672937"/>
+		<nd ref="309892538"/>
+		<nd ref="368007299"/>
+		<nd ref="309892543"/>
+		<nd ref="4136023128"/>
+		<nd ref="368007301"/>
+		<nd ref="5025833453"/>
+		<nd ref="5025833451"/>
+		<nd ref="368007302"/>
+		<nd ref="309892551"/>
+		<nd ref="309892552"/>
+		<nd ref="309892553"/>
+		<nd ref="172347401"/>
+		<nd ref="5324055695"/>
+		<nd ref="5324055696"/>
+		<nd ref="309892554"/>
+		<nd ref="172347404"/>
+		<nd ref="172347406"/>
+		<nd ref="172347408"/>
+		<nd ref="444829539"/>
+		<nd ref="444829532"/>
+		<nd ref="444829533"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="addr:street" v="Булевар Илинден"/>
+		<tag k="addr:street:en" v="Bulevard Ilinden"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="check_date:opening_hours" v="2021-02-19"/>
+		<tag k="email" v="zooskopje@zooskopje.com"/>
+		<tag k="fee" v="yes"/>
+		<tag k="name" v="Зоолошка градина скопје"/>
+		<tag k="name:en" v="Skopje Zoo"/>
+		<tag k="opening_hours" v="09:00-18:00"/>
+		<tag k="phone" v="+389 2 3220578"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="website" v="http://www.zooskopje.com.mk/"/>
+		<tag k="wikidata" v="Q3133681"/>
+		<tag k="wikipedia" v="mk:Зоолошка градина Скопје"/>
+	</way>
+	<way id="44038503" version="7" timestamp="2019-05-25T22:52:03Z" changeset="70620946" uid="158784" user="bjankuloski">
+		<nd ref="559902281"/>
+		<nd ref="559902283"/>
+		<nd ref="559902286"/>
+		<nd ref="559902287"/>
+		<nd ref="559902281"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Саат-кула"/>
+		<tag k="name:tr" v="Saat kulesi"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wikidata" v="Q1131501"/>
+	</way>
+	<way id="44038732" version="8" timestamp="2018-10-25T12:27:32Z" changeset="63865594" uid="102162" user="-WI-">
+		<nd ref="559905942"/>
+		<nd ref="559905944"/>
+		<nd ref="559905945"/>
+		<nd ref="1859857522"/>
+		<nd ref="1859857517"/>
+		<nd ref="1859857563"/>
+		<nd ref="1859857553"/>
+		<nd ref="559905946"/>
+		<nd ref="559905942"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="mosque"/>
+		<tag k="name" v="Иса-бегова џамија"/>
+		<tag k="name:sq" v="Xhamija e Isa Begit"/>
+		<tag k="religion" v="muslim"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wikidata" v="Q1509599"/>
+	</way>
+	<way id="172178304" version="8" timestamp="2019-05-25T22:52:03Z" changeset="70620946" uid="158784" user="bjankuloski">
+		<nd ref="1831108086"/>
+		<nd ref="1831108082"/>
+		<nd ref="1831108084"/>
+		<nd ref="1831108083"/>
+		<nd ref="5841674948"/>
+		<nd ref="5841674949"/>
+		<nd ref="5841674950"/>
+		<nd ref="5841674947"/>
+		<nd ref="1831108086"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="mosque"/>
+		<tag k="int_name" v="Mustafa-pašina džamija"/>
+		<tag k="name" v="Мустафа-пашина џамија"/>
+		<tag k="name:bg" v="Мустафа паша джамия"/>
+		<tag k="name:de" v="Mustafa-Pascha-Moschee"/>
+		<tag k="name:en" v="Mustafa Pasha&#39;s Mosque"/>
+		<tag k="name:fr" v="Mosquée Mustafa Pacha"/>
+		<tag k="name:mk" v="Мустафа-пашина џамија"/>
+		<tag k="name:pl" v="Meczet Mustafy Paszy"/>
+		<tag k="name:ru" v="Мечеть Мустафы-паши"/>
+		<tag k="name:rw" v="Umusigiti wa Mustafa Pasha"/>
+		<tag k="name:sq" v="Xhamia e Mustafë Pashës"/>
+		<tag k="name:sr" v="Мустафа-пашина џамија"/>
+		<tag k="name:tr" v="Mustafa Paşa Camii"/>
+		<tag k="religion" v="muslim"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wikidata" v="Q1267418"/>
+		<tag k="wikipedia" v="mk:Мустафа-пашина џамија"/>
+	</way>
+	<way id="175265123" version="15" timestamp="2022-11-11T06:55:58Z" changeset="128761985" uid="3423733" user="A_Ku">
+		<nd ref="1858800091"/>
+		<nd ref="1858800153"/>
+		<nd ref="1858800251"/>
+		<nd ref="1880502639"/>
+		<nd ref="1858800108"/>
+		<nd ref="1880502637"/>
+		<nd ref="1858800091"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="amenity" v="place_of_worship"/>
+		<tag k="building" v="church"/>
+		<tag k="denomination" v="orthodox"/>
+		<tag k="name" v="Соборен храм Свети Климент Охридски"/>
+		<tag k="name:en" v="Church of St. Clement of Ohrid"/>
+		<tag k="name:pl" v="Cerkiew Świetego Klemensa Ochrydzkiego"/>
+		<tag k="name:tr" v="Ohri Aziz Clement Katedral Kilisesi"/>
+		<tag k="religion" v="christian"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wikidata" v="Q1758749"/>
+		<tag k="wikipedia" v="en:Church of St. Clement of Ohrid"/>
+	</way>
+	<way id="175476254" version="23" timestamp="2022-11-11T06:55:52Z" changeset="128761985" uid="3423733" user="A_Ku">
+		<nd ref="368007319"/>
+		<nd ref="368007320"/>
+		<nd ref="6240101719"/>
+		<nd ref="368007321"/>
+		<nd ref="6240101720"/>
+		<nd ref="6240101721"/>
+		<nd ref="368007323"/>
+		<nd ref="6240101722"/>
+		<nd ref="6240101723"/>
+		<nd ref="368007324"/>
+		<nd ref="6240101724"/>
+		<nd ref="368007325"/>
+		<nd ref="6240101725"/>
+		<nd ref="6240101726"/>
+		<nd ref="368007326"/>
+		<nd ref="368007327"/>
+		<nd ref="368007328"/>
+		<nd ref="368007329"/>
+		<nd ref="368007281"/>
+		<nd ref="368007283"/>
+		<nd ref="5319293669"/>
+		<nd ref="5319293670"/>
+		<nd ref="368007285"/>
+		<nd ref="5319293671"/>
+		<nd ref="1861067537"/>
+		<nd ref="1861067559"/>
+		<nd ref="1868678626"/>
+		<nd ref="1868678617"/>
+		<nd ref="1868678612"/>
+		<nd ref="1868678602"/>
+		<nd ref="1868678609"/>
+		<nd ref="1868678595"/>
+		<nd ref="6240100108"/>
+		<nd ref="1868678614"/>
+		<nd ref="6240100109"/>
+		<nd ref="6240100110"/>
+		<nd ref="6240100111"/>
+		<nd ref="6240100112"/>
+		<nd ref="6240100114"/>
+		<nd ref="6240100115"/>
+		<nd ref="6240100113"/>
+		<nd ref="368007286"/>
+		<nd ref="3903403859"/>
+		<nd ref="5319293688"/>
+		<nd ref="368007292"/>
+		<nd ref="368007293"/>
+		<nd ref="368007296"/>
+		<nd ref="368007297"/>
+		<nd ref="4136023133"/>
+		<nd ref="368007298"/>
+		<nd ref="5622136956"/>
+		<nd ref="5622136950"/>
+		<nd ref="368007299"/>
+		<nd ref="309892543"/>
+		<nd ref="4136023128"/>
+		<nd ref="368007301"/>
+		<nd ref="5025833453"/>
+		<nd ref="5025833451"/>
+		<nd ref="368007302"/>
+		<nd ref="5297362520"/>
+		<nd ref="5297362519"/>
+		<nd ref="368007303"/>
+		<nd ref="368007304"/>
+		<nd ref="1306932107"/>
+		<nd ref="5297364424"/>
+		<nd ref="10167415313"/>
+		<nd ref="5297364425"/>
+		<nd ref="5297364422"/>
+		<nd ref="5297364421"/>
+		<nd ref="5297364435"/>
+		<nd ref="5297364445"/>
+		<nd ref="368007307"/>
+		<nd ref="5297364444"/>
+		<nd ref="5297364436"/>
+		<nd ref="368007308"/>
+		<nd ref="368007309"/>
+		<nd ref="4161121802"/>
+		<nd ref="446257687"/>
+		<nd ref="4140369193"/>
+		<nd ref="446257685"/>
+		<nd ref="446257683"/>
+		<nd ref="446257682"/>
+		<nd ref="446257681"/>
+		<nd ref="446257680"/>
+		<nd ref="446257679"/>
+		<nd ref="446257678"/>
+		<nd ref="4908711073"/>
+		<nd ref="446257677"/>
+		<nd ref="446257676"/>
+		<nd ref="446257693"/>
+		<nd ref="446257692"/>
+		<nd ref="446257691"/>
+		<nd ref="446257690"/>
+		<nd ref="4161121803"/>
+		<nd ref="368007319"/>
+		<tag k="int_name" v="Gradski Park"/>
+		<tag k="leisure" v="park"/>
+		<tag k="name" v="Градски парк"/>
+		<tag k="name:de" v="Stadtpark"/>
+		<tag k="name:en" v="City Park"/>
+		<tag k="name:pl" v="Park Miejski"/>
+		<tag k="name:tr" v="City Park"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wikidata" v="Q12905885"/>
+		<tag k="wikipedia" v="mk:Градски парк (Скопје)"/>
+	</way>
+	<way id="474869860" version="4" timestamp="2019-10-19T06:50:19Z" changeset="75921367" uid="10392631" user="gnckdr">
+		<nd ref="1908098430"/>
+		<nd ref="4687310378"/>
+		<nd ref="4687310379"/>
+		<nd ref="310291590"/>
+		<nd ref="1908098428"/>
+		<nd ref="1908098430"/>
+		<tag k="amenity" v="marketplace"/>
+		<tag k="building" v="yes"/>
+		<tag k="name" v="Турска Чаршија"/>
+		<tag k="name:bg" v="Стара скопска чаршия"/>
+		<tag k="name:de" v="Alter Basar"/>
+		<tag k="name:en" v="Turkish Bazaar"/>
+		<tag k="name:fr" v="Vieux bazar"/>
+		<tag k="name:it" v="Vecchio Bazar"/>
+		<tag k="name:ja" v="スタラ・チャルシヤ"/>
+		<tag k="name:ru" v="Старая Чаршия"/>
+		<tag k="name:sq" v="Çarshia e vjetër e Shkupit"/>
+		<tag k="name:sr" v="Стара скопска чаршија"/>
+		<tag k="name:tr" v="Üsküp Türk Çarşısı"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wikidata" v="Q387"/>
+		<tag k="wikipedia" v="mk:Стара скопска чаршија"/>
+	</way>
+	<way id="474873958" version="4" timestamp="2019-05-16T12:44:27Z" changeset="70317238" uid="158784" user="bjankuloski">
+		<nd ref="1830951707"/>
+		<nd ref="4431829374"/>
+		<nd ref="1881184546"/>
+		<nd ref="1881184631"/>
+		<nd ref="1881184593"/>
+		<nd ref="1881184551"/>
+		<nd ref="1881184678"/>
+		<nd ref="1830951691"/>
+		<nd ref="393713609"/>
+		<nd ref="393713611"/>
+		<nd ref="393713613"/>
+		<nd ref="393713619"/>
+		<nd ref="393713617"/>
+		<nd ref="1830951705"/>
+		<nd ref="1830951701"/>
+		<nd ref="1830951684"/>
+		<nd ref="1830951679"/>
+		<nd ref="393713781"/>
+		<nd ref="4128439179"/>
+		<nd ref="4687349454"/>
+		<nd ref="4431828723"/>
+		<nd ref="1881184639"/>
+		<nd ref="1881184569"/>
+		<nd ref="1881184647"/>
+		<nd ref="1881184637"/>
+		<nd ref="1881184685"/>
+		<nd ref="1881184597"/>
+		<nd ref="1881184543"/>
+		<nd ref="1881184561"/>
+		<nd ref="1881184698"/>
+		<nd ref="1881184626"/>
+		<nd ref="1881184605"/>
+		<nd ref="6381974614"/>
+		<nd ref="1881184630"/>
+		<nd ref="1881184682"/>
+		<nd ref="1881184635"/>
+		<nd ref="1881184588"/>
+		<nd ref="1881184559"/>
+		<nd ref="1881184557"/>
+		<nd ref="1881184642"/>
+		<nd ref="1881184676"/>
+		<nd ref="1881184666"/>
+		<nd ref="1881184634"/>
+		<nd ref="1881184609"/>
+		<nd ref="1881184572"/>
+		<nd ref="1881184586"/>
+		<nd ref="1881184567"/>
+		<nd ref="1881184570"/>
+		<nd ref="1881184668"/>
+		<nd ref="1881184539"/>
+		<nd ref="1830951685"/>
+		<nd ref="1830951711"/>
+		<nd ref="6381974528"/>
+		<nd ref="6381974529"/>
+		<nd ref="1830951697"/>
+		<nd ref="6381974530"/>
+		<nd ref="6381974531"/>
+		<nd ref="6381974532"/>
+		<nd ref="1830951688"/>
+		<nd ref="1881184640"/>
+		<nd ref="369750026"/>
+		<nd ref="6381974533"/>
+		<nd ref="1881184686"/>
+		<nd ref="1830951696"/>
+		<nd ref="1830951706"/>
+		<nd ref="4687349455"/>
+		<nd ref="1830951714"/>
+		<nd ref="6381974258"/>
+		<nd ref="1830951707"/>
+		<tag k="alt_name" v="Тврдина Кале"/>
+		<tag k="alt_name:mk" v="Скопска тврдина"/>
+		<tag k="alt_name:sr" v="Скопска тврђава"/>
+		<tag k="archaeological_site" v="yes"/>
+		<tag k="area" v="yes"/>
+		<tag k="historic" v="castle"/>
+		<tag k="int_name" v="Skopsko Kale"/>
+		<tag k="name" v="Скопско кале"/>
+		<tag k="name:en" v="Skopje Fortress"/>
+		<tag k="name:ru" v="Крепость Скопье"/>
+		<tag k="name:sq" v="Kalaja e Shkupit"/>
+		<tag k="name:sr" v="Скопско кале"/>
+		<tag k="name:tr" v="Üsküp Kalesi"/>
+		<tag k="opening_hours" v="07:00-19:00"/>
+		<tag k="ruins" v="yes"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="wheelchair" v="limited"/>
+		<tag k="wikidata" v="Q1262367"/>
+		<tag k="wikipedia" v="mk:Скопско Kале"/>
+	</way>
+	<way id="476192899" version="9" timestamp="2021-07-29T10:09:57Z" changeset="108814898" uid="9281375" user="Hartigan">
+		<nd ref="8433354022"/>
+		<nd ref="8100885046"/>
+		<nd ref="8433354023"/>
+		<nd ref="6875389567"/>
+		<nd ref="6875389568"/>
+		<nd ref="6875389569"/>
+		<nd ref="6875389570"/>
+		<nd ref="6875389576"/>
+		<nd ref="6875389577"/>
+		<nd ref="6875389578"/>
+		<nd ref="6875389579"/>
+		<nd ref="6875389573"/>
+		<nd ref="6875389580"/>
+		<nd ref="6875389572"/>
+		<nd ref="6875389581"/>
+		<nd ref="6875389582"/>
+		<nd ref="6875390087"/>
+		<nd ref="6875390086"/>
+		<nd ref="6875390085"/>
+		<nd ref="6875389584"/>
+		<nd ref="6875389583"/>
+		<nd ref="8430359813"/>
+		<nd ref="8430359812"/>
+		<nd ref="4698327691"/>
+		<nd ref="6875390088"/>
+		<nd ref="6875390089"/>
+		<nd ref="6875390090"/>
+		<nd ref="6875390091"/>
+		<nd ref="6875390092"/>
+		<nd ref="6875390093"/>
+		<nd ref="6875390094"/>
+		<nd ref="6875389574"/>
+		<nd ref="6875390095"/>
+		<nd ref="6875389575"/>
+		<nd ref="6875390103"/>
+		<nd ref="6875390102"/>
+		<nd ref="6875390101"/>
+		<nd ref="6875390100"/>
+		<nd ref="6875390099"/>
+		<nd ref="6875390098"/>
+		<nd ref="6875390097"/>
+		<nd ref="6875390096"/>
+		<nd ref="8433354022"/>
+		<tag k="area" v="yes"/>
+		<tag k="bridge:structure" v="beam"/>
+		<tag k="layer" v="1"/>
+		<tag k="man_made" v="bridge"/>
+		<tag k="name" v="Мост на уметноста"/>
+		<tag k="name:en" v="Bridge of Artists"/>
+		<tag k="tourism" v="attraction"/>
+	</way>
+	<relation id="2351791" version="9" timestamp="2021-11-21T07:54:08Z" changeset="114048578" uid="10703654" user="Aaro Hart">
+		<member type="way" ref="176164721" role="outer"/>
+		<member type="way" ref="176160189" role="inner"/>
+		<member type="way" ref="419530749" role="inner"/>
+		<tag k="highway" v="pedestrian"/>
+		<tag k="lit" v="yes"/>
+		<tag k="name" v="Плоштад Македонија"/>
+		<tag k="name:ar" v="إسكوبية"/>
+		<tag k="name:de" v="Mazedonischer Platz"/>
+		<tag k="name:en" v="Macedonia Square"/>
+		<tag k="name:fr" v="Place de Macédoine"/>
+		<tag k="place" v="square"/>
+		<tag k="smoothness" v="excellent"/>
+		<tag k="surface" v="paving_stones"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="type" v="multipolygon"/>
+	</relation>
+	<relation id="5360060" version="3" timestamp="2017-03-20T11:04:40Z" changeset="47009177" uid="339581" user="nyuriks">
+		<member type="way" ref="77127892" role="inner"/>
+		<member type="way" ref="77127897" role="outer"/>
+		<tag k="addr:city" v="Cкoпje"/>
+		<tag k="addr:city:en" v="Skopje"/>
+		<tag k="addr:country" v="MK"/>
+		<tag k="addr:postcode" v="1000"/>
+		<tag k="building" v="yes"/>
+		<tag k="int_name" v="Kapan AN"/>
+		<tag k="name" v="Капан АН"/>
+		<tag k="opening_hours" v="24/7"/>
+		<tag k="tourism" v="attraction"/>
+		<tag k="type" v="multipolygon"/>
+		<tag k="wheelchair" v="limited"/>
+		<tag k="wikidata" v="Q1283741"/>
+		<tag k="wikipedia" v="mk:Капан ан"/>
+	</relation>
+</osm>
