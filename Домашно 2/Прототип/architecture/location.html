@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <title>Location</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+   <link rel="stylesheet" href="assets/css/templatemo-woox-travel.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+    <style>
+
+        #kategorii {
+            border: 3px solid cornflowerblue;
+            border-radius: 20px;
+            padding-right: 20px;
+
+        }
+
+        #kategorii li {
+            margin: 10px 10px 10px 10px;
+            text-align: center;
+        }
+
+        #kategorii li a {
+            color: black;
+        }
+
+        #kategorii li a:hover {
+            color: red;
+        }
+        #kategorii li:hover{
+            padding-left:10px;
+        }
+
+        #map {
+            border: 3px solid cornflowerblue;
+            border-radius: 20px;
+
+        }
+
+      .row{
+          display: flex;
+      }
+        .col-md-2{
+            margin-top:150px;
+            flex:1;
+        }
+    </style>
+
+
+
+
+
+</head>
+
+<body>
+
+<!-- ***** Preloader Start ***** -->
+<div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+        <span class="dot"></span>
+        <div class="dots">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</div>
+<!-- ***** Preloader End ***** -->
+
+<!-- ***** Header Area Start ***** -->
+<header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="index.html" class="logo">
+                        <img src="assets/images/logo.png" alt="">
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="places.html" class="active">Places</a></li>
+
+                    </ul>
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- ***** Header Area End ***** -->
+
+<div class='main_content' >
+    <div class="row" >
+        <div class="col-md-2" >
+            <h2>Location Information</h2>
+            <ul id="kategorii"  >
+                <li><p>Name: Skopje Fortress</p></li>
+                <li><p>Address: Samoilova</p></li>
+            </ul>
+        </div>
+        <div id="map" >
+            <iframe width=100% height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=21.42894566059113%2C41.99967932893987%2C21.434932351112366%2C42.001923722407355&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/42.00080/21.43194">View Larger Map</a></small>
+        </div>
+
+    </div>
+</div>
+
+
+<!-- Scripts -->
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<script src="assets/js/isotope.min.js"></script>
+<script src="assets/js/owl-carousel.js"></script>
+<script src="assets/js/wow.js"></script>
+<script src="assets/js/tabs.js"></script>
+<script src="assets/js/popup.js"></script>
+<script src="assets/js/custom.js"></script>
+
+<script>
+    $(".option").click(function(){
+        $(".option").removeClass("active");
+        $(this).addClass("active");
+    });
+</script>
+
+
+
+
+</body>
+
+</html>
