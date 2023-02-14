@@ -1,6 +1,6 @@
 package mk.ukim.mk.roadtoskopje.web.controller;
-import mk.ukim.mk.roadtoskopje.repository.RestaurantRepository;
 
+import mk.ukim.mk.roadtoskopje.service.RestaurantService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,14 +12,15 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin("*")
 public class RestaurantController {
 
-    private final RestaurantRepository repository;
+    private final RestaurantService restaurantService;
 
-    public RestaurantController(RestaurantRepository repository) {
-        this.repository = repository;
+    public RestaurantController(RestaurantService restaurantService) {
+        this.restaurantService = restaurantService;
     }
+
 
     @GetMapping
     public ResponseEntity getAllRestaurants() {
-        return ResponseEntity.ok(this.repository.findByNameNotNull());
+        return ResponseEntity.ok(this.restaurantService.listAll());
     }
 }

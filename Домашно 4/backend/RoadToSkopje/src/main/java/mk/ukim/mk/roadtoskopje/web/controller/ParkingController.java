@@ -1,6 +1,6 @@
 package mk.ukim.mk.roadtoskopje.web.controller;
 
-import mk.ukim.mk.roadtoskopje.repository.ParkingRepository;
+import mk.ukim.mk.roadtoskopje.service.ParkingService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,14 +12,15 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin(origins = "http://localhost:3000")
 public class ParkingController {
 
-    private final ParkingRepository repository;
+    private final ParkingService parkingService;
 
-    public ParkingController(ParkingRepository repository) {
-        this.repository =  repository;
+    public ParkingController(ParkingService parkingService) {
+        this.parkingService = parkingService;
     }
+
 
     @GetMapping
     public ResponseEntity getAllParkings() {
-        return ResponseEntity.ok(this.repository.findAll());
+        return ResponseEntity.ok(this.parkingService.listAll());
     }
 }

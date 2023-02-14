@@ -1,6 +1,6 @@
 package mk.ukim.mk.roadtoskopje.web.controller;
 
-import mk.ukim.mk.roadtoskopje.repository.MotelRepository;
+import mk.ukim.mk.roadtoskopje.service.MotelService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -12,14 +12,13 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin(origins = "http://localhost:3000")
 public class MotelController {
 
-    private final MotelRepository repository;
+    private final MotelService motelService;
 
-    public MotelController(MotelRepository repository) {
-        this.repository = repository;
+    public MotelController(MotelService motelService) {
+        this.motelService = motelService;
     }
-
     @GetMapping
     public ResponseEntity getAllMotels() {
-        return ResponseEntity.ok(this.repository.findAll());
+        return ResponseEntity.ok(this.motelService.listAll());
     }
 }
