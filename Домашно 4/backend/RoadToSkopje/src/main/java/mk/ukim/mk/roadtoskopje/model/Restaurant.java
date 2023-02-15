@@ -3,7 +3,9 @@ package mk.ukim.mk.roadtoskopje.model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.Data;
-
+/**
+ * Java class for Restaurants in Skopje.
+ */
 @Entity
 public class Restaurant {
 
@@ -17,7 +19,26 @@ public class Restaurant {
 
     public Restaurant() {
     }
+    /**
+     * Constructor with all parameters.
+     *
+     * @param id
+     * @param lon
+     * @param lat
+     * @param name
+     * @param website
+     * @param phone
+     */
+    public Restaurant(long id, double lon, double lat, String name, String website, String phone) {
+        this.id = id;
+        this.lon = lon;
+        this.lat = lat;
+        this.name = name;
+        this.website = website;
+        this.phone = phone;
+    }
 
+    //GET AND SET METHODS
     public long getId() {
         return id;
     }

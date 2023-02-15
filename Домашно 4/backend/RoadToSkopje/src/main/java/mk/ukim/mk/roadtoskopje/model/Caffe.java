@@ -4,9 +4,10 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-
+/**
+ * Java class for Caffe in Skopje.
+ */
 @Entity
-
 public class Caffe {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -20,6 +21,26 @@ public class Caffe {
 
     }
 
+    /**
+     * Constructor with all parameters.
+     *
+     * @param id
+     * @param lon
+     * @param lat
+     * @param name
+     * @param website
+     * @param phone
+     */
+    public Caffe(long id, double lon, double lat, String name, String website, String phone) {
+        this.id = id;
+        this.lon = lon;
+        this.lat = lat;
+        this.name = name;
+        this.website = website;
+        this.phone = phone;
+    }
+
+    //GET AND SET METHODS:
     public long getId() {
         return id;
     }

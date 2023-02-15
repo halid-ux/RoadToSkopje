@@ -2,8 +2,9 @@ package mk.ukim.mk.roadtoskopje.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-
-
+/**
+ * Java class for Parkings in Skopje.
+ */
 @Entity
 public class Parking {
     @Id
@@ -16,7 +17,26 @@ public class Parking {
 
     public Parking() {
     }
+    /**
+     * Constructor with all parameters.
+     *
+     * @param id
+     * @param lon
+     * @param lat
+     * @param name
+     * @param website
+     * @param phone
+     */
+    public Parking(long id, double lon, double lat, String name, String website, String phone) {
+        this.id = id;
+        this.lon = lon;
+        this.lat = lat;
+        this.name = name;
+        this.website = website;
+        this.phone = phone;
+    }
 
+    //GET AND SET METHODS
     public long getId() {
         return id;
     }
