@@ -3,8 +3,6 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "../../index.css";
 
 export default function LocationMapView({lon, lat, name}) {
-    console.log(lon)
-    console.log(lat)
     return (
         <>
           <MapContainer center={[lon,lat]} zoom={12}  >
