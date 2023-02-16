@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const fetchData = () => {
-    return fetch('http://localhost:8081/api/fountains')
+    return fetch('https://skopjeguide.francecentral.cloudapp.azure.com/api/fountains')
         .then(data => data.json());
 }
 

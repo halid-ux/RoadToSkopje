@@ -16,11 +16,9 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
-const fetchData = async () => {
-    const response = await fetch('http://localhost:8081/api/hotels')
+const fetchData = () => {
+    return fetch('https://skopjeguide.francecentral.cloudapp.azure.com/api/hotels')
         .then(data => data.json());
-    console.log(response)
-    return response
 }
 
 export default function HotelsList() {
@@ -53,7 +51,7 @@ export default function HotelsList() {
             <>
                 <h2>Hotels:</h2>
                 <List dense className={classes.root} style={{width: "175%"}}>
-                    {hotels.length !== 0 && hotels.map((value, index) => {
+                    {hotels && hotels.map((value, index) => {
                         const labelId = `checkbox-list-secondary-label-${index}`;
                         return (
                             <div style={{height: "300px", width: "500px"}}>
